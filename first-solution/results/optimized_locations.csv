@@ -1,0 +1,31 @@
+city_name,plz,city_type,patients_covered_weighted,patients_covered_total
+Düsseldorf,40213,Top 200,9571.58,13309
+Berlin,10178,Top 200,11630.06,11768
+Bergisch Gladbach,51465,Top 200,6496.85,8286
+Dinslaken,46535,Top 200,5596.28,7496
+Bargteheide,22941,Standard,4397.36,6199
+Unna,59423,Top 200,4252.56,5598
+Fürstenfeldbruck,82256,Standard,3897.01,5510
+Mainz,55116,Top 200,2783.78,3893
+Friedberg (Hessen),61169,Standard,2437.0,3489
+Esslingen am Neckar,73728,Top 200,3074.37,3456
+Delmenhorst,27749,Top 200,2108.47,2396
+Düren,52349,Top 200,1590.97,2255
+Halle (Saale),06108,Top 200,1553.95,2248
+Lage,32791,Standard,1557.51,2035
+Mannheim,68159,Top 200,1774.06,1967
+Erlangen,91051,Top 200,1660.03,1822
+Hannover,30159,Top 200,1622.08,1797
+Karlsruhe,76133,Top 200,1177.38,1401
+Dresden,01067,Top 200,1373.61,1380
+Braunschweig,38100,Top 200,1163.61,1319
+Lengerich,49525,Standard,908.25,1277
+Zwickau,08056,Top 200,666.17,1023
+Elzach,79215,Standard,632.46,974
+Weimar,99423,Top 200,735.07,897
+Heidenheim an der Brenz,89522,Top 200,569.11,792
+Kiel,24103,Top 200,700.93,773
+Hann. Münden,34346,Standard,606.89,750
+Barby,39249,Standard,521.76,734
+Neustadt a.d.Donau,93333,Standard,403.19,653
+Bremerhaven,27576,Top 200,441.71,581
