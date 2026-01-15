@@ -1,0 +1,5345 @@
+plz5,city_name,customer_count
+01053,Dresden,67
+01054,Dresden,84
+01055,Dresden,74
+01055,Rural Area / Others,1
+01056,Dresden,72
+01056,Rural Area / Others,1
+01057,Dresden,87
+01058,Dresden,80
+01058,Rural Area / Others,1
+01059,Dresden,88
+01059,Rural Area / Others,1
+01060,Dresden,83
+01060,Rural Area / Others,1
+01062,Dresden,97
+01062,Rural Area / Others,1
+01063,Dresden,87
+01064,Dresden,115
+01064,Rural Area / Others,1
+01065,Dresden,59
+01067,Dresden,81
+01069,Dresden,86
+01070,Dresden,80
+01099,Rural Area / Others,1
+01109,Rural Area / Others,1
+01129,Rural Area / Others,1
+01213,Rural Area / Others,1
+01239,Rural Area / Others,1
+01257,Rural Area / Others,1
+01259,Rural Area / Others,1
+01279,Rural Area / Others,1
+01303,Rural Area / Others,1
+01324,Rural Area / Others,1
+01326,Rural Area / Others,1
+01332,Rural Area / Others,1
+01445,Rural Area / Others,1
+01465,Rural Area / Others,1
+01471,Rural Area / Others,2
+01477,Rural Area / Others,1
+01561,Rural Area / Others,1
+01585,Rural Area / Others,1
+01591,Rural Area / Others,2
+01612,Rural Area / Others,1
+01616,Rural Area / Others,1
+01619,Rural Area / Others,1
+01665,Rural Area / Others,1
+01683,Rural Area / Others,1
+01723,Rural Area / Others,1
+01728,Rural Area / Others,2
+01730,Rural Area / Others,1
+01734,Rural Area / Others,1
+01762,Rural Area / Others,1
+01768,Rural Area / Others,1
+01773,Rural Area / Others,1
+01776,Rural Area / Others,2
+01793,Rural Area / Others,1
+01814,Rural Area / Others,2
+01819,Rural Area / Others,1
+01829,Rural Area / Others,1
+01844,Rural Area / Others,1
+01847,Rural Area / Others,1
+01855,Rural Area / Others,1
+01877,Rural Area / Others,1
+01900,Rural Area / Others,1
+01920,Rural Area / Others,1
+01936,Rural Area / Others,1
+01979,Rural Area / Others,1
+01996,Rural Area / Others,2
+02619,Rural Area / Others,2
+02681,Rural Area / Others,1
+02692,Rural Area / Others,1
+02727,Rural Area / Others,1
+02733,Rural Area / Others,1
+02747,Rural Area / Others,2
+02779,Rural Area / Others,1
+02799,Rural Area / Others,1
+02826,Görlitz,46
+02827,Görlitz,28
+02827,Rural Area / Others,1
+02828,Görlitz,25
+02828,Rural Area / Others,1
+02829,Görlitz,22
+02956,Rural Area / Others,2
+02957,Rural Area / Others,1
+02977,Rural Area / Others,1
+02999,Rural Area / Others,1
+03039,Cottbus/Chóśebuz,21
+03042,Cottbus/Chóśebuz,12
+03044,Cottbus/Chóśebuz,12
+03046,Cottbus/Chóśebuz,22
+03048,Cottbus/Chóśebuz,17
+03048,Rural Area / Others,1
+03050,Cottbus/Chóśebuz,11
+03051,Cottbus/Chóśebuz,19
+03052,Cottbus/Chóśebuz,13
+03053,Cottbus/Chóśebuz,16
+03054,Cottbus/Chóśebuz,14
+03055,Cottbus/Chóśebuz,16
+03058,Cottbus/Chóśebuz,17
+03065,Cottbus/Chóśebuz,18
+03099,Rural Area / Others,2
+03116,Rural Area / Others,1
+03119,Rural Area / Others,1
+03139,Rural Area / Others,1
+03149,Rural Area / Others,2
+03197,Rural Area / Others,1
+03202,Rural Area / Others,1
+03222,Rural Area / Others,1
+04056,Leipzig,58
+04063,Leipzig,54
+04064,Leipzig,49
+04064,Rural Area / Others,1
+04079,Leipzig,55
+04080,Leipzig,61
+04081,Leipzig,49
+04082,Leipzig,52
+04083,Leipzig,60
+04084,Leipzig,65
+04086,Leipzig,55
+04087,Leipzig,45
+04088,Leipzig,45
+04089,Leipzig,64
+04091,Leipzig,66
+04092,Leipzig,59
+04095,Leipzig,55
+04097,Leipzig,70
+04103,Leipzig,69
+04103,Rural Area / Others,1
+04105,Leipzig,66
+04105,Rural Area / Others,1
+04107,Leipzig,72
+04109,Leipzig,87
+04129,Leipzig,49
+04150,Leipzig,45
+04151,Leipzig,53
+04155,Leipzig,52
+04157,Leipzig,48
+04157,Rural Area / Others,1
+04158,Leipzig,54
+04158,Rural Area / Others,1
+04159,Leipzig,67
+04159,Rural Area / Others,1
+04160,Leipzig,63
+04177,Leipzig,53
+04177,Rural Area / Others,1
+04178,Leipzig,55
+04178,Rural Area / Others,1
+04179,Leipzig,61
+04207,Rural Area / Others,1
+04209,Rural Area / Others,1
+04227,Rural Area / Others,1
+04229,Rural Area / Others,1
+04277,Rural Area / Others,1
+04299,Rural Area / Others,1
+04310,Rural Area / Others,1
+04315,Rural Area / Others,1
+04316,Rural Area / Others,1
+04317,Rural Area / Others,1
+04319,Rural Area / Others,2
+04328,Rural Area / Others,1
+04329,Rural Area / Others,1
+04519,Rural Area / Others,1
+04523,Rural Area / Others,2
+04550,Rural Area / Others,2
+04565,Rural Area / Others,1
+04574,Rural Area / Others,2
+04600,Rural Area / Others,1
+04603,Rural Area / Others,1
+04655,Rural Area / Others,2
+04668,Rural Area / Others,3
+04680,Rural Area / Others,1
+04688,Rural Area / Others,1
+04736,Rural Area / Others,1
+04758,Rural Area / Others,2
+04774,Rural Area / Others,1
+04821,Rural Area / Others,2
+04824,Rural Area / Others,1
+04838,Rural Area / Others,2
+04860,Rural Area / Others,1
+04889,Rural Area / Others,2
+04895,Rural Area / Others,1
+04916,Rural Area / Others,1
+04931,Rural Area / Others,1
+04932,Rural Area / Others,1
+04934,Rural Area / Others,1
+04936,Rural Area / Others,1
+06075,Rural Area / Others,1
+06089,Halle (Saale),23
+06090,Halle (Saale),16
+06090,Rural Area / Others,1
+06091,Halle (Saale),25
+06091,Rural Area / Others,1
+06092,Halle (Saale),23
+06092,Rural Area / Others,1
+06094,Halle (Saale),14
+06095,Halle (Saale),15
+06097,Halle (Saale),34
+06098,Halle (Saale),21
+06099,Halle (Saale),20
+06100,Halle (Saale),17
+06103,Halle (Saale),27
+06104,Halle (Saale),18
+06104,Rural Area / Others,2
+06105,Halle (Saale),13
+06106,Halle (Saale),24
+06108,Halle (Saale),23
+06110,Halle (Saale),17
+06112,Halle (Saale),18
+06114,Halle (Saale),14
+06114,Rural Area / Others,1
+06116,Halle (Saale),20
+06118,Halle (Saale),23
+06120,Halle (Saale),20
+06122,Halle (Saale),18
+06124,Halle (Saale),10
+06126,Halle (Saale),23
+06128,Halle (Saale),22
+06146,Rural Area / Others,1
+06184,Rural Area / Others,1
+06198,Rural Area / Others,1
+06242,Rural Area / Others,1
+06246,Rural Area / Others,2
+06255,Rural Area / Others,1
+06308,Rural Area / Others,1
+06359,Rural Area / Others,1
+06386,Rural Area / Others,1
+06406,Rural Area / Others,1
+06425,Rural Area / Others,1
+06429,Rural Area / Others,1
+06507,Rural Area / Others,1
+06528,Rural Area / Others,2
+06536,Rural Area / Others,2
+06556,Rural Area / Others,2
+06571,Rural Area / Others,1
+06578,Rural Area / Others,1
+06628,Rural Area / Others,1
+06632,Rural Area / Others,1
+06688,Rural Area / Others,1
+06712,Rural Area / Others,1
+06721,Rural Area / Others,1
+06727,Rural Area / Others,1
+06729,Rural Area / Others,1
+06731,Rural Area / Others,1
+06773,Rural Area / Others,1
+06779,Rural Area / Others,1
+06808,Rural Area / Others,1
+06838,Dessau-Roßlau,13
+06839,Dessau-Roßlau,21
+06842,Dessau-Roßlau,17
+06844,Dessau-Roßlau,25
+06846,Dessau-Roßlau,11
+06847,Dessau-Roßlau,12
+06849,Dessau-Roßlau,16
+06861,Dessau-Roßlau,23
+06862,Dessau-Roßlau,27
+06901,Rural Area / Others,1
+07318,Rural Area / Others,1
+07330,Rural Area / Others,1
+07356,Rural Area / Others,1
+07387,Rural Area / Others,1
+07407,Rural Area / Others,2
+07422,Rural Area / Others,1
+07541,Gera,25
+07541,Rural Area / Others,1
+07543,Gera,17
+07545,Gera,25
+07546,Gera,16
+07548,Gera,17
+07548,Rural Area / Others,1
+07549,Gera,26
+07551,Gera,19
+07552,Gera,23
+07554,Gera,22
+07557,Gera,19
+07607,Rural Area / Others,1
+07613,Rural Area / Others,1
+07616,Rural Area / Others,1
+07737,Jena,32
+07737,Rural Area / Others,1
+07738,Jena,25
+07738,Rural Area / Others,1
+07739,Jena,14
+07740,Jena,23
+07743,Jena,43
+07745,Jena,36
+07747,Jena,27
+07749,Jena,19
+07749,Rural Area / Others,2
+07751,Jena,21
+07929,Rural Area / Others,1
+07952,Rural Area / Others,1
+07957,Rural Area / Others,1
+07987,Rural Area / Others,1
+08037,Rural Area / Others,1
+08037,Zwickau,32
+08048,Zwickau,13
+08056,Rural Area / Others,2
+08056,Zwickau,25
+08058,Zwickau,24
+08060,Zwickau,17
+08062,Rural Area / Others,2
+08062,Zwickau,29
+08064,Rural Area / Others,1
+08064,Zwickau,26
+08066,Zwickau,25
+08081,Rural Area / Others,1
+08115,Rural Area / Others,2
+08118,Rural Area / Others,1
+08132,Rural Area / Others,1
+08144,Rural Area / Others,1
+08223,Rural Area / Others,1
+08233,Rural Area / Others,1
+08237,Rural Area / Others,1
+08239,Rural Area / Others,1
+08248,Rural Area / Others,1
+08258,Rural Area / Others,1
+08262,Rural Area / Others,1
+08280,Rural Area / Others,1
+08301,Rural Area / Others,1
+08304,Rural Area / Others,1
+08309,Rural Area / Others,2
+08318,Rural Area / Others,1
+08321,Rural Area / Others,1
+08324,Rural Area / Others,2
+08325,Rural Area / Others,2
+08326,Rural Area / Others,1
+08373,Rural Area / Others,1
+08432,Rural Area / Others,1
+08439,Rural Area / Others,1
+08451,Rural Area / Others,1
+08459,Rural Area / Others,1
+08468,Rural Area / Others,2
+08485,Rural Area / Others,1
+08491,Rural Area / Others,1
+08520,Plauen,10
+08523,Plauen,15
+08525,Plauen,16
+08527,Plauen,20
+08529,Plauen,12
+08538,Plauen,14
+08539,Plauen,23
+08541,Plauen,15
+08543,Plauen,19
+08606,Rural Area / Others,1
+09091,Chemnitz,23
+09092,Chemnitz,12
+09093,Chemnitz,21
+09093,Rural Area / Others,1
+09094,Chemnitz,15
+09095,Chemnitz,14
+09096,Chemnitz,13
+09096,Rural Area / Others,1
+09097,Chemnitz,11
+09099,Chemnitz,13
+09100,Chemnitz,12
+09103,Chemnitz,20
+09105,Chemnitz,20
+09105,Rural Area / Others,1
+09106,Chemnitz,16
+09107,Chemnitz,16
+09108,Chemnitz,28
+09109,Chemnitz,18
+09111,Chemnitz,27
+09111,Rural Area / Others,2
+09112,Chemnitz,10
+09113,Chemnitz,19
+09114,Chemnitz,16
+09116,Chemnitz,23
+09116,Rural Area / Others,1
+09117,Chemnitz,13
+09117,Rural Area / Others,1
+09119,Chemnitz,16
+09119,Rural Area / Others,1
+09120,Chemnitz,22
+09122,Chemnitz,14
+09123,Chemnitz,22
+09123,Rural Area / Others,1
+09125,Chemnitz,12
+09126,Chemnitz,14
+09127,Chemnitz,12
+09127,Rural Area / Others,1
+09128,Chemnitz,21
+09130,Chemnitz,24
+09131,Chemnitz,22
+09212,Rural Area / Others,1
+09217,Rural Area / Others,1
+09224,Rural Area / Others,1
+09232,Rural Area / Others,1
+09247,Rural Area / Others,1
+09392,Rural Area / Others,1
+09394,Rural Area / Others,1
+09437,Rural Area / Others,1
+09439,Rural Area / Others,1
+09450,Rural Area / Others,1
+09468,Rural Area / Others,1
+09471,Rural Area / Others,1
+09474,Rural Area / Others,1
+09481,Rural Area / Others,1
+09487,Rural Area / Others,1
+09509,Rural Area / Others,1
+09577,Rural Area / Others,1
+09596,Rural Area / Others,1
+09618,Rural Area / Others,1
+09623,Rural Area / Others,3
+09627,Rural Area / Others,1
+09629,Rural Area / Others,1
+09634,Rural Area / Others,1
+10026,Rural Area / Others,1
+10086,Rural Area / Others,2
+10096,Rural Area / Others,1
+10098,Berlin,498
+10099,Berlin,483
+10102,Berlin,489
+10103,Berlin,423
+10103,Rural Area / Others,2
+10104,Berlin,443
+10104,Rural Area / Others,2
+10105,Berlin,458
+10106,Berlin,462
+10106,Rural Area / Others,1
+10107,Berlin,461
+10108,Berlin,441
+10109,Berlin,494
+10112,Berlin,449
+10115,Berlin,468
+10117,Berlin,492
+10117,Rural Area / Others,1
+10119,Berlin,511
+10150,Berlin,464
+10169,Berlin,451
+10173,Berlin,436
+10178,Berlin,939
+10178,Rural Area / Others,1
+10179,Berlin,502
+10243,Berlin,496
+10245,Berlin,431
+10245,Rural Area / Others,1
+10247,Berlin,462
+10247,Rural Area / Others,1
+10249,Berlin,427
+10318,Rural Area / Others,1
+10356,Rural Area / Others,1
+10358,Rural Area / Others,1
+10365,Rural Area / Others,2
+10439,Rural Area / Others,3
+10553,Rural Area / Others,1
+10555,Rural Area / Others,1
+10559,Rural Area / Others,1
+10585,Rural Area / Others,2
+10589,Rural Area / Others,1
+10617,Rural Area / Others,1
+10627,Rural Area / Others,1
+10629,Rural Area / Others,2
+10709,Rural Area / Others,1
+10713,Rural Area / Others,1
+10715,Rural Area / Others,1
+10717,Rural Area / Others,1
+10772,Rural Area / Others,1
+10773,Rural Area / Others,1
+10774,Rural Area / Others,1
+10779,Rural Area / Others,1
+10783,Rural Area / Others,1
+10785,Rural Area / Others,1
+10787,Rural Area / Others,2
+10827,Rural Area / Others,1
+10858,Rural Area / Others,1
+10863,Rural Area / Others,1
+10868,Rural Area / Others,1
+10871,Rural Area / Others,1
+10876,Rural Area / Others,1
+10884,Rural Area / Others,2
+10886,Rural Area / Others,1
+10896,Rural Area / Others,1
+10901,Rural Area / Others,1
+10904,Rural Area / Others,1
+10909,Rural Area / Others,1
+10965,Rural Area / Others,1
+10969,Rural Area / Others,1
+11010,Rural Area / Others,1
+11011,Rural Area / Others,1
+11013,Rural Area / Others,3
+11052,Rural Area / Others,1
+11053,Rural Area / Others,1
+11501,Rural Area / Others,1
+11516,Rural Area / Others,1
+12028,Rural Area / Others,1
+12032,Rural Area / Others,1
+12038,Rural Area / Others,1
+12039,Rural Area / Others,1
+12040,Rural Area / Others,1
+12047,Rural Area / Others,1
+12053,Rural Area / Others,1
+12055,Rural Area / Others,1
+12095,Rural Area / Others,1
+12096,Rural Area / Others,1
+12101,Rural Area / Others,1
+12105,Rural Area / Others,1
+12109,Rural Area / Others,1
+12161,Rural Area / Others,1
+12167,Rural Area / Others,1
+12203,Rural Area / Others,2
+12209,Rural Area / Others,1
+12274,Rural Area / Others,1
+12305,Rural Area / Others,1
+12349,Rural Area / Others,1
+12355,Rural Area / Others,1
+12439,Rural Area / Others,1
+12459,Rural Area / Others,1
+12489,Rural Area / Others,1
+12524,Rural Area / Others,1
+12557,Rural Area / Others,1
+12627,Rural Area / Others,1
+12679,Rural Area / Others,1
+12681,Rural Area / Others,1
+12685,Rural Area / Others,1
+12712,Rural Area / Others,1
+13048,Rural Area / Others,1
+13051,Rural Area / Others,1
+13055,Rural Area / Others,1
+13127,Rural Area / Others,1
+13156,Rural Area / Others,1
+13359,Rural Area / Others,1
+13405,Rural Area / Others,2
+13409,Rural Area / Others,1
+13465,Rural Area / Others,1
+13467,Rural Area / Others,1
+13583,Rural Area / Others,1
+13595,Rural Area / Others,1
+13599,Rural Area / Others,1
+13619,Rural Area / Others,1
+13622,Rural Area / Others,1
+13624,Rural Area / Others,2
+13629,Rural Area / Others,1
+14045,Rural Area / Others,1
+14059,Rural Area / Others,2
+14163,Rural Area / Others,1
+14167,Rural Area / Others,1
+14169,Rural Area / Others,1
+14191,Rural Area / Others,1
+14199,Rural Area / Others,1
+14424,Rural Area / Others,1
+14456,Potsdam,25
+14456,Rural Area / Others,1
+14457,Potsdam,20
+14457,Rural Area / Others,1
+14458,Potsdam,20
+14459,Potsdam,18
+14459,Rural Area / Others,1
+14461,Potsdam,20
+14461,Rural Area / Others,1
+14462,Potsdam,26
+14463,Potsdam,15
+14464,Potsdam,29
+14464,Rural Area / Others,1
+14465,Potsdam,22
+14465,Rural Area / Others,1
+14467,Potsdam,29
+14469,Potsdam,24
+14471,Potsdam,31
+14473,Potsdam,24
+14476,Potsdam,30
+14478,Potsdam,19
+14480,Potsdam,25
+14482,Potsdam,28
+14482,Rural Area / Others,2
+14513,Rural Area / Others,2
+14547,Rural Area / Others,1
+14550,Rural Area / Others,1
+14558,Rural Area / Others,1
+14728,Rural Area / Others,1
+14765,Brandenburg an der Havel,17
+14765,Rural Area / Others,1
+14767,Brandenburg an der Havel,25
+14770,Brandenburg an der Havel,14
+14770,Rural Area / Others,2
+14772,Brandenburg an der Havel,36
+14774,Brandenburg an der Havel,18
+14774,Rural Area / Others,2
+14776,Brandenburg an der Havel,20
+14778,Brandenburg an der Havel,12
+14778,Rural Area / Others,1
+14789,Brandenburg an der Havel,20
+14789,Rural Area / Others,1
+14798,Rural Area / Others,2
+14823,Rural Area / Others,1
+14828,Rural Area / Others,1
+14943,Rural Area / Others,1
+14979,Rural Area / Others,2
+15220,Frankfurt (Oder),10
+15220,Rural Area / Others,2
+15224,Frankfurt (Oder),11
+15224,Rural Area / Others,2
+15227,Frankfurt (Oder),8
+15228,Frankfurt (Oder),15
+15228,Rural Area / Others,2
+15229,Frankfurt (Oder),12
+15230,Frankfurt (Oder),14
+15232,Frankfurt (Oder),13
+15234,Frankfurt (Oder),27
+15236,Frankfurt (Oder),15
+15236,Rural Area / Others,1
+15299,Rural Area / Others,1
+15326,Rural Area / Others,1
+15344,Rural Area / Others,1
+15366,Rural Area / Others,3
+15372,Rural Area / Others,1
+15374,Rural Area / Others,1
+15515,Rural Area / Others,1
+15562,Rural Area / Others,2
+15566,Rural Area / Others,1
+15712,Rural Area / Others,1
+15741,Rural Area / Others,1
+15806,Rural Area / Others,1
+15834,Rural Area / Others,2
+15838,Rural Area / Others,1
+15848,Rural Area / Others,1
+15887,Rural Area / Others,2
+15888,Rural Area / Others,1
+15898,Rural Area / Others,2
+15910,Rural Area / Others,1
+15913,Rural Area / Others,1
+16222,Rural Area / Others,1
+16225,Rural Area / Others,1
+16259,Rural Area / Others,1
+16348,Rural Area / Others,1
+16356,Rural Area / Others,1
+16547,Rural Area / Others,1
+16552,Rural Area / Others,1
+16556,Rural Area / Others,1
+16562,Rural Area / Others,1
+16761,Rural Area / Others,1
+16909,Rural Area / Others,1
+16949,Rural Area / Others,1
+17030,Neubrandenburg,21
+17033,Neubrandenburg,29
+17034,Neubrandenburg,17
+17036,Neubrandenburg,12
+17036,Rural Area / Others,2
+17039,Neubrandenburg,18
+17049,Neubrandenburg,19
+17049,Rural Area / Others,1
+17050,Neubrandenburg,16
+17091,Rural Area / Others,1
+17094,Rural Area / Others,1
+17098,Rural Area / Others,2
+17111,Rural Area / Others,1
+17129,Rural Area / Others,1
+17168,Rural Area / Others,1
+17213,Rural Area / Others,1
+17219,Rural Area / Others,1
+17237,Rural Area / Others,1
+17321,Rural Area / Others,1
+17326,Rural Area / Others,1
+17328,Rural Area / Others,1
+17367,Rural Area / Others,1
+17398,Rural Area / Others,1
+17406,Rural Area / Others,1
+17419,Rural Area / Others,1
+17438,Rural Area / Others,1
+17440,Rural Area / Others,2
+17474,Greifswald,9
+17475,Greifswald,12
+17475,Rural Area / Others,2
+17489,Greifswald,15
+17489,Rural Area / Others,3
+17491,Greifswald,12
+17493,Greifswald,12
+17493,Rural Area / Others,1
+17495,Greifswald,18
+17495,Rural Area / Others,1
+17498,Greifswald,15
+17506,Greifswald,14
+17509,Greifswald,16
+17509,Rural Area / Others,1
+18048,Rostock,46
+18048,Rural Area / Others,1
+18050,Rostock,47
+18051,Rostock,59
+18052,Rostock,30
+18052,Rural Area / Others,1
+18053,Rostock,59
+18055,Rostock,40
+18057,Rostock,40
+18059,Rostock,51
+18060,Rostock,39
+18069,Rostock,39
+18119,Rural Area / Others,1
+18147,Rural Area / Others,1
+18184,Rural Area / Others,1
+18195,Rural Area / Others,1
+18233,Rural Area / Others,1
+18236,Rural Area / Others,1
+18246,Rural Area / Others,1
+18249,Rural Area / Others,1
+18273,Rural Area / Others,1
+18292,Rural Area / Others,2
+18320,Rural Area / Others,1
+18374,Rural Area / Others,1
+18431,Rural Area / Others,2
+18431,Stralsund,22
+18432,Rural Area / Others,1
+18432,Stralsund,17
+18435,Rural Area / Others,1
+18435,Stralsund,17
+18437,Stralsund,18
+18439,Stralsund,11
+18442,Stralsund,17
+18445,Stralsund,16
+18465,Rural Area / Others,1
+18469,Rural Area / Others,1
+18507,Rural Area / Others,1
+18586,Rural Area / Others,1
+19048,Schwerin,12
+19049,Schwerin,13
+19050,Schwerin,21
+19051,Rural Area / Others,2
+19051,Schwerin,11
+19053,Schwerin,14
+19055,Schwerin,10
+19057,Schwerin,14
+19059,Schwerin,13
+19061,Schwerin,21
+19063,Schwerin,15
+19065,Rural Area / Others,1
+19065,Schwerin,15
+19067,Schwerin,15
+19069,Rural Area / Others,1
+19069,Schwerin,19
+19071,Schwerin,13
+19073,Schwerin,9
+19079,Rural Area / Others,1
+19086,Rural Area / Others,1
+19243,Rural Area / Others,1
+19273,Rural Area / Others,1
+19288,Rural Area / Others,1
+19322,Rural Area / Others,2
+19339,Rural Area / Others,1
+19376,Rural Area / Others,1
+19406,Rural Area / Others,1
+19417,Rural Area / Others,1
+20038,Hamburg,337
+20038,Rural Area / Others,1
+20066,Hamburg,198
+20066,Rural Area / Others,1
+20067,Hamburg,227
+20068,Hamburg,192
+20069,Hamburg,197
+20070,Hamburg,208
+20070,Rural Area / Others,1
+20071,Hamburg,221
+20072,Hamburg,196
+20073,Hamburg,235
+20074,Hamburg,208
+20074,Rural Area / Others,2
+20076,Hamburg,212
+20077,Hamburg,189
+20079,Hamburg,182
+20080,Hamburg,217
+20081,Hamburg,207
+20083,Hamburg,210
+20084,Hamburg,195
+20084,Rural Area / Others,1
+20085,Hamburg,195
+20085,Rural Area / Others,1
+20086,Hamburg,198
+20087,Hamburg,220
+20088,Hamburg,205
+20088,Rural Area / Others,1
+20090,Hamburg,196
+20090,Rural Area / Others,1
+20091,Hamburg,212
+20091,Rural Area / Others,1
+20092,Hamburg,193
+20095,Hamburg,213
+20095,Rural Area / Others,1
+20097,Hamburg,195
+20099,Hamburg,192
+20140,Rural Area / Others,2
+20246,Rural Area / Others,2
+20259,Rural Area / Others,1
+20347,Rural Area / Others,2
+20348,Rural Area / Others,1
+20350,Rural Area / Others,2
+20351,Rural Area / Others,1
+20359,Rural Area / Others,1
+20445,Rural Area / Others,1
+20446,Rural Area / Others,1
+20449,Rural Area / Others,1
+20452,Rural Area / Others,1
+20457,Rural Area / Others,1
+20459,Rural Area / Others,2
+20535,Rural Area / Others,1
+20903,Rural Area / Others,1
+20911,Rural Area / Others,1
+20913,Rural Area / Others,1
+20915,Rural Area / Others,1
+21027,Rural Area / Others,1
+21031,Rural Area / Others,1
+21039,Rural Area / Others,1
+21073,Rural Area / Others,1
+21107,Rural Area / Others,1
+21109,Rural Area / Others,1
+21147,Rural Area / Others,1
+21149,Rural Area / Others,1
+21172,Rural Area / Others,1
+21218,Rural Area / Others,1
+21224,Rural Area / Others,1
+21227,Rural Area / Others,1
+21244,Rural Area / Others,1
+21255,Rural Area / Others,1
+21259,Rural Area / Others,2
+21332,Lüneburg,25
+21332,Rural Area / Others,1
+21333,Lüneburg,28
+21335,Lüneburg,27
+21337,Lüneburg,32
+21339,Lüneburg,22
+21354,Lüneburg,30
+21354,Rural Area / Others,1
+21357,Rural Area / Others,1
+21365,Rural Area / Others,1
+21371,Rural Area / Others,1
+21385,Rural Area / Others,2
+21388,Rural Area / Others,1
+21398,Rural Area / Others,1
+21406,Rural Area / Others,1
+21407,Rural Area / Others,2
+21423,Rural Area / Others,1
+21436,Rural Area / Others,1
+21441,Rural Area / Others,1
+21449,Rural Area / Others,1
+21465,Rural Area / Others,1
+21483,Rural Area / Others,1
+21521,Rural Area / Others,1
+21522,Rural Area / Others,1
+21629,Rural Area / Others,2
+21640,Rural Area / Others,1
+21683,Rural Area / Others,1
+21720,Rural Area / Others,1
+21723,Rural Area / Others,1
+21726,Rural Area / Others,1
+21727,Rural Area / Others,1
+21730,Rural Area / Others,1
+21734,Rural Area / Others,1
+21763,Rural Area / Others,1
+21770,Rural Area / Others,1
+21772,Rural Area / Others,1
+21775,Rural Area / Others,2
+21782,Rural Area / Others,2
+21784,Rural Area / Others,1
+21787,Rural Area / Others,1
+22033,Rural Area / Others,1
+22037,Rural Area / Others,1
+22039,Rural Area / Others,1
+22043,Rural Area / Others,1
+22045,Rural Area / Others,1
+22049,Rural Area / Others,1
+22081,Rural Area / Others,1
+22115,Rural Area / Others,1
+22119,Rural Area / Others,1
+22149,Rural Area / Others,1
+22175,Rural Area / Others,1
+22177,Rural Area / Others,1
+22283,Rural Area / Others,1
+22284,Rural Area / Others,1
+22293,Rural Area / Others,1
+22305,Rural Area / Others,1
+22339,Rural Area / Others,1
+22359,Rural Area / Others,1
+22391,Rural Area / Others,1
+22415,Rural Area / Others,1
+22451,Rural Area / Others,1
+22453,Rural Area / Others,1
+22521,Rural Area / Others,2
+22523,Rural Area / Others,1
+22529,Rural Area / Others,1
+22547,Rural Area / Others,1
+22557,Rural Area / Others,1
+22743,Rural Area / Others,1
+22748,Rural Area / Others,1
+22755,Rural Area / Others,1
+22761,Rural Area / Others,1
+22765,Rural Area / Others,1
+22778,Rural Area / Others,1
+22788,Rural Area / Others,1
+22789,Rural Area / Others,1
+22791,Rural Area / Others,1
+22794,Rural Area / Others,1
+22795,Rural Area / Others,1
+22796,Rural Area / Others,1
+22839,Norderstedt,16
+22841,Norderstedt,21
+22842,Norderstedt,17
+22844,Norderstedt,16
+22844,Rural Area / Others,1
+22846,Norderstedt,18
+22848,Norderstedt,27
+22850,Norderstedt,15
+22850,Rural Area / Others,1
+22851,Norderstedt,22
+22865,Norderstedt,14
+22866,Norderstedt,15
+22876,Rural Area / Others,1
+22885,Rural Area / Others,1
+22889,Rural Area / Others,1
+22958,Rural Area / Others,1
+22962,Rural Area / Others,1
+22964,Rural Area / Others,2
+22965,Rural Area / Others,1
+22967,Rural Area / Others,1
+23533,Lübeck,32
+23533,Rural Area / Others,1
+23538,Lübeck,36
+23539,Lübeck,36
+23540,Lübeck,29
+23540,Rural Area / Others,1
+23541,Lübeck,35
+23541,Rural Area / Others,1
+23542,Lübeck,34
+23543,Lübeck,35
+23544,Lübeck,32
+23546,Lübeck,26
+23546,Rural Area / Others,1
+23547,Lübeck,43
+23547,Rural Area / Others,2
+23552,Lübeck,38
+23552,Rural Area / Others,1
+23554,Lübeck,38
+23556,Lübeck,32
+23558,Lübeck,30
+23611,Rural Area / Others,1
+23629,Rural Area / Others,1
+23714,Rural Area / Others,1
+23715,Rural Area / Others,1
+23730,Rural Area / Others,1
+23743,Rural Area / Others,1
+23749,Rural Area / Others,1
+23758,Rural Area / Others,1
+23769,Rural Area / Others,1
+23795,Rural Area / Others,1
+23815,Rural Area / Others,1
+23829,Rural Area / Others,1
+23847,Rural Area / Others,1
+23860,Rural Area / Others,2
+23863,Rural Area / Others,1
+23867,Rural Area / Others,1
+23869,Rural Area / Others,1
+23879,Rural Area / Others,1
+23881,Rural Area / Others,1
+23898,Rural Area / Others,1
+23909,Rural Area / Others,1
+23911,Rural Area / Others,1
+23923,Rural Area / Others,1
+23952,Rural Area / Others,1
+23970,Rural Area / Others,1
+24088,Kiel,26
+24088,Rural Area / Others,1
+24090,Kiel,33
+24090,Rural Area / Others,1
+24091,Kiel,35
+24091,Rural Area / Others,1
+24094,Kiel,22
+24094,Rural Area / Others,2
+24095,Kiel,23
+24095,Rural Area / Others,1
+24096,Kiel,27
+24097,Kiel,25
+24098,Kiel,32
+24099,Kiel,22
+24100,Kiel,18
+24103,Kiel,34
+24105,Kiel,16
+24106,Kiel,34
+24106,Rural Area / Others,1
+24107,Kiel,26
+24109,Kiel,27
+24109,Rural Area / Others,1
+24111,Kiel,26
+24113,Kiel,24
+24114,Kiel,35
+24114,Rural Area / Others,2
+24116,Kiel,20
+24118,Kiel,20
+24119,Kiel,29
+24119,Rural Area / Others,1
+24130,Rural Area / Others,1
+24145,Rural Area / Others,1
+24146,Rural Area / Others,1
+24147,Rural Area / Others,1
+24148,Rural Area / Others,2
+24159,Rural Area / Others,1
+24220,Rural Area / Others,2
+24223,Rural Area / Others,1
+24238,Rural Area / Others,1
+24242,Rural Area / Others,1
+24250,Rural Area / Others,1
+24251,Rural Area / Others,1
+24256,Rural Area / Others,1
+24259,Rural Area / Others,1
+24300,Rural Area / Others,1
+24340,Rural Area / Others,1
+24361,Rural Area / Others,1
+24364,Rural Area / Others,2
+24366,Rural Area / Others,1
+24392,Rural Area / Others,2
+24405,Rural Area / Others,1
+24407,Rural Area / Others,1
+24530,Neumünster,29
+24531,Neumünster,30
+24534,Neumünster,27
+24534,Rural Area / Others,1
+24536,Neumünster,34
+24537,Neumünster,27
+24539,Neumünster,28
+24558,Rural Area / Others,1
+24568,Rural Area / Others,2
+24582,Rural Area / Others,1
+24589,Rural Area / Others,1
+24601,Rural Area / Others,1
+24610,Rural Area / Others,3
+24613,Rural Area / Others,1
+24626,Rural Area / Others,1
+24628,Rural Area / Others,1
+24640,Rural Area / Others,1
+24641,Rural Area / Others,1
+24644,Rural Area / Others,2
+24784,Rural Area / Others,1
+24793,Rural Area / Others,2
+24800,Rural Area / Others,1
+24808,Rural Area / Others,1
+24814,Rural Area / Others,1
+24817,Rural Area / Others,1
+24837,Rural Area / Others,1
+24855,Rural Area / Others,1
+24873,Rural Area / Others,2
+24876,Rural Area / Others,1
+24890,Rural Area / Others,1
+24893,Rural Area / Others,1
+24899,Rural Area / Others,1
+24927,Flensburg,15
+24930,Flensburg,16
+24930,Rural Area / Others,1
+24932,Flensburg,16
+24933,Flensburg,16
+24933,Rural Area / Others,1
+24937,Flensburg,21
+24939,Flensburg,24
+24941,Flensburg,21
+24941,Rural Area / Others,1
+24943,Flensburg,22
+24943,Rural Area / Others,1
+24944,Flensburg,16
+24945,Flensburg,22
+24945,Rural Area / Others,1
+24955,Flensburg,22
+24955,Rural Area / Others,1
+24960,Rural Area / Others,2
+24966,Rural Area / Others,1
+24980,Rural Area / Others,1
+24983,Rural Area / Others,2
+24986,Rural Area / Others,1
+24996,Rural Area / Others,2
+24999,Rural Area / Others,1
+25320,Elmshorn,22
+25333,Elmshorn,18
+25335,Elmshorn,22
+25336,Elmshorn,9
+25337,Elmshorn,10
+25348,Elmshorn,16
+25355,Elmshorn,15
+25392,Rural Area / Others,1
+25404,Rural Area / Others,2
+25421,Rural Area / Others,1
+25436,Rural Area / Others,2
+25450,Rural Area / Others,2
+25462,Rural Area / Others,1
+25474,Rural Area / Others,1
+25482,Rural Area / Others,2
+25485,Rural Area / Others,4
+25494,Rural Area / Others,3
+25499,Rural Area / Others,1
+25522,Rural Area / Others,1
+25554,Rural Area / Others,1
+25572,Rural Area / Others,1
+25582,Rural Area / Others,1
+25585,Rural Area / Others,1
+25587,Rural Area / Others,2
+25588,Rural Area / Others,2
+25591,Rural Area / Others,1
+25593,Rural Area / Others,1
+25594,Rural Area / Others,1
+25693,Rural Area / Others,3
+25715,Rural Area / Others,1
+25718,Rural Area / Others,2
+25719,Rural Area / Others,1
+25742,Rural Area / Others,1
+25774,Rural Area / Others,1
+25782,Rural Area / Others,1
+25785,Rural Area / Others,1
+25788,Rural Area / Others,1
+25794,Rural Area / Others,1
+25795,Rural Area / Others,1
+25797,Rural Area / Others,2
+25813,Rural Area / Others,3
+25832,Rural Area / Others,1
+25859,Rural Area / Others,1
+25860,Rural Area / Others,1
+25866,Rural Area / Others,1
+25870,Rural Area / Others,1
+25873,Rural Area / Others,1
+25878,Rural Area / Others,1
+25884,Rural Area / Others,1
+25885,Rural Area / Others,1
+25887,Rural Area / Others,1
+25980,Rural Area / Others,2
+26060,Rural Area / Others,2
+26090,Oldenburg (Oldenburg),19
+26101,Oldenburg (Oldenburg),25
+26102,Oldenburg (Oldenburg),17
+26105,Oldenburg (Oldenburg),32
+26105,Rural Area / Others,1
+26106,Oldenburg (Oldenburg),23
+26107,Oldenburg (Oldenburg),17
+26108,Oldenburg (Oldenburg),21
+26108,Rural Area / Others,1
+26109,Oldenburg (Oldenburg),28
+26110,Oldenburg (Oldenburg),25
+26111,Oldenburg (Oldenburg),23
+26111,Rural Area / Others,1
+26114,Oldenburg (Oldenburg),31
+26119,Oldenburg (Oldenburg),18
+26121,Oldenburg (Oldenburg),28
+26121,Rural Area / Others,1
+26122,Oldenburg (Oldenburg),22
+26123,Oldenburg (Oldenburg),29
+26123,Rural Area / Others,1
+26125,Oldenburg (Oldenburg),29
+26177,Rural Area / Others,1
+26180,Rural Area / Others,1
+26197,Rural Area / Others,1
+26209,Rural Area / Others,2
+26345,Rural Area / Others,1
+26349,Rural Area / Others,1
+26379,Wilhelmshaven,16
+26380,Wilhelmshaven,21
+26382,Wilhelmshaven,27
+26384,Wilhelmshaven,13
+26386,Wilhelmshaven,23
+26388,Wilhelmshaven,21
+26389,Wilhelmshaven,25
+26392,Wilhelmshaven,20
+26409,Rural Area / Others,2
+26465,Rural Area / Others,1
+26524,Rural Area / Others,1
+26548,Rural Area / Others,1
+26579,Rural Area / Others,1
+26653,Rural Area / Others,1
+26670,Rural Area / Others,1
+26689,Rural Area / Others,1
+26721,Emden,38
+26723,Emden,24
+26725,Emden,27
+26725,Rural Area / Others,1
+26736,Emden,19
+26786,Rural Area / Others,1
+26787,Rural Area / Others,1
+26802,Rural Area / Others,1
+26810,Rural Area / Others,1
+26826,Rural Area / Others,1
+26831,Rural Area / Others,2
+26842,Rural Area / Others,2
+26844,Rural Area / Others,1
+26849,Rural Area / Others,1
+26871,Rural Area / Others,2
+26899,Rural Area / Others,1
+26907,Rural Area / Others,1
+26909,Rural Area / Others,3
+26937,Rural Area / Others,1
+26969,Rural Area / Others,1
+27246,Rural Area / Others,2
+27252,Rural Area / Others,1
+27257,Rural Area / Others,1
+27283,Rural Area / Others,1
+27299,Rural Area / Others,1
+27327,Rural Area / Others,1
+27330,Rural Area / Others,1
+27357,Rural Area / Others,1
+27404,Rural Area / Others,1
+27470,Cuxhaven,24
+27472,Cuxhaven,27
+27472,Rural Area / Others,1
+27474,Cuxhaven,20
+27476,Cuxhaven,18
+27478,Cuxhaven,20
+27498,Rural Area / Others,2
+27499,Rural Area / Others,1
+27568,Bremerhaven,38
+27570,Bremerhaven,40
+27572,Bremerhaven,36
+27574,Bremerhaven,34
+27574,Rural Area / Others,1
+27576,Bremerhaven,44
+27578,Bremerhaven,36
+27580,Bremerhaven,32
+27607,Rural Area / Others,1
+27619,Rural Area / Others,1
+27639,Rural Area / Others,1
+27711,Rural Area / Others,1
+27721,Rural Area / Others,2
+27729,Delmenhorst,31
+27747,Delmenhorst,28
+27749,Delmenhorst,35
+27751,Delmenhorst,30
+27753,Delmenhorst,26
+27755,Delmenhorst,28
+27755,Rural Area / Others,1
+28111,Rural Area / Others,1
+28163,Bremen,56
+28174,Bremen,63
+28174,Rural Area / Others,1
+28177,Bremen,53
+28178,Bremen,39
+28181,Bremen,57
+28181,Rural Area / Others,1
+28182,Bremen,46
+28183,Bremen,66
+28184,Bremen,53
+28185,Bremen,53
+28187,Bremen,59
+28187,Rural Area / Others,1
+28188,Bremen,59
+28188,Rural Area / Others,1
+28189,Bremen,54
+28189,Rural Area / Others,1
+28190,Bremen,50
+28190,Rural Area / Others,1
+28192,Bremen,50
+28195,Bremen,88
+28197,Bremen,64
+28199,Bremen,51
+28201,Bremen,50
+28203,Bremen,62
+28203,Rural Area / Others,1
+28205,Bremen,68
+28207,Bremen,59
+28207,Rural Area / Others,1
+28209,Bremen,61
+28211,Bremen,59
+28211,Rural Area / Others,1
+28213,Bremen,65
+28215,Bremen,42
+28217,Bremen,54
+28219,Bremen,63
+28219,Rural Area / Others,1
+28237,Bremen,54
+28239,Bremen,64
+28259,Bremen,61
+28275,Bremen,55
+28279,Rural Area / Others,1
+28305,Rural Area / Others,1
+28307,Rural Area / Others,1
+28325,Rural Area / Others,1
+28355,Rural Area / Others,3
+28363,Rural Area / Others,1
+28375,Rural Area / Others,1
+28717,Rural Area / Others,2
+28719,Rural Area / Others,1
+28751,Rural Area / Others,1
+28757,Rural Area / Others,1
+28759,Rural Area / Others,1
+28777,Rural Area / Others,3
+28832,Rural Area / Others,1
+28869,Rural Area / Others,1
+28870,Rural Area / Others,2
+29216,Celle,16
+29216,Rural Area / Others,4
+29218,Celle,21
+29219,Celle,11
+29220,Celle,20
+29221,Celle,16
+29223,Celle,17
+29223,Rural Area / Others,1
+29225,Celle,13
+29225,Rural Area / Others,1
+29227,Celle,18
+29229,Celle,14
+29303,Rural Area / Others,1
+29308,Rural Area / Others,1
+29339,Rural Area / Others,1
+29342,Rural Area / Others,1
+29367,Rural Area / Others,1
+29377,Rural Area / Others,1
+29392,Rural Area / Others,1
+29394,Rural Area / Others,1
+29399,Rural Area / Others,3
+29465,Rural Area / Others,1
+29468,Rural Area / Others,1
+29472,Rural Area / Others,1
+29478,Rural Area / Others,2
+29481,Rural Area / Others,1
+29488,Rural Area / Others,1
+29490,Rural Area / Others,1
+29491,Rural Area / Others,1
+29496,Rural Area / Others,1
+29523,Rural Area / Others,1
+29553,Rural Area / Others,1
+29562,Rural Area / Others,1
+29578,Rural Area / Others,1
+29579,Rural Area / Others,1
+29587,Rural Area / Others,1
+29593,Rural Area / Others,1
+29596,Rural Area / Others,1
+29611,Rural Area / Others,1
+29614,Rural Area / Others,1
+29643,Rural Area / Others,1
+29664,Rural Area / Others,1
+29683,Rural Area / Others,1
+29699,Rural Area / Others,1
+30125,Rural Area / Others,1
+30126,Rural Area / Others,1
+30127,Rural Area / Others,3
+30131,Rural Area / Others,1
+30132,Rural Area / Others,2
+30138,Rural Area / Others,2
+30139,Hannover,37
+30140,Hannover,44
+30141,Hannover,43
+30141,Rural Area / Others,1
+30142,Hannover,41
+30144,Hannover,40
+30145,Hannover,41
+30146,Hannover,43
+30146,Rural Area / Others,1
+30147,Hannover,52
+30148,Hannover,44
+30148,Rural Area / Others,1
+30149,Hannover,49
+30151,Hannover,39
+30152,Hannover,41
+30153,Hannover,40
+30153,Rural Area / Others,3
+30154,Hannover,35
+30156,Hannover,42
+30157,Hannover,39
+30159,Hannover,41
+30161,Hannover,49
+30163,Hannover,50
+30165,Hannover,39
+30165,Rural Area / Others,1
+30167,Hannover,47
+30169,Hannover,48
+30171,Hannover,44
+30173,Hannover,44
+30173,Rural Area / Others,1
+30175,Hannover,27
+30177,Hannover,38
+30179,Hannover,49
+30179,Rural Area / Others,1
+30417,Rural Area / Others,1
+30457,Rural Area / Others,1
+30521,Rural Area / Others,1
+30647,Rural Area / Others,1
+30669,Rural Area / Others,3
+30691,Rural Area / Others,1
+30820,Garbsen,20
+30821,Garbsen,29
+30821,Rural Area / Others,1
+30823,Garbsen,36
+30823,Rural Area / Others,1
+30826,Garbsen,19
+30827,Garbsen,27
+30851,Langenhagen,29
+30853,Langenhagen,60
+30855,Langenhagen,29
+30855,Rural Area / Others,1
+30916,Rural Area / Others,1
+30982,Rural Area / Others,1
+31020,Rural Area / Others,1
+31029,Rural Area / Others,1
+31033,Rural Area / Others,1
+31039,Rural Area / Others,1
+31061,Rural Area / Others,1
+31073,Rural Area / Others,2
+31091,Rural Area / Others,1
+31093,Rural Area / Others,1
+31094,Rural Area / Others,1
+31120,Hildesheim,12
+31121,Hildesheim,11
+31129,Hildesheim,20
+31130,Hildesheim,25
+31131,Hildesheim,12
+31132,Hildesheim,19
+31134,Hildesheim,22
+31135,Hildesheim,15
+31137,Hildesheim,23
+31139,Hildesheim,34
+31141,Hildesheim,23
+31180,Rural Area / Others,1
+31221,Peine,13
+31221,Rural Area / Others,1
+31224,Peine,27
+31224,Rural Area / Others,1
+31226,Peine,17
+31228,Peine,14
+31228,Rural Area / Others,2
+31234,Peine,21
+31241,Peine,19
+31246,Rural Area / Others,3
+31311,Rural Area / Others,1
+31542,Rural Area / Others,1
+31552,Rural Area / Others,2
+31559,Rural Area / Others,1
+31609,Rural Area / Others,1
+31613,Rural Area / Others,1
+31626,Rural Area / Others,2
+31632,Rural Area / Others,1
+31634,Rural Area / Others,1
+31655,Rural Area / Others,1
+31673,Rural Area / Others,1
+31699,Rural Area / Others,1
+31707,Rural Area / Others,1
+31708,Rural Area / Others,1
+31735,Rural Area / Others,1
+31737,Rural Area / Others,1
+31774,Hameln,11
+31774,Rural Area / Others,1
+31778,Hameln,12
+31778,Rural Area / Others,1
+31779,Hameln,14
+31780,Hameln,11
+31781,Hameln,8
+31783,Hameln,14
+31783,Rural Area / Others,1
+31784,Hameln,19
+31785,Hameln,7
+31787,Hameln,11
+31789,Hameln,20
+31812,Rural Area / Others,1
+31829,Rural Area / Others,1
+31868,Rural Area / Others,1
+32042,Herford,17
+32044,Herford,22
+32045,Herford,17
+32045,Rural Area / Others,1
+32046,Herford,16
+32049,Herford,13
+32051,Herford,10
+32052,Herford,15
+32058,Herford,20
+32058,Rural Area / Others,1
+32061,Herford,18
+32061,Rural Area / Others,1
+32102,Bad Salzuflen,25
+32105,Bad Salzuflen,33
+32107,Bad Salzuflen,14
+32108,Bad Salzuflen,18
+32120,Bad Salzuflen,28
+32130,Rural Area / Others,1
+32351,Rural Area / Others,1
+32419,Minden,29
+32420,Minden,21
+32420,Rural Area / Others,1
+32421,Minden,32
+32423,Minden,28
+32425,Minden,31
+32427,Minden,24
+32427,Rural Area / Others,1
+32429,Minden,19
+32457,Rural Area / Others,1
+32543,Bad Oeynhausen,21
+32545,Bad Oeynhausen,44
+32547,Bad Oeynhausen,14
+32549,Bad Oeynhausen,32
+32584,Rural Area / Others,1
+32655,Rural Area / Others,1
+32699,Rural Area / Others,1
+32750,Detmold,37
+32750,Rural Area / Others,1
+32753,Detmold,24
+32753,Rural Area / Others,1
+32754,Detmold,21
+32756,Detmold,33
+32756,Rural Area / Others,1
+32758,Detmold,22
+32760,Detmold,26
+32791,Rural Area / Others,1
+32825,Rural Area / Others,2
+33093,Paderborn,33
+33094,Paderborn,36
+33095,Paderborn,39
+33096,Paderborn,43
+33096,Rural Area / Others,1
+33098,Paderborn,41
+33100,Paderborn,38
+33102,Paderborn,31
+33102,Rural Area / Others,1
+33104,Paderborn,49
+33104,Rural Area / Others,3
+33106,Paderborn,33
+33106,Rural Area / Others,1
+33129,Rural Area / Others,1
+33178,Rural Area / Others,1
+33184,Rural Area / Others,1
+33311,Gütersloh,29
+33324,Gütersloh,23
+33325,Gütersloh,35
+33326,Gütersloh,28
+33326,Rural Area / Others,2
+33330,Gütersloh,34
+33332,Gütersloh,28
+33334,Gütersloh,28
+33334,Rural Area / Others,1
+33335,Gütersloh,15
+33395,Rural Area / Others,1
+33397,Rural Area / Others,1
+33413,Rural Area / Others,1
+33547,Rural Area / Others,2
+33583,Bielefeld,30
+33584,Bielefeld,43
+33584,Rural Area / Others,1
+33591,Bielefeld,40
+33594,Bielefeld,53
+33594,Rural Area / Others,1
+33595,Bielefeld,40
+33596,Bielefeld,23
+33597,Bielefeld,34
+33598,Bielefeld,50
+33598,Rural Area / Others,1
+33600,Bielefeld,38
+33602,Bielefeld,40
+33604,Bielefeld,38
+33605,Bielefeld,49
+33607,Bielefeld,40
+33609,Bielefeld,36
+33611,Bielefeld,44
+33613,Bielefeld,27
+33615,Bielefeld,41
+33617,Bielefeld,33
+33619,Bielefeld,29
+33659,Rural Area / Others,1
+33769,Rural Area / Others,1
+33788,Rural Area / Others,1
+33801,Rural Area / Others,1
+33829,Rural Area / Others,2
+34105,Kassel,14
+34106,Kassel,25
+34106,Rural Area / Others,1
+34108,Kassel,20
+34109,Kassel,22
+34110,Kassel,20
+34111,Kassel,17
+34112,Kassel,24
+34113,Kassel,21
+34114,Kassel,19
+34115,Kassel,19
+34115,Rural Area / Others,2
+34117,Kassel,16
+34119,Kassel,25
+34121,Kassel,21
+34121,Rural Area / Others,1
+34123,Kassel,21
+34125,Kassel,19
+34125,Rural Area / Others,2
+34127,Kassel,21
+34128,Kassel,23
+34130,Kassel,19
+34131,Kassel,21
+34132,Kassel,26
+34132,Rural Area / Others,1
+34134,Kassel,20
+34134,Rural Area / Others,1
+34195,Rural Area / Others,1
+34197,Rural Area / Others,1
+34225,Rural Area / Others,1
+34260,Rural Area / Others,1
+34265,Rural Area / Others,1
+34270,Rural Area / Others,1
+34281,Rural Area / Others,1
+34286,Rural Area / Others,2
+34289,Rural Area / Others,1
+34298,Rural Area / Others,2
+34302,Rural Area / Others,1
+34305,Rural Area / Others,1
+34308,Rural Area / Others,1
+34314,Rural Area / Others,1
+34317,Rural Area / Others,1
+34326,Rural Area / Others,1
+34355,Rural Area / Others,1
+34369,Rural Area / Others,1
+34393,Rural Area / Others,2
+34399,Rural Area / Others,2
+34439,Rural Area / Others,1
+34466,Rural Area / Others,1
+34477,Rural Area / Others,1
+34494,Rural Area / Others,1
+34508,Rural Area / Others,2
+34513,Rural Area / Others,1
+34576,Rural Area / Others,1
+34599,Rural Area / Others,2
+34613,Rural Area / Others,4
+35031,Marburg,15
+35032,Marburg,18
+35032,Rural Area / Others,1
+35034,Marburg,21
+35035,Marburg,20
+35036,Marburg,21
+35036,Rural Area / Others,1
+35037,Marburg,19
+35039,Marburg,15
+35041,Marburg,17
+35043,Marburg,15
+35066,Rural Area / Others,3
+35085,Rural Area / Others,1
+35094,Rural Area / Others,2
+35108,Rural Area / Others,1
+35110,Rural Area / Others,1
+35114,Rural Area / Others,1
+35116,Rural Area / Others,1
+35216,Rural Area / Others,3
+35236,Rural Area / Others,1
+35260,Rural Area / Others,1
+35279,Rural Area / Others,1
+35305,Rural Area / Others,1
+35315,Rural Area / Others,1
+35321,Rural Area / Others,1
+35383,Gießen,21
+35383,Rural Area / Others,1
+35384,Gießen,16
+35384,Rural Area / Others,1
+35385,Gießen,8
+35386,Gießen,16
+35387,Gießen,16
+35388,Gießen,17
+35390,Gießen,15
+35392,Gießen,21
+35394,Gießen,13
+35394,Rural Area / Others,1
+35396,Gießen,14
+35398,Gießen,12
+35402,Gießen,12
+35410,Gießen,14
+35410,Rural Area / Others,1
+35423,Rural Area / Others,1
+35435,Rural Area / Others,1
+35460,Rural Area / Others,1
+35463,Rural Area / Others,1
+35469,Rural Area / Others,1
+35508,Rural Area / Others,1
+35573,Rural Area / Others,1
+35573,Wetzlar,13
+35574,Wetzlar,16
+35576,Wetzlar,8
+35578,Wetzlar,14
+35579,Wetzlar,12
+35580,Wetzlar,9
+35581,Rural Area / Others,1
+35581,Wetzlar,9
+35582,Wetzlar,7
+35583,Rural Area / Others,2
+35583,Wetzlar,8
+35584,Wetzlar,8
+35585,Wetzlar,10
+35586,Rural Area / Others,2
+35586,Wetzlar,6
+35619,Rural Area / Others,1
+35625,Rural Area / Others,1
+35630,Rural Area / Others,1
+35638,Rural Area / Others,1
+35687,Rural Area / Others,2
+35688,Rural Area / Others,1
+35713,Rural Area / Others,1
+35716,Rural Area / Others,1
+35759,Rural Area / Others,1
+35768,Rural Area / Others,1
+35779,Rural Area / Others,1
+35792,Rural Area / Others,1
+35794,Rural Area / Others,1
+36028,Fulda,10
+36030,Fulda,13
+36030,Rural Area / Others,1
+36035,Fulda,27
+36036,Fulda,18
+36037,Fulda,11
+36037,Rural Area / Others,1
+36039,Fulda,17
+36041,Fulda,17
+36043,Fulda,15
+36047,Fulda,15
+36086,Rural Area / Others,1
+36093,Rural Area / Others,1
+36124,Rural Area / Others,1
+36129,Rural Area / Others,1
+36179,Rural Area / Others,1
+36205,Rural Area / Others,1
+36248,Rural Area / Others,1
+36249,Rural Area / Others,1
+36272,Rural Area / Others,1
+36277,Rural Area / Others,1
+36280,Rural Area / Others,1
+36284,Rural Area / Others,1
+36286,Rural Area / Others,1
+36304,Rural Area / Others,1
+36318,Rural Area / Others,1
+36323,Rural Area / Others,1
+36338,Rural Area / Others,1
+36364,Rural Area / Others,1
+36367,Rural Area / Others,1
+36369,Rural Area / Others,1
+36391,Rural Area / Others,1
+36396,Rural Area / Others,1
+36404,Rural Area / Others,1
+36419,Rural Area / Others,1
+36452,Rural Area / Others,1
+36466,Rural Area / Others,1
+37069,Göttingen,27
+37070,Göttingen,18
+37073,Göttingen,23
+37075,Göttingen,23
+37077,Göttingen,21
+37079,Göttingen,18
+37081,Göttingen,23
+37083,Göttingen,23
+37085,Göttingen,28
+37096,Göttingen,14
+37097,Göttingen,15
+37099,Göttingen,21
+37100,Göttingen,25
+37124,Rural Area / Others,3
+37133,Rural Area / Others,2
+37139,Rural Area / Others,1
+37176,Rural Area / Others,1
+37191,Rural Area / Others,2
+37194,Rural Area / Others,1
+37197,Rural Area / Others,1
+37199,Rural Area / Others,1
+37213,Rural Area / Others,1
+37215,Rural Area / Others,1
+37235,Rural Area / Others,3
+37247,Rural Area / Others,3
+37267,Rural Area / Others,1
+37269,Rural Area / Others,1
+37287,Rural Area / Others,1
+37318,Rural Area / Others,2
+37327,Rural Area / Others,1
+37339,Rural Area / Others,1
+37345,Rural Area / Others,1
+37359,Rural Area / Others,2
+37449,Rural Area / Others,2
+37539,Rural Area / Others,1
+37547,Rural Area / Others,1
+37568,Rural Area / Others,1
+37571,Rural Area / Others,1
+37601,Rural Area / Others,1
+37603,Rural Area / Others,1
+37627,Rural Area / Others,1
+37633,Rural Area / Others,1
+37635,Rural Area / Others,1
+37649,Rural Area / Others,1
+37671,Rural Area / Others,1
+38023,Rural Area / Others,1
+38083,Braunschweig,27
+38084,Braunschweig,29
+38089,Braunschweig,30
+38090,Braunschweig,26
+38091,Braunschweig,29
+38091,Rural Area / Others,1
+38092,Braunschweig,23
+38093,Braunschweig,22
+38094,Braunschweig,22
+38094,Rural Area / Others,1
+38096,Braunschweig,19
+38096,Rural Area / Others,1
+38097,Braunschweig,22
+38097,Rural Area / Others,2
+38098,Braunschweig,30
+38100,Braunschweig,24
+38100,Rural Area / Others,1
+38102,Braunschweig,20
+38104,Braunschweig,36
+38106,Braunschweig,24
+38108,Braunschweig,25
+38110,Braunschweig,29
+38112,Braunschweig,20
+38112,Rural Area / Others,1
+38114,Braunschweig,27
+38116,Braunschweig,24
+38118,Braunschweig,25
+38120,Braunschweig,22
+38120,Rural Area / Others,1
+38140,Rural Area / Others,2
+38173,Rural Area / Others,1
+38176,Rural Area / Others,1
+38223,Salzgitter,35
+38226,Salzgitter,34
+38228,Salzgitter,44
+38229,Salzgitter,32
+38236,Salzgitter,22
+38237,Salzgitter,35
+38239,Salzgitter,28
+38272,Rural Area / Others,1
+38274,Rural Area / Others,1
+38275,Rural Area / Others,1
+38281,Rural Area / Others,1
+38281,Wolfenbüttel,11
+38296,Rural Area / Others,1
+38296,Wolfenbüttel,13
+38299,Wolfenbüttel,11
+38300,Rural Area / Others,1
+38300,Wolfenbüttel,9
+38302,Rural Area / Others,2
+38302,Wolfenbüttel,12
+38304,Rural Area / Others,1
+38304,Wolfenbüttel,16
+38312,Wolfenbüttel,12
+38315,Wolfenbüttel,14
+38319,Wolfenbüttel,17
+38324,Rural Area / Others,2
+38327,Rural Area / Others,1
+38329,Rural Area / Others,1
+38350,Rural Area / Others,1
+38375,Rural Area / Others,1
+38384,Rural Area / Others,1
+38385,Rural Area / Others,1
+38432,Wolfsburg,29
+38433,Wolfsburg,17
+38435,Wolfsburg,18
+38436,Wolfsburg,23
+38438,Wolfsburg,30
+38439,Rural Area / Others,1
+38439,Wolfsburg,30
+38440,Wolfsburg,14
+38442,Wolfsburg,20
+38444,Wolfsburg,17
+38446,Wolfsburg,23
+38448,Wolfsburg,20
+38458,Wolfsburg,25
+38459,Rural Area / Others,1
+38459,Wolfsburg,18
+38461,Rural Area / Others,1
+38462,Rural Area / Others,1
+38464,Rural Area / Others,1
+38474,Rural Area / Others,1
+38524,Rural Area / Others,1
+38536,Rural Area / Others,1
+38542,Rural Area / Others,1
+38551,Rural Area / Others,1
+38553,Rural Area / Others,1
+38554,Rural Area / Others,1
+38667,Rural Area / Others,2
+38678,Rural Area / Others,1
+38685,Rural Area / Others,2
+38704,Rural Area / Others,1
+38707,Rural Area / Others,1
+38835,Rural Area / Others,2
+38855,Rural Area / Others,1
+38871,Rural Area / Others,1
+38889,Rural Area / Others,1
+38899,Rural Area / Others,1
+39084,Magdeburg,20
+39085,Magdeburg,27
+39085,Rural Area / Others,1
+39087,Magdeburg,27
+39088,Magdeburg,25
+39091,Magdeburg,29
+39092,Magdeburg,20
+39093,Magdeburg,16
+39094,Magdeburg,27
+39094,Rural Area / Others,1
+39097,Magdeburg,30
+39098,Magdeburg,29
+39099,Magdeburg,29
+39104,Magdeburg,20
+39106,Magdeburg,30
+39108,Magdeburg,29
+39108,Rural Area / Others,1
+39110,Magdeburg,21
+39112,Magdeburg,29
+39114,Magdeburg,22
+39114,Rural Area / Others,1
+39116,Magdeburg,28
+39118,Magdeburg,28
+39120,Magdeburg,22
+39122,Magdeburg,13
+39124,Magdeburg,15
+39221,Rural Area / Others,1
+39240,Rural Area / Others,1
+39317,Rural Area / Others,1
+39319,Rural Area / Others,1
+39393,Rural Area / Others,1
+39434,Rural Area / Others,1
+39439,Rural Area / Others,2
+39444,Rural Area / Others,1
+39539,Rural Area / Others,1
+39590,Rural Area / Others,1
+39599,Rural Area / Others,1
+39615,Rural Area / Others,1
+39646,Rural Area / Others,1
+40180,Düsseldorf,63
+40180,Rural Area / Others,1
+40181,Düsseldorf,38
+40181,Rural Area / Others,1
+40182,Düsseldorf,42
+40186,Düsseldorf,47
+40187,Düsseldorf,46
+40188,Düsseldorf,60
+40189,Düsseldorf,48
+40189,Rural Area / Others,3
+40190,Düsseldorf,46
+40191,Düsseldorf,50
+40192,Düsseldorf,40
+40193,Düsseldorf,35
+40194,Düsseldorf,51
+40194,Rural Area / Others,1
+40195,Düsseldorf,49
+40196,Düsseldorf,52
+40198,Düsseldorf,51
+40198,Rural Area / Others,1
+40199,Düsseldorf,59
+40202,Düsseldorf,35
+40204,Düsseldorf,50
+40204,Rural Area / Others,1
+40210,Düsseldorf,47
+40211,Düsseldorf,36
+40212,Düsseldorf,48
+40213,Düsseldorf,53
+40215,Düsseldorf,55
+40217,Düsseldorf,37
+40217,Rural Area / Others,1
+40219,Düsseldorf,45
+40221,Düsseldorf,48
+40223,Düsseldorf,57
+40223,Rural Area / Others,2
+40225,Düsseldorf,57
+40227,Düsseldorf,60
+40229,Düsseldorf,52
+40231,Düsseldorf,42
+40233,Düsseldorf,59
+40235,Düsseldorf,36
+40237,Düsseldorf,38
+40239,Düsseldorf,62
+40239,Rural Area / Others,1
+40250,Düsseldorf,45
+40251,Düsseldorf,39
+40252,Düsseldorf,52
+40252,Rural Area / Others,1
+40260,Düsseldorf,46
+40464,Rural Area / Others,1
+40472,Rural Area / Others,1
+40474,Rural Area / Others,1
+40477,Rural Area / Others,1
+40542,Rural Area / Others,1
+40595,Rural Area / Others,1
+40597,Rural Area / Others,1
+40599,Rural Area / Others,1
+40667,Meerbusch,24
+40667,Rural Area / Others,1
+40668,Meerbusch,37
+40670,Meerbusch,64
+40670,Rural Area / Others,1
+40718,Hilden,27
+40718,Rural Area / Others,1
+40721,Hilden,40
+40721,Rural Area / Others,1
+40723,Hilden,28
+40724,Hilden,26
+40764,Langenfeld (Rheinland),131
+40815,Rural Area / Others,2
+40816,Rural Area / Others,2
+40832,Rural Area / Others,1
+40878,Ratingen,45
+40880,Ratingen,38
+40882,Ratingen,38
+40883,Ratingen,27
+40885,Ratingen,48
+40885,Rural Area / Others,1
+41050,Mönchengladbach,67
+41052,Mönchengladbach,71
+41052,Rural Area / Others,1
+41054,Mönchengladbach,63
+41061,Mönchengladbach,66
+41061,Rural Area / Others,1
+41063,Mönchengladbach,62
+41063,Rural Area / Others,1
+41065,Mönchengladbach,53
+41066,Mönchengladbach,71
+41066,Rural Area / Others,1
+41068,Mönchengladbach,69
+41068,Rural Area / Others,1
+41069,Mönchengladbach,64
+41069,Rural Area / Others,1
+41260,Rural Area / Others,1
+41334,Rural Area / Others,1
+41452,Neuss,34
+41453,Neuss,18
+41455,Neuss,31
+41456,Neuss,23
+41457,Neuss,24
+41457,Rural Area / Others,1
+41460,Neuss,32
+41462,Neuss,30
+41464,Neuss,18
+41464,Rural Area / Others,2
+41466,Neuss,31
+41468,Neuss,24
+41468,Rural Area / Others,1
+41469,Neuss,29
+41470,Neuss,22
+41470,Rural Area / Others,1
+41472,Neuss,22
+41472,Rural Area / Others,2
+41513,Grevenbroich,32
+41513,Rural Area / Others,1
+41515,Grevenbroich,43
+41516,Grevenbroich,35
+41516,Rural Area / Others,1
+41517,Grevenbroich,34
+41538,Dormagen,25
+41539,Dormagen,40
+41539,Rural Area / Others,1
+41540,Dormagen,23
+41541,Dormagen,30
+41542,Dormagen,22
+41542,Rural Area / Others,1
+41747,Viersen,62
+41748,Rural Area / Others,1
+41748,Viersen,33
+41749,Viersen,39
+41751,Viersen,38
+41812,Rural Area / Others,1
+42095,Rural Area / Others,2
+42097,Rural Area / Others,2
+42266,Wuppertal,53
+42268,Wuppertal,61
+42269,Wuppertal,60
+42270,Wuppertal,64
+42271,Wuppertal,54
+42272,Wuppertal,44
+42273,Wuppertal,51
+42275,Wuppertal,44
+42277,Wuppertal,44
+42279,Rural Area / Others,1
+42279,Wuppertal,66
+42281,Rural Area / Others,1
+42281,Wuppertal,62
+42283,Rural Area / Others,1
+42283,Wuppertal,56
+42285,Rural Area / Others,1
+42285,Wuppertal,40
+42287,Wuppertal,47
+42289,Wuppertal,40
+42329,Rural Area / Others,1
+42347,Rural Area / Others,1
+42349,Rural Area / Others,2
+42547,Velbert,33
+42549,Velbert,29
+42551,Velbert,56
+42553,Rural Area / Others,1
+42553,Velbert,24
+42555,Velbert,39
+42579,Rural Area / Others,1
+42645,Rural Area / Others,1
+42645,Solingen,42
+42648,Solingen,54
+42649,Rural Area / Others,3
+42649,Solingen,42
+42651,Solingen,46
+42653,Solingen,48
+42655,Solingen,49
+42657,Rural Area / Others,1
+42657,Solingen,30
+42659,Solingen,52
+42697,Rural Area / Others,2
+42715,Rural Area / Others,1
+42849,Remscheid,44
+42850,Remscheid,30
+42853,Remscheid,50
+42855,Remscheid,41
+42857,Remscheid,54
+42859,Remscheid,30
+42929,Rural Area / Others,1
+44111,Dortmund,55
+44111,Rural Area / Others,1
+44112,Dortmund,61
+44113,Dortmund,58
+44115,Dortmund,53
+44115,Rural Area / Others,1
+44116,Dortmund,63
+44116,Rural Area / Others,1
+44117,Dortmund,64
+44118,Dortmund,72
+44119,Dortmund,59
+44119,Rural Area / Others,3
+44120,Dortmund,57
+44120,Rural Area / Others,1
+44121,Dortmund,74
+44122,Dortmund,70
+44123,Dortmund,65
+44124,Dortmund,72
+44124,Rural Area / Others,1
+44125,Dortmund,79
+44126,Dortmund,57
+44126,Rural Area / Others,2
+44127,Dortmund,65
+44127,Rural Area / Others,1
+44128,Dortmund,58
+44129,Dortmund,43
+44130,Dortmund,61
+44130,Rural Area / Others,1
+44131,Dortmund,56
+44133,Dortmund,61
+44135,Dortmund,97
+44135,Rural Area / Others,2
+44137,Dortmund,68
+44137,Rural Area / Others,2
+44139,Dortmund,56
+44141,Dortmund,60
+44141,Rural Area / Others,1
+44143,Dortmund,75
+44145,Dortmund,50
+44147,Dortmund,68
+44149,Dortmund,53
+44530,Lünen,47
+44532,Lünen,62
+44534,Lünen,46
+44536,Lünen,34
+44536,Rural Area / Others,1
+44573,Castrop-Rauxel,32
+44575,Castrop-Rauxel,39
+44575,Rural Area / Others,1
+44577,Castrop-Rauxel,28
+44577,Rural Area / Others,1
+44579,Castrop-Rauxel,37
+44581,Castrop-Rauxel,24
+44581,Rural Area / Others,1
+44621,Herne,55
+44623,Herne,77
+44623,Rural Area / Others,1
+44625,Herne,47
+44625,Rural Area / Others,1
+44627,Herne,56
+44627,Rural Area / Others,1
+44628,Herne,59
+44629,Herne,48
+44651,Rural Area / Others,2
+44653,Rural Area / Others,2
+44771,Bochum,37
+44772,Bochum,25
+44772,Rural Area / Others,1
+44773,Bochum,36
+44773,Rural Area / Others,2
+44774,Bochum,32
+44775,Bochum,27
+44776,Bochum,35
+44778,Bochum,27
+44778,Rural Area / Others,1
+44779,Bochum,35
+44780,Bochum,34
+44781,Bochum,30
+44782,Bochum,29
+44782,Rural Area / Others,2
+44784,Bochum,33
+44785,Bochum,28
+44787,Bochum,31
+44789,Bochum,37
+44789,Rural Area / Others,1
+44791,Bochum,48
+44791,Rural Area / Others,1
+44793,Bochum,29
+44793,Rural Area / Others,1
+44795,Bochum,37
+44795,Rural Area / Others,1
+44797,Bochum,35
+44799,Bochum,30
+44801,Bochum,34
+44801,Rural Area / Others,1
+44803,Bochum,34
+44805,Bochum,37
+44807,Bochum,27
+44807,Rural Area / Others,2
+44809,Rural Area / Others,1
+44867,Rural Area / Others,1
+44879,Rural Area / Others,1
+45062,Rural Area / Others,1
+45091,Rural Area / Others,1
+45098,Rural Area / Others,1
+45102,Essen,49
+45113,Essen,57
+45114,Essen,51
+45114,Rural Area / Others,1
+45115,Essen,50
+45115,Rural Area / Others,1
+45116,Essen,60
+45117,Essen,39
+45117,Rural Area / Others,2
+45119,Essen,57
+45120,Essen,51
+45120,Rural Area / Others,2
+45121,Essen,55
+45122,Essen,53
+45123,Essen,58
+45123,Rural Area / Others,1
+45124,Essen,49
+45125,Essen,55
+45126,Essen,49
+45127,Essen,51
+45128,Essen,53
+45128,Rural Area / Others,1
+45130,Essen,47
+45131,Essen,43
+45133,Essen,51
+45134,Essen,51
+45136,Essen,59
+45138,Essen,57
+45139,Essen,53
+45141,Essen,64
+45141,Rural Area / Others,1
+45143,Rural Area / Others,1
+45144,Rural Area / Others,1
+45276,Rural Area / Others,1
+45277,Rural Area / Others,1
+45307,Rural Area / Others,1
+45359,Rural Area / Others,1
+45403,Rural Area / Others,2
+45466,Mülheim an der Ruhr,34
+45466,Rural Area / Others,2
+45468,Mülheim an der Ruhr,52
+45468,Rural Area / Others,1
+45470,Mülheim an der Ruhr,30
+45472,Mülheim an der Ruhr,30
+45472,Rural Area / Others,1
+45473,Mülheim an der Ruhr,37
+45475,Mülheim an der Ruhr,33
+45476,Mülheim an der Ruhr,38
+45478,Mülheim an der Ruhr,34
+45479,Mülheim an der Ruhr,39
+45479,Rural Area / Others,1
+45481,Mülheim an der Ruhr,53
+45481,Rural Area / Others,1
+45523,Hattingen,22
+45525,Hattingen,43
+45527,Hattingen,20
+45529,Hattingen,31
+45655,Recklinghausen,30
+45657,Recklinghausen,59
+45657,Rural Area / Others,1
+45659,Recklinghausen,45
+45661,Recklinghausen,34
+45663,Recklinghausen,44
+45665,Recklinghausen,41
+45697,Herten,26
+45699,Herten,49
+45699,Rural Area / Others,1
+45701,Herten,31
+45711,Herten,27
+45739,Rural Area / Others,1
+45765,Marl,41
+45765,Rural Area / Others,1
+45768,Marl,48
+45768,Rural Area / Others,1
+45770,Marl,44
+45772,Marl,57
+45772,Rural Area / Others,2
+45875,Gelsenkirchen,41
+45876,Gelsenkirchen,32
+45876,Rural Area / Others,1
+45877,Gelsenkirchen,33
+45879,Gelsenkirchen,34
+45879,Rural Area / Others,1
+45881,Gelsenkirchen,40
+45883,Gelsenkirchen,42
+45883,Rural Area / Others,1
+45884,Gelsenkirchen,35
+45886,Gelsenkirchen,36
+45886,Rural Area / Others,2
+45888,Gelsenkirchen,40
+45889,Gelsenkirchen,30
+45891,Gelsenkirchen,40
+45891,Rural Area / Others,1
+45892,Gelsenkirchen,36
+45894,Gelsenkirchen,28
+45896,Gelsenkirchen,34
+45897,Gelsenkirchen,47
+45897,Rural Area / Others,1
+45899,Gelsenkirchen,40
+45964,Gladbeck,83
+45966,Gladbeck,37
+45968,Gladbeck,45
+46040,Oberhausen,95
+46042,Oberhausen,76
+46045,Oberhausen,123
+46047,Oberhausen,86
+46049,Oberhausen,89
+46119,Rural Area / Others,1
+46142,Rural Area / Others,2
+46149,Rural Area / Others,1
+46236,Bottrop,69
+46238,Bottrop,50
+46240,Bottrop,53
+46242,Bottrop,46
+46244,Bottrop,42
+46244,Rural Area / Others,1
+46282,Dorsten,43
+46282,Rural Area / Others,1
+46284,Dorsten,77
+46284,Rural Area / Others,1
+46286,Dorsten,45
+46322,Rural Area / Others,1
+46342,Rural Area / Others,1
+46354,Rural Area / Others,1
+46393,Bocholt,28
+46395,Bocholt,36
+46397,Bocholt,30
+46399,Bocholt,37
+46414,Bocholt,29
+46459,Rural Area / Others,1
+46480,Wesel,20
+46482,Wesel,16
+46483,Rural Area / Others,1
+46483,Wesel,26
+46485,Wesel,20
+46487,Wesel,27
+46499,Wesel,24
+46519,Dinslaken,34
+46535,Dinslaken,47
+46537,Dinslaken,31
+46539,Dinslaken,35
+47044,Duisburg,91
+47048,Duisburg,96
+47049,Duisburg,107
+47050,Duisburg,95
+47051,Duisburg,105
+47053,Duisburg,122
+47055,Duisburg,136
+47055,Rural Area / Others,1
+47057,Duisburg,116
+47057,Rural Area / Others,1
+47058,Duisburg,126
+47059,Duisburg,109
+47059,Rural Area / Others,2
+47119,Rural Area / Others,1
+47139,Rural Area / Others,1
+47226,Rural Area / Others,1
+47300,Rural Area / Others,1
+47439,Moers,34
+47441,Moers,55
+47443,Moers,59
+47443,Rural Area / Others,1
+47445,Moers,37
+47447,Moers,37
+47447,Rural Area / Others,2
+47526,Kleve,16
+47533,Kleve,51
+47533,Rural Area / Others,1
+47546,Kleve,28
+47551,Kleve,21
+47589,Rural Area / Others,1
+47608,Rural Area / Others,1
+47626,Rural Area / Others,1
+47647,Rural Area / Others,1
+47789,Krefeld,34
+47791,Krefeld,37
+47791,Rural Area / Others,1
+47792,Krefeld,40
+47795,Krefeld,34
+47795,Rural Area / Others,1
+47796,Krefeld,37
+47798,Krefeld,34
+47798,Rural Area / Others,1
+47799,Krefeld,31
+47799,Rural Area / Others,1
+47800,Krefeld,35
+47802,Krefeld,34
+47802,Rural Area / Others,1
+47803,Krefeld,38
+47804,Krefeld,34
+47805,Krefeld,41
+47807,Krefeld,44
+47807,Rural Area / Others,2
+47809,Krefeld,35
+47875,Rural Area / Others,1
+47875,Willich,45
+47877,Rural Area / Others,1
+47877,Willich,63
+47904,Rural Area / Others,1
+47906,Rural Area / Others,1
+48123,Münster,37
+48123,Rural Area / Others,1
+48124,Münster,23
+48125,Münster,18
+48126,Münster,19
+48127,Münster,25
+48128,Münster,18
+48129,Münster,20
+48130,Münster,16
+48130,Rural Area / Others,2
+48131,Münster,17
+48132,Münster,26
+48132,Rural Area / Others,1
+48133,Münster,28
+48133,Rural Area / Others,2
+48134,Münster,21
+48135,Münster,29
+48136,Münster,28
+48137,Münster,26
+48137,Rural Area / Others,1
+48138,Münster,22
+48139,Münster,20
+48140,Münster,19
+48141,Münster,23
+48143,Münster,18
+48143,Rural Area / Others,1
+48145,Münster,23
+48145,Rural Area / Others,2
+48147,Münster,24
+48149,Münster,26
+48151,Münster,18
+48151,Rural Area / Others,1
+48153,Münster,22
+48155,Münster,22
+48155,Rural Area / Others,1
+48157,Münster,20
+48157,Rural Area / Others,1
+48159,Münster,28
+48161,Münster,19
+48163,Münster,21
+48165,Rural Area / Others,1
+48172,Rural Area / Others,1
+48249,Rural Area / Others,1
+48336,Rural Area / Others,1
+48341,Rural Area / Others,1
+48351,Rural Area / Others,1
+48369,Rural Area / Others,2
+48416,Rheine,46
+48427,Rheine,27
+48427,Rural Area / Others,1
+48429,Rheine,37
+48431,Rheine,35
+48432,Rheine,24
+48432,Rural Area / Others,1
+48477,Rural Area / Others,1
+48496,Rural Area / Others,1
+48499,Rural Area / Others,1
+48522,Nordhorn,20
+48522,Rural Area / Others,1
+48525,Nordhorn,20
+48527,Nordhorn,28
+48527,Rural Area / Others,1
+48529,Nordhorn,30
+48531,Nordhorn,27
+48596,Gronau (Westf.),19
+48599,Gronau (Westf.),31
+48599,Rural Area / Others,1
+48607,Gronau (Westf.),16
+48612,Gronau (Westf.),23
+48619,Gronau (Westf.),22
+48624,Rural Area / Others,1
+48651,Rural Area / Others,1
+48702,Rural Area / Others,1
+48703,Rural Area / Others,1
+48727,Rural Area / Others,2
+48734,Rural Area / Others,1
+48739,Rural Area / Others,1
+49068,Osnabrück,33
+49068,Rural Area / Others,1
+49070,Osnabrück,35
+49074,Osnabrück,33
+49074,Rural Area / Others,1
+49076,Osnabrück,26
+49078,Osnabrück,31
+49080,Osnabrück,27
+49082,Osnabrück,42
+49084,Osnabrück,38
+49086,Osnabrück,37
+49088,Osnabrück,26
+49090,Osnabrück,36
+49152,Rural Area / Others,1
+49163,Rural Area / Others,2
+49170,Rural Area / Others,1
+49176,Rural Area / Others,1
+49195,Rural Area / Others,1
+49196,Rural Area / Others,1
+49205,Rural Area / Others,1
+49374,Rural Area / Others,1
+49377,Rural Area / Others,1
+49401,Rural Area / Others,1
+49451,Rural Area / Others,2
+49453,Rural Area / Others,1
+49456,Rural Area / Others,1
+49457,Ibbenbüren,21
+49459,Ibbenbüren,16
+49475,Ibbenbüren,10
+49477,Ibbenbüren,26
+49477,Rural Area / Others,1
+49479,Ibbenbüren,18
+49479,Rural Area / Others,1
+49492,Ibbenbüren,11
+49492,Rural Area / Others,1
+49497,Ibbenbüren,11
+49577,Rural Area / Others,1
+49596,Rural Area / Others,1
+49626,Rural Area / Others,1
+49661,Rural Area / Others,1
+49681,Rural Area / Others,2
+49733,Rural Area / Others,1
+49744,Rural Area / Others,1
+49751,Rural Area / Others,1
+49767,Rural Area / Others,1
+49774,Rural Area / Others,1
+49801,Lingen (Ems),17
+49803,Lingen (Ems),18
+49808,Lingen (Ems),26
+49808,Rural Area / Others,2
+49809,Lingen (Ems),16
+49811,Lingen (Ems),10
+49824,Lingen (Ems),20
+49824,Rural Area / Others,1
+49828,Lingen (Ems),17
+49846,Rural Area / Others,1
+50123,Bergheim,26
+50124,Bergheim,29
+50124,Rural Area / Others,1
+50126,Bergheim,30
+50127,Bergheim,22
+50129,Bergheim,28
+50129,Rural Area / Others,1
+50169,Kerpen,31
+50170,Kerpen,18
+50171,Kerpen,46
+50181,Kerpen,22
+50181,Rural Area / Others,1
+50189,Kerpen,29
+50226,Frechen,114
+50226,Rural Area / Others,1
+50259,Pulheim,123
+50259,Rural Area / Others,1
+50351,Hürth,30
+50351,Rural Area / Others,1
+50354,Hürth,69
+50354,Rural Area / Others,1
+50374,Hürth,37
+50399,Rural Area / Others,2
+50413,Rural Area / Others,1
+50417,Rural Area / Others,2
+50421,Rural Area / Others,1
+50574,Rural Area / Others,1
+50583,Rural Area / Others,1
+50587,Köln,55
+50587,Rural Area / Others,2
+50588,Köln,79
+50589,Köln,69
+50589,Rural Area / Others,1
+50590,Köln,82
+50590,Rural Area / Others,1
+50591,Köln,74
+50591,Rural Area / Others,1
+50592,Köln,71
+50592,Rural Area / Others,1
+50593,Köln,80
+50594,Köln,57
+50595,Köln,68
+50596,Köln,73
+50596,Rural Area / Others,2
+50598,Köln,64
+50600,Köln,83
+50600,Rural Area / Others,1
+50602,Köln,59
+50603,Köln,84
+50603,Rural Area / Others,1
+50604,Köln,67
+50604,Rural Area / Others,1
+50605,Köln,84
+50606,Köln,70
+50607,Köln,60
+50607,Rural Area / Others,1
+50657,Köln,75
+50658,Köln,67
+50661,Köln,61
+50661,Rural Area / Others,2
+50662,Köln,73
+50662,Rural Area / Others,1
+50663,Köln,73
+50664,Köln,67
+50664,Rural Area / Others,1
+50667,Köln,84
+50668,Köln,82
+50670,Köln,57
+50670,Rural Area / Others,1
+50672,Köln,66
+50674,Köln,83
+50676,Köln,74
+50677,Köln,72
+50677,Rural Area / Others,1
+50678,Köln,81
+50679,Köln,86
+50725,Köln,68
+50726,Köln,80
+50727,Köln,65
+50727,Rural Area / Others,1
+50728,Köln,75
+50729,Köln,70
+50730,Köln,78
+50733,Köln,77
+50735,Köln,72
+50735,Rural Area / Others,2
+50737,Köln,73
+50739,Köln,70
+50739,Rural Area / Others,1
+50765,Rural Area / Others,1
+50825,Rural Area / Others,1
+50827,Rural Area / Others,1
+50855,Rural Area / Others,2
+50919,Rural Area / Others,2
+50922,Rural Area / Others,2
+50924,Rural Area / Others,1
+50927,Rural Area / Others,1
+50928,Rural Area / Others,1
+50935,Rural Area / Others,1
+50939,Rural Area / Others,1
+50963,Rural Area / Others,2
+50965,Rural Area / Others,2
+51057,Rural Area / Others,1
+51065,Rural Area / Others,1
+51101,Rural Area / Others,2
+51103,Rural Area / Others,1
+51147,Rural Area / Others,1
+51149,Rural Area / Others,1
+51175,Rural Area / Others,1
+51365,Leverkusen,29
+51366,Leverkusen,35
+51367,Leverkusen,36
+51369,Leverkusen,33
+51369,Rural Area / Others,1
+51370,Leverkusen,29
+51371,Leverkusen,41
+51373,Leverkusen,24
+51373,Rural Area / Others,1
+51375,Leverkusen,24
+51377,Leverkusen,34
+51377,Rural Area / Others,1
+51379,Leverkusen,41
+51381,Leverkusen,44
+51381,Rural Area / Others,1
+51427,Rural Area / Others,1
+51462,Bergisch Gladbach,42
+51463,Bergisch Gladbach,30
+51463,Rural Area / Others,1
+51465,Bergisch Gladbach,61
+51467,Bergisch Gladbach,54
+51469,Bergisch Gladbach,57
+51489,Rural Area / Others,1
+51503,Rural Area / Others,1
+51641,Gummersbach,29
+51641,Rural Area / Others,1
+51643,Gummersbach,37
+51645,Gummersbach,20
+51647,Gummersbach,26
+51647,Rural Area / Others,1
+51674,Rural Area / Others,1
+51702,Rural Area / Others,1
+52045,Aachen,29
+52046,Aachen,28
+52047,Aachen,25
+52049,Aachen,26
+52053,Aachen,35
+52054,Aachen,33
+52054,Rural Area / Others,1
+52055,Aachen,30
+52056,Aachen,26
+52056,Rural Area / Others,2
+52057,Aachen,22
+52058,Aachen,24
+52059,Aachen,28
+52060,Aachen,21
+52060,Rural Area / Others,1
+52062,Aachen,21
+52064,Aachen,28
+52066,Aachen,26
+52068,Aachen,37
+52070,Aachen,24
+52070,Rural Area / Others,1
+52072,Aachen,34
+52072,Rural Area / Others,1
+52074,Aachen,25
+52074,Rural Area / Others,1
+52076,Aachen,28
+52076,Rural Area / Others,1
+52078,Aachen,26
+52084,Rural Area / Others,1
+52101,Rural Area / Others,1
+52134,Rural Area / Others,1
+52146,Rural Area / Others,1
+52152,Rural Area / Others,1
+52156,Rural Area / Others,1
+52220,Stolberg (Rhld.),30
+52222,Stolberg (Rhld.),39
+52223,Stolberg (Rhld.),30
+52224,Stolberg (Rhld.),27
+52249,Eschweiler,126
+52348,Düren,36
+52349,Düren,55
+52349,Rural Area / Others,2
+52351,Düren,42
+52353,Düren,44
+52353,Rural Area / Others,1
+52355,Düren,30
+52372,Rural Area / Others,1
+52385,Rural Area / Others,1
+52399,Rural Area / Others,1
+52426,Rural Area / Others,1
+52459,Rural Area / Others,1
+52475,Rural Area / Others,2
+52511,Rural Area / Others,1
+53094,Bonn,39
+53095,Bonn,35
+53095,Rural Area / Others,1
+53096,Bonn,31
+53099,Bonn,31
+53100,Bonn,34
+53102,Bonn,24
+53103,Bonn,23
+53104,Bonn,34
+53105,Bonn,25
+53105,Rural Area / Others,1
+53106,Bonn,25
+53106,Rural Area / Others,1
+53107,Bonn,35
+53108,Bonn,23
+53108,Rural Area / Others,1
+53109,Bonn,34
+53110,Bonn,33
+53111,Bonn,27
+53111,Rural Area / Others,1
+53113,Bonn,31
+53115,Bonn,34
+53115,Rural Area / Others,1
+53117,Bonn,34
+53117,Rural Area / Others,1
+53119,Bonn,21
+53121,Bonn,26
+53123,Bonn,37
+53125,Bonn,28
+53127,Bonn,25
+53127,Rural Area / Others,2
+53129,Bonn,21
+53170,Rural Area / Others,1
+53175,Rural Area / Others,1
+53177,Rural Area / Others,1
+53223,Rural Area / Others,1
+53229,Rural Area / Others,1
+53243,Rural Area / Others,1
+53247,Rural Area / Others,1
+53248,Rural Area / Others,1
+53286,Rural Area / Others,1
+53340,Rural Area / Others,2
+53423,Rural Area / Others,1
+53424,Rural Area / Others,1
+53426,Rural Area / Others,1
+53498,Rural Area / Others,1
+53508,Rural Area / Others,1
+53557,Rural Area / Others,3
+53578,Rural Area / Others,1
+53579,Rural Area / Others,2
+53604,Rural Area / Others,2
+53619,Rural Area / Others,1
+53637,Rural Area / Others,1
+53754,Rural Area / Others,2
+53754,Sankt Augustin,36
+53757,Sankt Augustin,60
+53773,Rural Area / Others,1
+53773,Sankt Augustin,28
+53797,Rural Area / Others,1
+53819,Rural Area / Others,1
+53839,Troisdorf,31
+53840,Troisdorf,46
+53842,Troisdorf,36
+53844,Troisdorf,29
+53859,Euskirchen,24
+53859,Rural Area / Others,1
+53859,Troisdorf,24
+53877,Euskirchen,18
+53879,Euskirchen,32
+53881,Euskirchen,19
+53884,Euskirchen,19
+53884,Rural Area / Others,1
+53894,Euskirchen,19
+53909,Rural Area / Others,1
+53940,Rural Area / Others,1
+54286,Trier,11
+54287,Trier,28
+54290,Trier,18
+54292,Trier,21
+54293,Rural Area / Others,1
+54293,Trier,18
+54294,Rural Area / Others,3
+54294,Trier,16
+54295,Rural Area / Others,1
+54295,Trier,12
+54296,Trier,18
+54298,Rural Area / Others,1
+54298,Trier,21
+54306,Trier,16
+54308,Rural Area / Others,1
+54308,Trier,20
+54309,Trier,20
+54310,Trier,10
+54313,Rural Area / Others,1
+54320,Rural Area / Others,1
+54332,Rural Area / Others,1
+54346,Rural Area / Others,1
+54349,Rural Area / Others,2
+54411,Rural Area / Others,1
+54413,Rural Area / Others,1
+54441,Rural Area / Others,1
+54451,Rural Area / Others,1
+54456,Rural Area / Others,1
+54469,Rural Area / Others,1
+54470,Rural Area / Others,2
+54518,Rural Area / Others,1
+54524,Rural Area / Others,1
+54526,Rural Area / Others,1
+54529,Rural Area / Others,1
+54552,Rural Area / Others,1
+54567,Rural Area / Others,1
+54570,Rural Area / Others,1
+54574,Rural Area / Others,1
+54578,Rural Area / Others,1
+54608,Rural Area / Others,1
+54610,Rural Area / Others,1
+54611,Rural Area / Others,1
+54657,Rural Area / Others,2
+54668,Rural Area / Others,1
+54673,Rural Area / Others,1
+55097,Mainz,23
+55098,Mainz,34
+55099,Mainz,38
+55099,Rural Area / Others,1
+55100,Mainz,32
+55100,Rural Area / Others,1
+55101,Mainz,31
+55116,Mainz,29
+55118,Mainz,28
+55120,Mainz,20
+55122,Mainz,32
+55124,Mainz,34
+55126,Mainz,29
+55127,Mainz,42
+55127,Rural Area / Others,2
+55128,Mainz,31
+55128,Rural Area / Others,1
+55129,Mainz,29
+55130,Mainz,30
+55130,Rural Area / Others,2
+55131,Mainz,31
+55131,Rural Area / Others,1
+55147,Rural Area / Others,1
+55232,Rural Area / Others,1
+55262,Rural Area / Others,1
+55288,Rural Area / Others,1
+55291,Rural Area / Others,1
+55408,Rural Area / Others,1
+55409,Rural Area / Others,1
+55422,Rural Area / Others,1
+55444,Rural Area / Others,1
+55450,Rural Area / Others,1
+55471,Rural Area / Others,1
+55538,Bad Kreuznach,19
+55540,Bad Kreuznach,17
+55541,Bad Kreuznach,19
+55543,Bad Kreuznach,18
+55545,Bad Kreuznach,15
+55546,Bad Kreuznach,19
+55559,Bad Kreuznach,11
+55559,Rural Area / Others,1
+55578,Rural Area / Others,1
+55595,Rural Area / Others,1
+55599,Rural Area / Others,1
+55618,Rural Area / Others,1
+55621,Rural Area / Others,1
+55624,Rural Area / Others,1
+55627,Rural Area / Others,1
+55629,Rural Area / Others,2
+55758,Rural Area / Others,1
+55768,Rural Area / Others,1
+56048,Koblenz,11
+56053,Koblenz,15
+56054,Koblenz,8
+56055,Koblenz,8
+56055,Rural Area / Others,2
+56056,Koblenz,14
+56057,Koblenz,9
+56058,Koblenz,13
+56058,Rural Area / Others,1
+56059,Koblenz,14
+56060,Koblenz,19
+56062,Koblenz,9
+56063,Koblenz,7
+56064,Koblenz,10
+56064,Rural Area / Others,2
+56065,Koblenz,9
+56066,Koblenz,5
+56068,Koblenz,16
+56070,Koblenz,13
+56072,Koblenz,7
+56073,Koblenz,12
+56073,Rural Area / Others,1
+56075,Koblenz,6
+56075,Rural Area / Others,2
+56076,Koblenz,11
+56076,Rural Area / Others,1
+56077,Koblenz,7
+56077,Rural Area / Others,1
+56078,Koblenz,13
+56079,Koblenz,4
+56080,Koblenz,8
+56112,Rural Area / Others,1
+56128,Rural Area / Others,1
+56182,Rural Area / Others,1
+56204,Rural Area / Others,1
+56206,Rural Area / Others,1
+56220,Rural Area / Others,1
+56235,Rural Area / Others,1
+56237,Rural Area / Others,1
+56242,Rural Area / Others,2
+56249,Rural Area / Others,1
+56253,Rural Area / Others,1
+56271,Rural Area / Others,1
+56283,Rural Area / Others,1
+56294,Rural Area / Others,1
+56299,Rural Area / Others,1
+56305,Rural Area / Others,1
+56321,Rural Area / Others,1
+56330,Rural Area / Others,1
+56346,Rural Area / Others,1
+56349,Rural Area / Others,1
+56368,Rural Area / Others,1
+56370,Rural Area / Others,1
+56377,Rural Area / Others,1
+56407,Rural Area / Others,1
+56414,Rural Area / Others,1
+56427,Rural Area / Others,1
+56456,Rural Area / Others,1
+56469,Rural Area / Others,2
+56560,Neuwied,13
+56562,Neuwied,12
+56564,Neuwied,20
+56566,Neuwied,13
+56567,Neuwied,13
+56567,Rural Area / Others,1
+56575,Neuwied,14
+56578,Neuwied,12
+56579,Neuwied,7
+56581,Neuwied,24
+56584,Neuwied,19
+56594,Rural Area / Others,1
+56624,Rural Area / Others,1
+56727,Rural Area / Others,1
+56736,Rural Area / Others,1
+56745,Rural Area / Others,2
+56754,Rural Area / Others,1
+56759,Rural Area / Others,2
+56841,Rural Area / Others,1
+56859,Rural Area / Others,1
+56861,Rural Area / Others,1
+56864,Rural Area / Others,3
+57068,Siegen,28
+57069,Rural Area / Others,1
+57069,Siegen,26
+57070,Siegen,37
+57072,Siegen,30
+57074,Siegen,28
+57076,Rural Area / Others,1
+57076,Siegen,26
+57078,Siegen,22
+57080,Rural Area / Others,1
+57080,Siegen,28
+57110,Rural Area / Others,1
+57271,Rural Area / Others,1
+57289,Rural Area / Others,1
+57290,Rural Area / Others,1
+57299,Rural Area / Others,1
+57319,Rural Area / Others,1
+57334,Rural Area / Others,1
+57548,Rural Area / Others,2
+57567,Rural Area / Others,1
+57572,Rural Area / Others,1
+57587,Rural Area / Others,1
+57589,Rural Area / Others,1
+57610,Rural Area / Others,1
+57614,Rural Area / Others,1
+57632,Rural Area / Others,1
+57635,Rural Area / Others,1
+57644,Rural Area / Others,1
+57645,Rural Area / Others,1
+57648,Rural Area / Others,1
+58079,Hagen,38
+58080,Hagen,24
+58080,Rural Area / Others,1
+58081,Hagen,23
+58082,Hagen,23
+58083,Hagen,34
+58084,Hagen,22
+58085,Hagen,32
+58085,Rural Area / Others,1
+58086,Hagen,35
+58089,Hagen,26
+58091,Hagen,37
+58093,Hagen,24
+58093,Rural Area / Others,1
+58095,Hagen,37
+58095,Rural Area / Others,1
+58097,Hagen,39
+58099,Hagen,24
+58099,Rural Area / Others,1
+58119,Rural Area / Others,1
+58133,Rural Area / Others,1
+58285,Rural Area / Others,1
+58292,Rural Area / Others,1
+58298,Rural Area / Others,1
+58448,Witten,33
+58449,Rural Area / Others,1
+58449,Witten,24
+58452,Witten,25
+58453,Witten,23
+58454,Witten,28
+58455,Witten,35
+58456,Witten,33
+58505,Lüdenscheid,24
+58505,Rural Area / Others,1
+58507,Lüdenscheid,25
+58507,Rural Area / Others,1
+58509,Lüdenscheid,29
+58511,Lüdenscheid,30
+58513,Lüdenscheid,23
+58515,Lüdenscheid,25
+58540,Rural Area / Others,1
+58553,Rural Area / Others,1
+58566,Rural Area / Others,1
+58634,Iserlohn,33
+58636,Iserlohn,43
+58638,Iserlohn,28
+58640,Iserlohn,25
+58642,Iserlohn,36
+58644,Iserlohn,36
+58706,Menden (Sauerland),53
+58706,Rural Area / Others,1
+58708,Menden (Sauerland),33
+58710,Menden (Sauerland),28
+58791,Rural Area / Others,1
+58849,Rural Area / Others,2
+59056,Hamm,25
+59056,Rural Area / Others,1
+59057,Hamm,26
+59059,Hamm,30
+59060,Hamm,30
+59061,Hamm,33
+59062,Hamm,24
+59063,Hamm,25
+59065,Hamm,28
+59065,Rural Area / Others,1
+59067,Hamm,35
+59067,Rural Area / Others,1
+59069,Hamm,17
+59071,Hamm,29
+59071,Rural Area / Others,1
+59073,Hamm,31
+59075,Hamm,32
+59077,Hamm,30
+59089,Rural Area / Others,1
+59215,Ahlen,30
+59215,Rural Area / Others,2
+59225,Ahlen,24
+59227,Ahlen,32
+59227,Rural Area / Others,1
+59229,Ahlen,29
+59302,Rural Area / Others,1
+59366,Rural Area / Others,1
+59399,Rural Area / Others,1
+59423,Unna,29
+59425,Unna,20
+59427,Rural Area / Others,1
+59427,Unna,27
+59438,Unna,24
+59439,Unna,28
+59490,Rural Area / Others,1
+59494,Rural Area / Others,1
+59510,Rural Area / Others,1
+59519,Rural Area / Others,1
+59552,Lippstadt,26
+59553,Lippstadt,36
+59555,Lippstadt,22
+59556,Lippstadt,21
+59557,Lippstadt,26
+59558,Lippstadt,19
+59602,Rural Area / Others,1
+59753,Arnsberg,28
+59755,Arnsberg,40
+59757,Arnsberg,36
+59759,Arnsberg,60
+59759,Rural Area / Others,1
+59823,Rural Area / Others,1
+59870,Rural Area / Others,3
+59939,Rural Area / Others,2
+59964,Rural Area / Others,2
+60185,Rural Area / Others,1
+60252,Frankfurt am Main,28
+60252,Rural Area / Others,1
+60254,Frankfurt am Main,45
+60255,Frankfurt am Main,45
+60255,Rural Area / Others,1
+60256,Frankfurt am Main,38
+60257,Frankfurt am Main,40
+60259,Frankfurt am Main,33
+60261,Frankfurt am Main,43
+60262,Frankfurt am Main,50
+60263,Frankfurt am Main,34
+60264,Frankfurt am Main,29
+60264,Rural Area / Others,1
+60265,Frankfurt am Main,37
+60267,Frankfurt am Main,34
+60267,Rural Area / Others,1
+60270,Frankfurt am Main,30
+60270,Rural Area / Others,1
+60274,Frankfurt am Main,38
+60274,Rural Area / Others,1
+60275,Frankfurt am Main,26
+60276,Frankfurt am Main,36
+60277,Frankfurt am Main,45
+60278,Frankfurt am Main,48
+60279,Frankfurt am Main,39
+60279,Rural Area / Others,1
+60280,Frankfurt am Main,36
+60281,Frankfurt am Main,49
+60282,Frankfurt am Main,31
+60284,Frankfurt am Main,39
+60284,Rural Area / Others,1
+60285,Frankfurt am Main,31
+60286,Frankfurt am Main,33
+60286,Rural Area / Others,1
+60287,Frankfurt am Main,36
+60289,Frankfurt am Main,44
+60290,Frankfurt am Main,34
+60290,Rural Area / Others,1
+60291,Frankfurt am Main,29
+60296,Frankfurt am Main,43
+60297,Frankfurt am Main,33
+60298,Frankfurt am Main,35
+60300,Frankfurt am Main,39
+60301,Frankfurt am Main,46
+60304,Frankfurt am Main,46
+60304,Rural Area / Others,2
+60305,Frankfurt am Main,37
+60305,Rural Area / Others,1
+60306,Frankfurt am Main,47
+60307,Frankfurt am Main,41
+60308,Frankfurt am Main,44
+60308,Rural Area / Others,1
+60309,Frankfurt am Main,36
+60310,Frankfurt am Main,32
+60311,Frankfurt am Main,39
+60313,Frankfurt am Main,33
+60313,Rural Area / Others,1
+60314,Frankfurt am Main,33
+60314,Rural Area / Others,1
+60316,Frankfurt am Main,40
+60318,Frankfurt am Main,41
+60320,Frankfurt am Main,36
+60322,Frankfurt am Main,24
+60322,Rural Area / Others,1
+60323,Frankfurt am Main,38
+60325,Frankfurt am Main,38
+60326,Frankfurt am Main,38
+60327,Frankfurt am Main,34
+60327,Rural Area / Others,2
+60329,Frankfurt am Main,40
+60377,Frankfurt am Main,39
+60379,Frankfurt am Main,33
+60380,Frankfurt am Main,27
+60380,Rural Area / Others,1
+60382,Frankfurt am Main,40
+60385,Frankfurt am Main,33
+60386,Frankfurt am Main,46
+60388,Frankfurt am Main,35
+60388,Rural Area / Others,3
+60389,Frankfurt am Main,47
+60423,Rural Area / Others,1
+60424,Rural Area / Others,2
+60437,Rural Area / Others,1
+60546,Rural Area / Others,1
+60594,Rural Area / Others,1
+60598,Rural Area / Others,1
+60599,Rural Area / Others,1
+60600,Rural Area / Others,1
+60607,Rural Area / Others,1
+60610,Rural Area / Others,1
+60612,Rural Area / Others,1
+60615,Rural Area / Others,1
+60620,Rural Area / Others,2
+60623,Rural Area / Others,2
+60624,Rural Area / Others,2
+60630,Rural Area / Others,2
+60632,Rural Area / Others,1
+60634,Rural Area / Others,1
+60652,Rural Area / Others,1
+61116,Rural Area / Others,1
+61137,Rural Area / Others,1
+61138,Rural Area / Others,2
+61169,Rural Area / Others,2
+61184,Rural Area / Others,1
+61197,Rural Area / Others,1
+61203,Rural Area / Others,1
+61206,Rural Area / Others,1
+61250,Rural Area / Others,1
+61273,Rural Area / Others,1
+61341,Bad Homburg v. d. Höhe,21
+61341,Rural Area / Others,1
+61342,Bad Homburg v. d. Höhe,15
+61343,Bad Homburg v. d. Höhe,13
+61343,Rural Area / Others,1
+61344,Bad Homburg v. d. Höhe,9
+61345,Bad Homburg v. d. Höhe,13
+61345,Rural Area / Others,1
+61346,Bad Homburg v. d. Höhe,19
+61346,Rural Area / Others,1
+61348,Bad Homburg v. d. Höhe,11
+61350,Bad Homburg v. d. Höhe,12
+61350,Rural Area / Others,1
+61352,Bad Homburg v. d. Höhe,11
+61378,Rural Area / Others,2
+61389,Rural Area / Others,1
+61437,Rural Area / Others,1
+61462,Rural Area / Others,2
+63057,Offenbach am Main,25
+63059,Offenbach am Main,18
+63060,Offenbach am Main,17
+63061,Offenbach am Main,30
+63063,Offenbach am Main,17
+63064,Offenbach am Main,23
+63065,Offenbach am Main,25
+63067,Offenbach am Main,30
+63069,Offenbach am Main,18
+63071,Offenbach am Main,41
+63073,Offenbach am Main,20
+63075,Offenbach am Main,27
+63106,Rural Area / Others,1
+63110,Rural Area / Others,1
+63147,Rural Area / Others,1
+63150,Rural Area / Others,1
+63222,Rural Area / Others,1
+63303,Rural Area / Others,1
+63317,Rural Area / Others,1
+63438,Hanau,16
+63441,Hanau,13
+63441,Rural Area / Others,1
+63442,Hanau,22
+63443,Hanau,24
+63443,Rural Area / Others,1
+63446,Hanau,16
+63446,Rural Area / Others,1
+63447,Hanau,16
+63450,Hanau,18
+63452,Hanau,30
+63452,Rural Area / Others,2
+63454,Hanau,19
+63454,Rural Area / Others,1
+63456,Hanau,22
+63456,Rural Area / Others,1
+63457,Hanau,19
+63486,Rural Area / Others,1
+63538,Rural Area / Others,2
+63549,Rural Area / Others,1
+63569,Rural Area / Others,2
+63579,Rural Area / Others,4
+63584,Rural Area / Others,1
+63599,Rural Area / Others,1
+63637,Rural Area / Others,1
+63683,Aschaffenburg,20
+63688,Aschaffenburg,25
+63691,Aschaffenburg,20
+63694,Aschaffenburg,18
+63694,Rural Area / Others,1
+63695,Aschaffenburg,13
+63697,Aschaffenburg,23
+63699,Aschaffenburg,26
+63715,Aschaffenburg,15
+63735,Rural Area / Others,1
+63736,Rural Area / Others,1
+63743,Rural Area / Others,2
+63776,Rural Area / Others,1
+63791,Rural Area / Others,1
+63820,Rural Area / Others,1
+63839,Rural Area / Others,1
+63867,Rural Area / Others,1
+63877,Rural Area / Others,3
+63911,Rural Area / Others,2
+63925,Rural Area / Others,1
+63931,Rural Area / Others,1
+63933,Rural Area / Others,1
+63934,Rural Area / Others,1
+63936,Rural Area / Others,1
+63937,Rural Area / Others,2
+63939,Rural Area / Others,1
+64271,Darmstadt,27
+64272,Darmstadt,21
+64273,Darmstadt,22
+64275,Darmstadt,17
+64275,Rural Area / Others,2
+64276,Darmstadt,26
+64277,Darmstadt,16
+64278,Darmstadt,16
+64278,Rural Area / Others,1
+64279,Darmstadt,16
+64279,Rural Area / Others,1
+64280,Darmstadt,29
+64283,Darmstadt,25
+64285,Darmstadt,21
+64287,Darmstadt,19
+64287,Rural Area / Others,1
+64289,Darmstadt,17
+64291,Darmstadt,22
+64293,Darmstadt,23
+64295,Darmstadt,25
+64297,Darmstadt,24
+64297,Rural Area / Others,1
+64306,Rural Area / Others,1
+64308,Rural Area / Others,1
+64319,Rural Area / Others,1
+64346,Rural Area / Others,1
+64347,Rural Area / Others,1
+64367,Rural Area / Others,1
+64372,Rural Area / Others,1
+64385,Rural Area / Others,1
+64390,Rural Area / Others,1
+64395,Rural Area / Others,1
+64407,Rural Area / Others,1
+64520,Rural Area / Others,1
+64543,Rural Area / Others,1
+64545,Rural Area / Others,1
+64546,Rural Area / Others,1
+64560,Rural Area / Others,2
+64624,Rural Area / Others,3
+64625,Rural Area / Others,1
+64668,Rural Area / Others,1
+64678,Rural Area / Others,1
+64720,Rural Area / Others,1
+64732,Rural Area / Others,1
+64738,Rural Area / Others,1
+64739,Rural Area / Others,1
+64747,Rural Area / Others,1
+64807,Rural Area / Others,2
+64832,Rural Area / Others,1
+64846,Rural Area / Others,1
+64853,Rural Area / Others,1
+65164,Wiesbaden,24
+65166,Wiesbaden,26
+65169,Rural Area / Others,1
+65169,Wiesbaden,24
+65170,Wiesbaden,24
+65171,Wiesbaden,25
+65172,Wiesbaden,30
+65173,Wiesbaden,18
+65174,Rural Area / Others,1
+65174,Wiesbaden,21
+65175,Wiesbaden,22
+65176,Wiesbaden,19
+65177,Wiesbaden,20
+65178,Rural Area / Others,1
+65178,Wiesbaden,28
+65179,Wiesbaden,26
+65180,Wiesbaden,19
+65181,Wiesbaden,29
+65182,Wiesbaden,22
+65183,Wiesbaden,23
+65185,Wiesbaden,24
+65187,Rural Area / Others,1
+65187,Wiesbaden,18
+65189,Wiesbaden,24
+65191,Wiesbaden,15
+65193,Wiesbaden,26
+65195,Wiesbaden,31
+65197,Wiesbaden,24
+65199,Wiesbaden,25
+65201,Wiesbaden,26
+65203,Wiesbaden,21
+65215,Rural Area / Others,1
+65216,Rural Area / Others,1
+65218,Rural Area / Others,1
+65221,Rural Area / Others,1
+65232,Rural Area / Others,1
+65239,Rural Area / Others,1
+65326,Rural Area / Others,2
+65341,Rural Area / Others,3
+65343,Rural Area / Others,1
+65345,Rural Area / Others,1
+65375,Rural Area / Others,2
+65385,Rural Area / Others,1
+65388,Rural Area / Others,2
+65391,Rural Area / Others,1
+65423,Rural Area / Others,1
+65423,Rüsselsheim am Main,28
+65424,Rural Area / Others,1
+65424,Rüsselsheim am Main,26
+65428,Rural Area / Others,2
+65428,Rüsselsheim am Main,38
+65438,Rüsselsheim am Main,27
+65439,Rüsselsheim am Main,25
+65474,Rural Area / Others,1
+65479,Rural Area / Others,1
+65527,Rural Area / Others,1
+65529,Rural Area / Others,1
+65549,Rural Area / Others,2
+65550,Rural Area / Others,1
+65553,Rural Area / Others,1
+65556,Rural Area / Others,1
+65589,Rural Area / Others,1
+65594,Rural Area / Others,2
+65597,Rural Area / Others,1
+65614,Rural Area / Others,2
+65623,Rural Area / Others,1
+65624,Rural Area / Others,1
+65627,Rural Area / Others,1
+65756,Rural Area / Others,1
+65779,Rural Area / Others,1
+65812,Rural Area / Others,2
+65835,Rural Area / Others,1
+65927,Rural Area / Others,1
+66087,Rural Area / Others,1
+66088,Rural Area / Others,1
+66094,Rural Area / Others,1
+66094,Saarbrücken,19
+66097,Saarbrücken,22
+66098,Saarbrücken,17
+66099,Rural Area / Others,1
+66099,Saarbrücken,8
+66100,Saarbrücken,17
+66101,Saarbrücken,13
+66102,Saarbrücken,16
+66103,Saarbrücken,20
+66104,Rural Area / Others,2
+66104,Saarbrücken,14
+66106,Saarbrücken,14
+66108,Saarbrücken,19
+66109,Saarbrücken,16
+66111,Saarbrücken,14
+66113,Saarbrücken,18
+66115,Saarbrücken,19
+66117,Saarbrücken,20
+66119,Rural Area / Others,1
+66119,Saarbrücken,15
+66121,Saarbrücken,10
+66123,Saarbrücken,15
+66125,Saarbrücken,12
+66126,Saarbrücken,15
+66127,Saarbrücken,12
+66128,Saarbrücken,15
+66129,Rural Area / Others,1
+66129,Saarbrücken,10
+66130,Saarbrücken,14
+66131,Saarbrücken,17
+66133,Rural Area / Others,1
+66150,Rural Area / Others,1
+66265,Rural Area / Others,1
+66287,Rural Area / Others,2
+66299,Rural Area / Others,1
+66330,Rural Area / Others,1
+66484,Rural Area / Others,1
+66497,Rural Area / Others,1
+66503,Rural Area / Others,2
+66506,Rural Area / Others,1
+66509,Rural Area / Others,1
+66539,Rural Area / Others,1
+66540,Rural Area / Others,1
+66583,Rural Area / Others,1
+66620,Rural Area / Others,1
+66661,Rural Area / Others,2
+66693,Rural Area / Others,2
+66787,Rural Area / Others,1
+66809,Rural Area / Others,1
+66849,Rural Area / Others,1
+66851,Rural Area / Others,1
+66892,Rural Area / Others,1
+66894,Rural Area / Others,2
+66901,Rural Area / Others,1
+66914,Rural Area / Others,1
+66951,Rural Area / Others,1
+66954,Rural Area / Others,1
+66955,Rural Area / Others,1
+66969,Rural Area / Others,1
+66989,Rural Area / Others,2
+66994,Rural Area / Others,2
+67055,Ludwigshafen am Rhein,33
+67056,Ludwigshafen am Rhein,30
+67057,Ludwigshafen am Rhein,30
+67057,Rural Area / Others,1
+67059,Ludwigshafen am Rhein,15
+67061,Ludwigshafen am Rhein,23
+67061,Rural Area / Others,1
+67063,Ludwigshafen am Rhein,26
+67065,Ludwigshafen am Rhein,32
+67067,Ludwigshafen am Rhein,28
+67067,Rural Area / Others,1
+67069,Ludwigshafen am Rhein,20
+67069,Rural Area / Others,1
+67071,Ludwigshafen am Rhein,34
+67075,Ludwigshafen am Rhein,27
+67075,Rural Area / Others,2
+67076,Ludwigshafen am Rhein,22
+67076,Rural Area / Others,1
+67077,Ludwigshafen am Rhein,36
+67078,Ludwigshafen am Rhein,33
+67078,Rural Area / Others,1
+67098,Rural Area / Others,1
+67125,Rural Area / Others,1
+67133,Rural Area / Others,1
+67134,Rural Area / Others,2
+67141,Rural Area / Others,2
+67166,Rural Area / Others,2
+67229,Rural Area / Others,1
+67259,Rural Area / Others,1
+67271,Rural Area / Others,1
+67281,Rural Area / Others,1
+67304,Rural Area / Others,1
+67316,Rural Area / Others,1
+67340,Speyer,10
+67342,Rural Area / Others,1
+67342,Speyer,15
+67343,Rural Area / Others,1
+67343,Speyer,9
+67346,Speyer,16
+67354,Speyer,12
+67360,Speyer,5
+67361,Rural Area / Others,1
+67361,Speyer,9
+67363,Speyer,8
+67365,Rural Area / Others,1
+67365,Speyer,10
+67366,Speyer,14
+67377,Rural Area / Others,1
+67429,Neustadt an der Weinstraße,11
+67433,Neustadt an der Weinstraße,47
+67434,Neustadt an der Weinstraße,23
+67435,Neustadt an der Weinstraße,35
+67466,Rural Area / Others,1
+67473,Rural Area / Others,1
+67480,Rural Area / Others,1
+67483,Rural Area / Others,1
+67545,Worms,43
+67547,Worms,45
+67549,Rural Area / Others,1
+67549,Worms,37
+67550,Rural Area / Others,1
+67550,Worms,36
+67551,Worms,29
+67577,Rural Area / Others,1
+67578,Rural Area / Others,2
+67580,Rural Area / Others,1
+67590,Rural Area / Others,2
+67595,Rural Area / Others,1
+67650,Kaiserslautern,24
+67653,Kaiserslautern,30
+67655,Kaiserslautern,23
+67657,Kaiserslautern,27
+67659,Kaiserslautern,27
+67661,Kaiserslautern,32
+67663,Kaiserslautern,25
+67677,Kaiserslautern,32
+67685,Rural Area / Others,1
+67686,Rural Area / Others,1
+67693,Rural Area / Others,1
+67715,Rural Area / Others,1
+67728,Rural Area / Others,1
+67732,Rural Area / Others,1
+67735,Rural Area / Others,1
+67737,Rural Area / Others,1
+67745,Rural Area / Others,1
+67756,Rural Area / Others,1
+67757,Rural Area / Others,1
+67759,Rural Area / Others,1
+67814,Rural Area / Others,2
+67816,Rural Area / Others,1
+67824,Rural Area / Others,1
+67826,Rural Area / Others,1
+67829,Rural Area / Others,1
+68051,Rural Area / Others,1
+68128,Rural Area / Others,1
+68132,Rural Area / Others,1
+68135,Rural Area / Others,1
+68139,Mannheim,31
+68140,Mannheim,40
+68141,Mannheim,33
+68142,Mannheim,42
+68143,Mannheim,38
+68144,Mannheim,29
+68144,Rural Area / Others,1
+68145,Mannheim,30
+68145,Rural Area / Others,1
+68146,Mannheim,40
+68146,Rural Area / Others,1
+68147,Mannheim,34
+68148,Mannheim,33
+68149,Mannheim,39
+68150,Mannheim,34
+68151,Mannheim,43
+68156,Mannheim,42
+68159,Mannheim,25
+68161,Mannheim,32
+68161,Rural Area / Others,1
+68163,Mannheim,29
+68165,Mannheim,34
+68167,Mannheim,33
+68169,Mannheim,37
+68199,Rural Area / Others,1
+68239,Rural Area / Others,1
+68298,Rural Area / Others,1
+68301,Rural Area / Others,1
+68309,Rural Area / Others,2
+68542,Rural Area / Others,1
+68549,Rural Area / Others,1
+68619,Rural Area / Others,1
+68649,Rural Area / Others,1
+68721,Rural Area / Others,1
+68775,Rural Area / Others,1
+68789,Rural Area / Others,1
+68799,Rural Area / Others,2
+68804,Rural Area / Others,1
+69108,Heidelberg,25
+69108,Rural Area / Others,1
+69110,Heidelberg,34
+69111,Heidelberg,19
+69111,Rural Area / Others,2
+69112,Heidelberg,23
+69113,Heidelberg,23
+69115,Heidelberg,39
+69117,Heidelberg,27
+69118,Heidelberg,25
+69120,Heidelberg,28
+69121,Heidelberg,19
+69123,Heidelberg,22
+69124,Heidelberg,34
+69124,Rural Area / Others,1
+69126,Heidelberg,24
+69151,Rural Area / Others,1
+69168,Rural Area / Others,1
+69221,Rural Area / Others,1
+69239,Rural Area / Others,1
+69242,Rural Area / Others,1
+69253,Rural Area / Others,1
+69412,Rural Area / Others,1
+69436,Rural Area / Others,1
+69517,Rural Area / Others,1
+70131,Rural Area / Others,3
+70131,Stuttgart,41
+70134,Stuttgart,49
+70135,Rural Area / Others,1
+70135,Stuttgart,47
+70136,Stuttgart,39
+70137,Rural Area / Others,1
+70137,Stuttgart,50
+70138,Stuttgart,39
+70139,Stuttgart,43
+70140,Stuttgart,43
+70141,Stuttgart,40
+70143,Stuttgart,45
+70144,Stuttgart,58
+70145,Stuttgart,44
+70146,Stuttgart,42
+70148,Stuttgart,36
+70149,Stuttgart,46
+70150,Stuttgart,38
+70151,Rural Area / Others,1
+70151,Stuttgart,38
+70152,Stuttgart,42
+70153,Stuttgart,35
+70154,Stuttgart,43
+70155,Rural Area / Others,1
+70155,Stuttgart,47
+70158,Stuttgart,40
+70161,Stuttgart,41
+70162,Stuttgart,34
+70166,Stuttgart,42
+70167,Stuttgart,43
+70168,Stuttgart,43
+70171,Rural Area / Others,1
+70171,Stuttgart,41
+70173,Stuttgart,40
+70174,Stuttgart,38
+70176,Stuttgart,44
+70178,Stuttgart,38
+70180,Stuttgart,31
+70182,Rural Area / Others,1
+70182,Stuttgart,43
+70184,Stuttgart,56
+70186,Rural Area / Others,1
+70186,Stuttgart,35
+70188,Rural Area / Others,1
+70188,Stuttgart,45
+70190,Stuttgart,41
+70191,Stuttgart,49
+70192,Rural Area / Others,1
+70192,Stuttgart,46
+70193,Rural Area / Others,1
+70193,Stuttgart,40
+70195,Rural Area / Others,1
+70195,Stuttgart,42
+70197,Stuttgart,40
+70199,Stuttgart,41
+70320,Rural Area / Others,1
+70322,Rural Area / Others,1
+70329,Rural Area / Others,1
+70374,Rural Area / Others,1
+70435,Rural Area / Others,1
+70494,Rural Area / Others,1
+70499,Rural Area / Others,1
+70537,Rural Area / Others,1
+70538,Rural Area / Others,1
+70539,Rural Area / Others,1
+70545,Rural Area / Others,2
+70547,Rural Area / Others,1
+70551,Rural Area / Others,1
+70593,Rural Area / Others,1
+70597,Rural Area / Others,2
+70599,Rural Area / Others,1
+70627,Rural Area / Others,1
+70730,Rural Area / Others,1
+70764,Rural Area / Others,1
+70769,Rural Area / Others,1
+70788,Rural Area / Others,1
+70806,Rural Area / Others,1
+70821,Rural Area / Others,1
+70839,Rural Area / Others,1
+71028,Böblingen,22
+71029,Böblingen,22
+71029,Rural Area / Others,1
+71032,Böblingen,43
+71034,Böblingen,26
+71058,Sindelfingen,14
+71060,Sindelfingen,23
+71063,Sindelfingen,22
+71065,Sindelfingen,18
+71067,Sindelfingen,18
+71069,Rural Area / Others,2
+71069,Sindelfingen,19
+71083,Sindelfingen,20
+71087,Rural Area / Others,1
+71088,Rural Area / Others,1
+71093,Rural Area / Others,1
+71101,Rural Area / Others,1
+71111,Rural Area / Others,2
+71116,Rural Area / Others,1
+71144,Rural Area / Others,1
+71149,Rural Area / Others,1
+71157,Rural Area / Others,1
+71226,Leonberg,22
+71226,Rural Area / Others,1
+71229,Leonberg,86
+71261,Rural Area / Others,1
+71277,Rural Area / Others,1
+71327,Rural Area / Others,1
+71327,Waiblingen,24
+71328,Waiblingen,19
+71332,Waiblingen,32
+71334,Waiblingen,25
+71336,Waiblingen,25
+71404,Rural Area / Others,2
+71522,Rural Area / Others,1
+71546,Rural Area / Others,1
+71577,Rural Area / Others,1
+71579,Rural Area / Others,1
+71629,Ludwigsburg,21
+71629,Rural Area / Others,1
+71630,Ludwigsburg,26
+71631,Ludwigsburg,20
+71631,Rural Area / Others,1
+71632,Ludwigsburg,21
+71632,Rural Area / Others,1
+71634,Ludwigsburg,29
+71636,Ludwigsburg,25
+71636,Rural Area / Others,1
+71638,Ludwigsburg,21
+71638,Rural Area / Others,1
+71640,Ludwigsburg,16
+71642,Ludwigsburg,24
+71679,Rural Area / Others,2
+71696,Rural Area / Others,1
+71701,Rural Area / Others,1
+71737,Rural Area / Others,1
+72070,Tübingen,76
+72072,Tübingen,37
+72074,Tübingen,48
+72076,Tübingen,41
+72131,Rural Area / Others,1
+72144,Rural Area / Others,1
+72145,Rural Area / Others,1
+72172,Rural Area / Others,1
+72181,Rural Area / Others,1
+72202,Rural Area / Others,1
+72213,Rural Area / Others,1
+72270,Rural Area / Others,1
+72275,Rural Area / Others,1
+72280,Rural Area / Others,1
+72297,Rural Area / Others,1
+72336,Rural Area / Others,1
+72355,Rural Area / Others,1
+72358,Rural Area / Others,2
+72359,Rural Area / Others,1
+72458,Rural Area / Others,1
+72461,Rural Area / Others,1
+72469,Rural Area / Others,2
+72488,Rural Area / Others,1
+72505,Rural Area / Others,1
+72516,Rural Area / Others,1
+72535,Rural Area / Others,1
+72539,Rural Area / Others,2
+72574,Rural Area / Others,1
+72589,Rural Area / Others,1
+72639,Rural Area / Others,1
+72649,Rural Area / Others,1
+72655,Rural Area / Others,1
+72666,Rural Area / Others,1
+72757,Reutlingen,29
+72758,Reutlingen,28
+72760,Reutlingen,36
+72762,Reutlingen,12
+72764,Reutlingen,23
+72766,Reutlingen,28
+72768,Reutlingen,24
+72770,Reutlingen,28
+72780,Reutlingen,35
+72781,Reutlingen,18
+72820,Rural Area / Others,1
+73025,Göppingen,24
+73025,Rural Area / Others,1
+73027,Göppingen,19
+73033,Göppingen,23
+73035,Göppingen,21
+73035,Rural Area / Others,2
+73037,Göppingen,21
+73047,Göppingen,21
+73102,Rural Area / Others,1
+73104,Rural Area / Others,1
+73105,Rural Area / Others,2
+73111,Rural Area / Others,1
+73113,Rural Area / Others,1
+73116,Rural Area / Others,1
+73227,Rural Area / Others,1
+73240,Rural Area / Others,1
+73265,Rural Area / Others,1
+73272,Rural Area / Others,1
+73274,Rural Area / Others,1
+73275,Rural Area / Others,1
+73329,Rural Area / Others,1
+73340,Rural Area / Others,1
+73342,Rural Area / Others,1
+73344,Rural Area / Others,1
+73349,Rural Area / Others,1
+73425,Aalen,11
+73425,Rural Area / Others,1
+73427,Aalen,12
+73428,Aalen,11
+73430,Aalen,13
+73431,Aalen,11
+73432,Aalen,10
+73432,Rural Area / Others,1
+73433,Aalen,14
+73433,Rural Area / Others,2
+73434,Aalen,10
+73441,Aalen,12
+73446,Aalen,14
+73447,Aalen,15
+73447,Rural Area / Others,1
+73450,Aalen,15
+73453,Rural Area / Others,1
+73457,Rural Area / Others,1
+73460,Rural Area / Others,1
+73463,Rural Area / Others,2
+73477,Rural Area / Others,1
+73479,Rural Area / Others,1
+73488,Rural Area / Others,1
+73489,Rural Area / Others,1
+73492,Rural Area / Others,1
+73494,Rural Area / Others,1
+73520,Schwäbisch Gmünd,9
+73521,Rural Area / Others,1
+73521,Schwäbisch Gmünd,12
+73522,Schwäbisch Gmünd,15
+73524,Schwäbisch Gmünd,19
+73525,Rural Area / Others,1
+73525,Schwäbisch Gmünd,14
+73527,Schwäbisch Gmünd,12
+73529,Schwäbisch Gmünd,17
+73538,Schwäbisch Gmünd,20
+73540,Schwäbisch Gmünd,23
+73563,Rural Area / Others,1
+73630,Rural Area / Others,1
+73663,Rural Area / Others,1
+73666,Rural Area / Others,1
+73726,Esslingen am Neckar,33
+73728,Esslingen am Neckar,39
+73728,Rural Area / Others,1
+73730,Esslingen am Neckar,36
+73730,Rural Area / Others,1
+73732,Esslingen am Neckar,41
+73732,Rural Area / Others,1
+73733,Esslingen am Neckar,26
+73734,Esslingen am Neckar,36
+73760,Rural Area / Others,1
+73779,Rural Area / Others,1
+74064,Heilbronn,20
+74065,Heilbronn,22
+74066,Heilbronn,28
+74067,Heilbronn,22
+74068,Heilbronn,30
+74068,Rural Area / Others,1
+74071,Heilbronn,21
+74072,Heilbronn,20
+74072,Rural Area / Others,1
+74074,Heilbronn,21
+74076,Heilbronn,31
+74078,Heilbronn,22
+74080,Heilbronn,30
+74081,Heilbronn,22
+74099,Rural Area / Others,1
+74167,Rural Area / Others,1
+74170,Rural Area / Others,1
+74206,Rural Area / Others,3
+74223,Rural Area / Others,1
+74232,Rural Area / Others,1
+74235,Rural Area / Others,1
+74239,Rural Area / Others,1
+74245,Rural Area / Others,1
+74248,Rural Area / Others,1
+74319,Rural Area / Others,1
+74321,Rural Area / Others,3
+74343,Rural Area / Others,1
+74360,Rural Area / Others,2
+74363,Rural Area / Others,1
+74369,Rural Area / Others,1
+74374,Rural Area / Others,1
+74389,Rural Area / Others,1
+74405,Rural Area / Others,1
+74417,Rural Area / Others,1
+74424,Rural Area / Others,1
+74426,Rural Area / Others,1
+74429,Rural Area / Others,3
+74509,Rural Area / Others,1
+74532,Rural Area / Others,2
+74564,Rural Area / Others,1
+74585,Rural Area / Others,1
+74588,Rural Area / Others,1
+74589,Rural Area / Others,1
+74592,Rural Area / Others,1
+74613,Rural Area / Others,1
+74632,Rural Area / Others,1
+74653,Rural Area / Others,1
+74673,Rural Area / Others,1
+74706,Rural Area / Others,1
+74731,Rural Area / Others,1
+74736,Rural Area / Others,1
+74743,Rural Area / Others,1
+74746,Rural Area / Others,3
+74831,Rural Area / Others,1
+74832,Rural Area / Others,1
+74847,Rural Area / Others,1
+74855,Rural Area / Others,2
+74906,Rural Area / Others,1
+74909,Rural Area / Others,1
+74915,Rural Area / Others,1
+74924,Rural Area / Others,1
+74930,Rural Area / Others,1
+74934,Rural Area / Others,1
+74937,Rural Area / Others,1
+74939,Rural Area / Others,1
+75013,Rural Area / Others,1
+75045,Rural Area / Others,1
+75093,Rural Area / Others,1
+75158,Pforzheim,11
+75159,Pforzheim,27
+75162,Pforzheim,27
+75162,Rural Area / Others,1
+75166,Pforzheim,23
+75169,Pforzheim,15
+75170,Pforzheim,24
+75172,Pforzheim,22
+75173,Pforzheim,23
+75173,Rural Area / Others,2
+75175,Pforzheim,29
+75177,Pforzheim,10
+75179,Pforzheim,26
+75180,Pforzheim,27
+75181,Pforzheim,20
+75194,Pforzheim,12
+75228,Rural Area / Others,1
+75233,Rural Area / Others,2
+75239,Rural Area / Others,1
+75248,Rural Area / Others,1
+75249,Rural Area / Others,1
+75305,Rural Area / Others,1
+75328,Rural Area / Others,1
+75331,Rural Area / Others,1
+75334,Rural Area / Others,1
+75335,Rural Area / Others,1
+75363,Rural Area / Others,2
+75378,Rural Area / Others,1
+75382,Rural Area / Others,2
+75389,Rural Area / Others,1
+75399,Rural Area / Others,1
+75417,Rural Area / Others,1
+76073,Rural Area / Others,1
+76098,Rural Area / Others,1
+76111,Rural Area / Others,1
+76113,Karlsruhe,35
+76114,Karlsruhe,39
+76115,Karlsruhe,30
+76117,Karlsruhe,26
+76118,Karlsruhe,28
+76119,Karlsruhe,31
+76120,Karlsruhe,25
+76120,Rural Area / Others,1
+76121,Karlsruhe,29
+76121,Rural Area / Others,1
+76122,Karlsruhe,20
+76123,Karlsruhe,35
+76123,Rural Area / Others,1
+76124,Karlsruhe,31
+76125,Karlsruhe,33
+76126,Karlsruhe,26
+76126,Rural Area / Others,1
+76127,Karlsruhe,26
+76128,Karlsruhe,24
+76128,Rural Area / Others,1
+76131,Karlsruhe,31
+76133,Karlsruhe,26
+76135,Karlsruhe,31
+76135,Rural Area / Others,1
+76137,Karlsruhe,28
+76137,Rural Area / Others,1
+76139,Karlsruhe,26
+76139,Rural Area / Others,1
+76147,Karlsruhe,40
+76149,Karlsruhe,27
+76150,Karlsruhe,31
+76181,Rural Area / Others,2
+76182,Rural Area / Others,1
+76185,Rural Area / Others,1
+76187,Rural Area / Others,1
+76225,Rural Area / Others,1
+76245,Rural Area / Others,1
+76249,Rural Area / Others,1
+76273,Rural Area / Others,1
+76275,Rural Area / Others,1
+76307,Rural Area / Others,1
+76314,Rural Area / Others,1
+76351,Rural Area / Others,1
+76432,Rastatt,24
+76432,Rural Area / Others,1
+76437,Rastatt,41
+76448,Rastatt,22
+76456,Rastatt,24
+76473,Rural Area / Others,1
+76474,Rural Area / Others,1
+76476,Rural Area / Others,1
+76477,Rural Area / Others,1
+76479,Rural Area / Others,1
+76517,Baden-Baden,9
+76519,Baden-Baden,7
+76520,Baden-Baden,10
+76521,Baden-Baden,9
+76522,Baden-Baden,12
+76522,Rural Area / Others,1
+76523,Baden-Baden,6
+76524,Baden-Baden,8
+76524,Rural Area / Others,1
+76526,Baden-Baden,14
+76527,Baden-Baden,9
+76530,Baden-Baden,6
+76532,Baden-Baden,7
+76532,Rural Area / Others,1
+76534,Baden-Baden,4
+76547,Baden-Baden,13
+76549,Baden-Baden,10
+76643,Rural Area / Others,1
+76646,Rural Area / Others,1
+76661,Rural Area / Others,1
+76669,Rural Area / Others,1
+76676,Rural Area / Others,1
+76689,Rural Area / Others,1
+76703,Rural Area / Others,1
+76726,Rural Area / Others,1
+76742,Rural Area / Others,1
+76751,Rural Area / Others,1
+76761,Rural Area / Others,1
+76768,Rural Area / Others,1
+76770,Rural Area / Others,2
+76774,Rural Area / Others,1
+76779,Rural Area / Others,1
+76825,Rural Area / Others,1
+76828,Rural Area / Others,2
+76831,Rural Area / Others,1
+76833,Rural Area / Others,2
+76846,Rural Area / Others,1
+77633,Offenburg,18
+77633,Rural Area / Others,1
+77642,Offenburg,15
+77644,Offenburg,12
+77646,Offenburg,11
+77646,Rural Area / Others,1
+77647,Offenburg,16
+77652,Offenburg,17
+77654,Offenburg,20
+77656,Offenburg,12
+77663,Offenburg,17
+77663,Rural Area / Others,2
+77704,Rural Area / Others,1
+77709,Rural Area / Others,1
+77716,Rural Area / Others,2
+77723,Rural Area / Others,1
+77761,Rural Area / Others,2
+77794,Rural Area / Others,1
+77796,Rural Area / Others,1
+77799,Rural Area / Others,1
+77836,Rural Area / Others,1
+77880,Rural Area / Others,2
+77883,Rural Area / Others,2
+77926,Lahr/Schwarzwald,24
+77929,Lahr/Schwarzwald,15
+77929,Rural Area / Others,1
+77931,Lahr/Schwarzwald,18
+77933,Lahr/Schwarzwald,24
+77933,Rural Area / Others,1
+77944,Lahr/Schwarzwald,21
+77948,Lahr/Schwarzwald,9
+77948,Rural Area / Others,1
+77963,Rural Area / Others,1
+77966,Rural Area / Others,1
+77972,Rural Area / Others,2
+78041,Rural Area / Others,1
+78041,Villingen-Schwenningen,19
+78044,Villingen-Schwenningen,21
+78045,Villingen-Schwenningen,20
+78046,Villingen-Schwenningen,19
+78048,Villingen-Schwenningen,20
+78050,Villingen-Schwenningen,21
+78052,Villingen-Schwenningen,18
+78054,Villingen-Schwenningen,14
+78056,Villingen-Schwenningen,25
+78060,Rural Area / Others,2
+78060,Villingen-Schwenningen,20
+78087,Rural Area / Others,1
+78120,Rural Area / Others,1
+78144,Rural Area / Others,1
+78147,Rural Area / Others,1
+78187,Rural Area / Others,1
+78194,Rural Area / Others,1
+78221,Rural Area / Others,1
+78234,Rural Area / Others,1
+78244,Rural Area / Others,1
+78256,Rural Area / Others,1
+78266,Rural Area / Others,1
+78315,Rural Area / Others,1
+78343,Rural Area / Others,2
+78351,Rural Area / Others,2
+78359,Rural Area / Others,1
+78454,Konstanz,18
+78454,Rural Area / Others,1
+78455,Konstanz,21
+78457,Konstanz,11
+78458,Konstanz,17
+78459,Konstanz,12
+78461,Konstanz,14
+78461,Rural Area / Others,1
+78462,Konstanz,13
+78464,Konstanz,18
+78464,Rural Area / Others,2
+78465,Konstanz,16
+78465,Rural Area / Others,1
+78467,Konstanz,19
+78476,Konstanz,10
+78479,Konstanz,21
+78532,Rural Area / Others,1
+78549,Rural Area / Others,1
+78564,Rural Area / Others,1
+78580,Rural Area / Others,1
+78595,Rural Area / Others,2
+78600,Rural Area / Others,1
+78603,Rural Area / Others,1
+78604,Rural Area / Others,1
+78607,Rural Area / Others,1
+78658,Rural Area / Others,2
+78662,Rural Area / Others,1
+78711,Rural Area / Others,1
+79077,Rural Area / Others,1
+79078,Freiburg im Breisgau,18
+79079,Freiburg im Breisgau,27
+79080,Freiburg im Breisgau,25
+79081,Freiburg im Breisgau,19
+79083,Freiburg im Breisgau,26
+79084,Freiburg im Breisgau,25
+79086,Freiburg im Breisgau,19
+79086,Rural Area / Others,1
+79088,Freiburg im Breisgau,16
+79090,Freiburg im Breisgau,24
+79091,Freiburg im Breisgau,18
+79091,Rural Area / Others,1
+79093,Freiburg im Breisgau,20
+79093,Rural Area / Others,1
+79094,Freiburg im Breisgau,22
+79094,Rural Area / Others,1
+79095,Freiburg im Breisgau,25
+79098,Freiburg im Breisgau,19
+79100,Freiburg im Breisgau,22
+79100,Rural Area / Others,1
+79102,Freiburg im Breisgau,12
+79104,Freiburg im Breisgau,18
+79106,Freiburg im Breisgau,18
+79106,Rural Area / Others,1
+79108,Freiburg im Breisgau,15
+79110,Freiburg im Breisgau,25
+79110,Rural Area / Others,1
+79111,Freiburg im Breisgau,28
+79112,Freiburg im Breisgau,28
+79114,Freiburg im Breisgau,19
+79115,Freiburg im Breisgau,19
+79117,Freiburg im Breisgau,14
+79140,Rural Area / Others,1
+79224,Rural Area / Others,1
+79282,Rural Area / Others,1
+79283,Rural Area / Others,2
+79285,Rural Area / Others,1
+79341,Rural Area / Others,1
+79364,Rural Area / Others,1
+79415,Rural Area / Others,1
+79418,Rural Area / Others,1
+79513,Rural Area / Others,1
+79533,Lörrach,17
+79533,Rural Area / Others,1
+79537,Lörrach,21
+79537,Rural Area / Others,1
+79539,Lörrach,25
+79540,Lörrach,21
+79541,Lörrach,28
+79541,Rural Area / Others,2
+79578,Rural Area / Others,2
+79594,Rural Area / Others,2
+79618,Rural Area / Others,1
+79650,Rural Area / Others,1
+79664,Rural Area / Others,1
+79669,Rural Area / Others,1
+79685,Rural Area / Others,1
+79689,Rural Area / Others,2
+79691,Rural Area / Others,1
+79694,Rural Area / Others,1
+79699,Rural Area / Others,1
+79736,Rural Area / Others,1
+79774,Rural Area / Others,3
+79777,Rural Area / Others,1
+79787,Rural Area / Others,1
+79793,Rural Area / Others,1
+79807,Rural Area / Others,1
+79809,Rural Area / Others,1
+79837,Rural Area / Others,2
+79871,Rural Area / Others,1
+80097,Rural Area / Others,1
+80219,Rural Area / Others,1
+80240,München,59
+80248,München,59
+80249,München,78
+80250,München,62
+80251,München,66
+80258,München,54
+80259,München,76
+80260,München,65
+80263,München,64
+80264,München,68
+80266,München,72
+80266,Rural Area / Others,1
+80267,München,58
+80268,München,54
+80269,München,62
+80270,München,67
+80271,München,57
+80271,Rural Area / Others,1
+80272,München,66
+80272,Rural Area / Others,1
+80273,München,66
+80273,Rural Area / Others,1
+80275,München,63
+80276,München,65
+80277,München,76
+80278,München,66
+80279,München,70
+80279,Rural Area / Others,1
+80280,München,54
+80281,München,69
+80282,München,63
+80283,München,69
+80285,München,79
+80287,München,66
+80289,München,63
+80289,Rural Area / Others,1
+80290,München,73
+80291,München,73
+80292,München,79
+80292,Rural Area / Others,1
+80294,München,64
+80295,München,62
+80295,Rural Area / Others,1
+80297,München,69
+80298,München,59
+80300,München,59
+80300,Rural Area / Others,1
+80301,München,68
+80301,Rural Area / Others,1
+80302,München,63
+80302,Rural Area / Others,1
+80303,München,59
+80304,München,88
+80306,München,51
+80308,München,64
+80309,München,68
+80310,München,61
+80311,München,62
+80313,München,57
+80314,München,61
+80314,Rural Area / Others,1
+80315,München,59
+80315,Rural Area / Others,2
+80316,München,61
+80317,München,77
+80317,Rural Area / Others,1
+80318,München,61
+80319,München,66
+80320,München,74
+80322,München,73
+80323,München,73
+80323,Rural Area / Others,1
+80324,München,71
+80325,München,52
+80326,München,70
+80327,München,59
+80328,München,67
+80329,München,58
+80331,München,65
+80333,München,65
+80335,München,63
+80336,München,57
+80337,München,66
+80337,Rural Area / Others,1
+80339,München,61
+80340,München,71
+80466,Rural Area / Others,1
+80534,Rural Area / Others,1
+80539,Rural Area / Others,1
+80634,Rural Area / Others,1
+80687,Rural Area / Others,1
+80689,Rural Area / Others,2
+80700,Rural Area / Others,1
+80787,Rural Area / Others,1
+80789,Rural Area / Others,1
+80794,Rural Area / Others,2
+80798,Rural Area / Others,1
+80799,Rural Area / Others,1
+80804,Rural Area / Others,1
+80997,Rural Area / Others,1
+81237,Rural Area / Others,1
+81241,Rural Area / Others,1
+81245,Rural Area / Others,2
+81249,Rural Area / Others,1
+81355,Rural Area / Others,2
+81356,Rural Area / Others,1
+81359,Rural Area / Others,2
+81363,Rural Area / Others,3
+81366,Rural Area / Others,3
+81371,Rural Area / Others,1
+81373,Rural Area / Others,1
+81477,Rural Area / Others,1
+81531,Rural Area / Others,1
+81534,Rural Area / Others,1
+81627,Rural Area / Others,1
+81655,Rural Area / Others,2
+81669,Rural Area / Others,1
+81673,Rural Area / Others,1
+81675,Rural Area / Others,1
+81677,Rural Area / Others,1
+81713,Rural Area / Others,2
+81723,Rural Area / Others,1
+81728,Rural Area / Others,1
+81737,Rural Area / Others,1
+81911,Rural Area / Others,1
+81927,Rural Area / Others,1
+81929,Rural Area / Others,1
+81988,Rural Area / Others,2
+81995,Rural Area / Others,1
+82024,Rural Area / Others,1
+82030,Rural Area / Others,1
+82032,Rural Area / Others,1
+82038,Rural Area / Others,1
+82041,Rural Area / Others,1
+82067,Rural Area / Others,2
+82175,Rural Area / Others,1
+82211,Rural Area / Others,2
+82229,Rural Area / Others,1
+82237,Rural Area / Others,1
+82254,Rural Area / Others,1
+82266,Rural Area / Others,1
+82275,Rural Area / Others,2
+82282,Rural Area / Others,1
+82285,Rural Area / Others,1
+82291,Rural Area / Others,2
+82296,Rural Area / Others,1
+82317,Rural Area / Others,1
+82335,Rural Area / Others,1
+82362,Rural Area / Others,1
+82363,Rural Area / Others,1
+82386,Rural Area / Others,1
+82387,Rural Area / Others,1
+82389,Rural Area / Others,1
+82392,Rural Area / Others,1
+82393,Rural Area / Others,1
+82405,Rural Area / Others,1
+82418,Rural Area / Others,1
+82433,Rural Area / Others,1
+82449,Rural Area / Others,1
+82467,Rural Area / Others,1
+82475,Rural Area / Others,1
+82481,Rural Area / Others,1
+82497,Rural Area / Others,1
+82499,Rural Area / Others,1
+82515,Rural Area / Others,1
+82549,Rural Area / Others,1
+83013,Rosenheim,10
+83018,Rosenheim,29
+83018,Rural Area / Others,1
+83019,Rosenheim,25
+83019,Rural Area / Others,1
+83022,Rosenheim,30
+83024,Rosenheim,23
+83024,Rural Area / Others,2
+83026,Rosenheim,26
+83059,Rural Area / Others,1
+83064,Rural Area / Others,1
+83088,Rural Area / Others,1
+83101,Rural Area / Others,1
+83109,Rural Area / Others,1
+83122,Rural Area / Others,1
+83126,Rural Area / Others,1
+83131,Rural Area / Others,1
+83137,Rural Area / Others,1
+83139,Rural Area / Others,1
+83228,Rural Area / Others,1
+83254,Rural Area / Others,1
+83257,Rural Area / Others,1
+83274,Rural Area / Others,1
+83276,Rural Area / Others,1
+83301,Rural Area / Others,1
+83308,Rural Area / Others,1
+83317,Rural Area / Others,1
+83346,Rural Area / Others,1
+83362,Rural Area / Others,1
+83365,Rural Area / Others,1
+83367,Rural Area / Others,1
+83371,Rural Area / Others,1
+83377,Rural Area / Others,1
+83395,Rural Area / Others,1
+83410,Rural Area / Others,1
+83458,Rural Area / Others,1
+83471,Rural Area / Others,1
+83489,Rural Area / Others,1
+83508,Rural Area / Others,1
+83536,Rural Area / Others,2
+83544,Rural Area / Others,1
+83546,Rural Area / Others,1
+83547,Rural Area / Others,1
+83567,Rural Area / Others,1
+83626,Rural Area / Others,1
+83627,Rural Area / Others,1
+83671,Rural Area / Others,1
+83684,Rural Area / Others,1
+83700,Rural Area / Others,1
+83707,Rural Area / Others,1
+83735,Rural Area / Others,1
+83737,Rural Area / Others,1
+84018,Landshut,26
+84018,Rural Area / Others,1
+84022,Landshut,13
+84023,Landshut,14
+84024,Landshut,16
+84026,Landshut,16
+84028,Landshut,11
+84030,Landshut,16
+84032,Landshut,21
+84034,Landshut,15
+84036,Landshut,9
+84079,Rural Area / Others,2
+84082,Rural Area / Others,1
+84098,Rural Area / Others,1
+84104,Rural Area / Others,1
+84109,Rural Area / Others,1
+84140,Rural Area / Others,1
+84152,Rural Area / Others,1
+84169,Rural Area / Others,1
+84184,Rural Area / Others,2
+84326,Rural Area / Others,1
+84335,Rural Area / Others,1
+84337,Rural Area / Others,1
+84339,Rural Area / Others,1
+84347,Rural Area / Others,1
+84371,Rural Area / Others,1
+84378,Rural Area / Others,1
+84381,Rural Area / Others,1
+84387,Rural Area / Others,1
+84389,Rural Area / Others,1
+84416,Rural Area / Others,1
+84419,Rural Area / Others,1
+84434,Rural Area / Others,1
+84435,Rural Area / Others,1
+84453,Rural Area / Others,1
+84513,Rural Area / Others,1
+84518,Rural Area / Others,1
+84539,Rural Area / Others,1
+84543,Rural Area / Others,1
+84550,Rural Area / Others,2
+84552,Rural Area / Others,1
+84553,Rural Area / Others,1
+84555,Rural Area / Others,1
+84556,Rural Area / Others,1
+84558,Rural Area / Others,1
+84559,Rural Area / Others,1
+84567,Rural Area / Others,1
+84570,Rural Area / Others,1
+84573,Rural Area / Others,1
+84579,Rural Area / Others,2
+85037,Ingolstadt,41
+85046,Ingolstadt,32
+85047,Ingolstadt,45
+85049,Ingolstadt,37
+85049,Rural Area / Others,2
+85051,Ingolstadt,40
+85053,Ingolstadt,40
+85055,Ingolstadt,36
+85057,Ingolstadt,39
+85071,Rural Area / Others,1
+85084,Rural Area / Others,1
+85095,Rural Area / Others,1
+85107,Rural Area / Others,1
+85120,Rural Area / Others,1
+85128,Rural Area / Others,1
+85129,Rural Area / Others,1
+85131,Rural Area / Others,1
+85132,Rural Area / Others,1
+85139,Rural Area / Others,1
+85221,Rural Area / Others,2
+85238,Rural Area / Others,1
+85250,Rural Area / Others,1
+85253,Rural Area / Others,1
+85254,Rural Area / Others,2
+85256,Rural Area / Others,1
+85273,Rural Area / Others,1
+85276,Rural Area / Others,1
+85283,Rural Area / Others,2
+85293,Rural Area / Others,1
+85298,Rural Area / Others,1
+85302,Rural Area / Others,1
+85309,Rural Area / Others,1
+85322,Rural Area / Others,1
+85356,Rural Area / Others,1
+85359,Rural Area / Others,1
+85376,Rural Area / Others,1
+85386,Rural Area / Others,1
+85406,Rural Area / Others,1
+85452,Rural Area / Others,1
+85465,Rural Area / Others,1
+85467,Rural Area / Others,1
+85521,Rural Area / Others,1
+85540,Rural Area / Others,1
+85567,Rural Area / Others,1
+85586,Rural Area / Others,1
+85604,Rural Area / Others,1
+85617,Rural Area / Others,1
+85630,Rural Area / Others,1
+85640,Rural Area / Others,1
+85643,Rural Area / Others,1
+85649,Rural Area / Others,1
+85653,Rural Area / Others,1
+85664,Rural Area / Others,1
+85711,Rural Area / Others,1
+85736,Rural Area / Others,1
+85762,Rural Area / Others,1
+85764,Rural Area / Others,1
+85777,Rural Area / Others,1
+85821,Rural Area / Others,1
+86121,Rural Area / Others,1
+86130,Augsburg,23
+86131,Augsburg,20
+86132,Augsburg,31
+86133,Augsburg,29
+86134,Augsburg,18
+86135,Augsburg,33
+86135,Rural Area / Others,1
+86136,Augsburg,30
+86136,Rural Area / Others,1
+86140,Augsburg,28
+86141,Augsburg,34
+86142,Augsburg,24
+86143,Augsburg,24
+86143,Rural Area / Others,1
+86144,Augsburg,29
+86145,Augsburg,30
+86147,Augsburg,28
+86150,Augsburg,20
+86152,Augsburg,26
+86153,Augsburg,28
+86154,Augsburg,17
+86156,Augsburg,26
+86156,Rural Area / Others,1
+86157,Augsburg,19
+86159,Augsburg,18
+86161,Augsburg,21
+86161,Rural Area / Others,1
+86163,Augsburg,26
+86165,Augsburg,18
+86167,Augsburg,30
+86169,Augsburg,31
+86169,Rural Area / Others,1
+86179,Rural Area / Others,1
+86216,Rural Area / Others,1
+86218,Rural Area / Others,1
+86219,Rural Area / Others,1
+86220,Rural Area / Others,1
+86221,Rural Area / Others,1
+86223,Rural Area / Others,1
+86379,Rural Area / Others,2
+86397,Rural Area / Others,1
+86399,Rural Area / Others,1
+86405,Rural Area / Others,1
+86420,Rural Area / Others,1
+86444,Rural Area / Others,2
+86447,Rural Area / Others,1
+86456,Rural Area / Others,2
+86470,Rural Area / Others,1
+86476,Rural Area / Others,1
+86480,Rural Area / Others,1
+86488,Rural Area / Others,1
+86492,Rural Area / Others,1
+86498,Rural Area / Others,2
+86507,Rural Area / Others,1
+86529,Rural Area / Others,1
+86556,Rural Area / Others,1
+86561,Rural Area / Others,1
+86577,Rural Area / Others,2
+86579,Rural Area / Others,1
+86633,Rural Area / Others,1
+86646,Rural Area / Others,2
+86647,Rural Area / Others,1
+86663,Rural Area / Others,1
+86669,Rural Area / Others,1
+86672,Rural Area / Others,2
+86675,Rural Area / Others,1
+86678,Rural Area / Others,1
+86679,Rural Area / Others,1
+86681,Rural Area / Others,1
+86687,Rural Area / Others,2
+86690,Rural Area / Others,1
+86698,Rural Area / Others,1
+86736,Rural Area / Others,1
+86741,Rural Area / Others,1
+86742,Rural Area / Others,1
+86753,Rural Area / Others,1
+86756,Rural Area / Others,1
+86825,Rural Area / Others,1
+86845,Rural Area / Others,1
+86850,Rural Area / Others,1
+86862,Rural Area / Others,1
+86863,Rural Area / Others,1
+86866,Rural Area / Others,1
+86875,Rural Area / Others,1
+86877,Rural Area / Others,1
+86879,Rural Area / Others,1
+86894,Rural Area / Others,1
+86922,Rural Area / Others,1
+86932,Rural Area / Others,1
+86944,Rural Area / Others,1
+86977,Rural Area / Others,1
+86984,Rural Area / Others,2
+86987,Rural Area / Others,1
+87428,Kempten (Allgäu),22
+87432,Kempten (Allgäu),25
+87435,Kempten (Allgäu),15
+87437,Kempten (Allgäu),11
+87439,Kempten (Allgäu),18
+87443,Kempten (Allgäu),23
+87443,Rural Area / Others,1
+87448,Kempten (Allgäu),18
+87452,Kempten (Allgäu),16
+87459,Rural Area / Others,1
+87466,Rural Area / Others,1
+87471,Rural Area / Others,1
+87480,Rural Area / Others,1
+87487,Rural Area / Others,1
+87491,Rural Area / Others,1
+87499,Rural Area / Others,1
+87629,Rural Area / Others,2
+87637,Rural Area / Others,1
+87648,Rural Area / Others,1
+87651,Rural Area / Others,1
+87654,Rural Area / Others,1
+87660,Rural Area / Others,1
+87665,Rural Area / Others,1
+87666,Rural Area / Others,2
+87668,Rural Area / Others,1
+87672,Rural Area / Others,2
+87674,Rural Area / Others,1
+87677,Rural Area / Others,1
+87700,Rural Area / Others,2
+87719,Rural Area / Others,1
+87724,Rural Area / Others,1
+87727,Rural Area / Others,1
+87730,Rural Area / Others,3
+87736,Rural Area / Others,1
+87737,Rural Area / Others,2
+87740,Rural Area / Others,1
+87746,Rural Area / Others,1
+87758,Rural Area / Others,2
+87760,Rural Area / Others,1
+87761,Rural Area / Others,1
+87776,Rural Area / Others,2
+87778,Rural Area / Others,2
+87784,Rural Area / Others,1
+87787,Rural Area / Others,1
+87789,Rural Area / Others,1
+88038,Friedrichshafen,20
+88039,Friedrichshafen,23
+88040,Friedrichshafen,15
+88041,Friedrichshafen,16
+88045,Friedrichshafen,22
+88045,Rural Area / Others,1
+88046,Friedrichshafen,19
+88048,Friedrichshafen,22
+88079,Rural Area / Others,1
+88094,Rural Area / Others,1
+88099,Rural Area / Others,1
+88129,Rural Area / Others,1
+88131,Rural Area / Others,1
+88138,Rural Area / Others,2
+88142,Rural Area / Others,2
+88149,Rural Area / Others,1
+88167,Rural Area / Others,1
+88171,Rural Area / Others,1
+88209,Ravensburg,24
+88212,Ravensburg,17
+88212,Rural Area / Others,1
+88213,Ravensburg,16
+88214,Ravensburg,19
+88214,Rural Area / Others,1
+88225,Ravensburg,21
+88226,Ravensburg,14
+88226,Rural Area / Others,1
+88237,Rural Area / Others,1
+88239,Rural Area / Others,1
+88248,Rural Area / Others,1
+88250,Rural Area / Others,1
+88263,Rural Area / Others,2
+88271,Rural Area / Others,1
+88279,Rural Area / Others,1
+88285,Rural Area / Others,1
+88315,Rural Area / Others,1
+88317,Rural Area / Others,1
+88319,Rural Area / Others,1
+88348,Rural Area / Others,1
+88371,Rural Area / Others,2
+88397,Rural Area / Others,1
+88410,Rural Area / Others,1
+88427,Rural Area / Others,1
+88436,Rural Area / Others,1
+88450,Rural Area / Others,1
+88454,Rural Area / Others,1
+88480,Rural Area / Others,1
+88481,Rural Area / Others,1
+88499,Rural Area / Others,1
+88518,Rural Area / Others,1
+88525,Rural Area / Others,1
+88527,Rural Area / Others,1
+88605,Rural Area / Others,2
+88631,Rural Area / Others,1
+88636,Rural Area / Others,1
+88637,Rural Area / Others,1
+88697,Rural Area / Others,2
+88718,Rural Area / Others,1
+89065,Ulm,23
+89068,Ulm,30
+89069,Ulm,29
+89070,Ulm,28
+89073,Ulm,28
+89075,Ulm,28
+89077,Ulm,36
+89079,Rural Area / Others,2
+89079,Ulm,29
+89081,Ulm,24
+89090,Ulm,30
+89165,Rural Area / Others,2
+89171,Rural Area / Others,2
+89173,Rural Area / Others,1
+89180,Rural Area / Others,1
+89186,Rural Area / Others,1
+89191,Neu-Ulm,23
+89192,Neu-Ulm,13
+89192,Rural Area / Others,1
+89194,Neu-Ulm,20
+89194,Rural Area / Others,1
+89195,Neu-Ulm,17
+89197,Neu-Ulm,19
+89198,Neu-Ulm,22
+89210,Neu-Ulm,4
+89229,Neu-Ulm,19
+89250,Rural Area / Others,1
+89278,Rural Area / Others,1
+89281,Rural Area / Others,2
+89294,Rural Area / Others,1
+89299,Rural Area / Others,2
+89343,Rural Area / Others,1
+89346,Rural Area / Others,1
+89350,Rural Area / Others,1
+89352,Rural Area / Others,1
+89358,Rural Area / Others,1
+89368,Rural Area / Others,1
+89420,Rural Area / Others,1
+89423,Rural Area / Others,1
+89428,Rural Area / Others,2
+89441,Rural Area / Others,1
+89516,Heidenheim an der Brenz,13
+89517,Heidenheim an der Brenz,17
+89517,Rural Area / Others,1
+89518,Heidenheim an der Brenz,12
+89518,Rural Area / Others,1
+89520,Heidenheim an der Brenz,16
+89520,Rural Area / Others,1
+89522,Heidenheim an der Brenz,20
+89537,Heidenheim an der Brenz,17
+89542,Heidenheim an der Brenz,16
+89551,Rural Area / Others,1
+89555,Rural Area / Others,1
+89561,Rural Area / Others,1
+89584,Rural Area / Others,1
+89597,Rural Area / Others,1
+89607,Rural Area / Others,1
+89608,Rural Area / Others,1
+89611,Rural Area / Others,1
+89613,Rural Area / Others,1
+90310,Rural Area / Others,2
+90316,Rural Area / Others,1
+90321,Rural Area / Others,1
+90330,Rural Area / Others,2
+90331,Rural Area / Others,2
+90334,Rural Area / Others,2
+90335,Rural Area / Others,1
+90337,Rural Area / Others,1
+90339,Rural Area / Others,1
+90344,Rural Area / Others,2
+90353,Rural Area / Others,1
+90356,Rural Area / Others,1
+90359,Rural Area / Others,1
+90402,Nürnberg,194
+90403,Nürnberg,243
+90403,Rural Area / Others,1
+90408,Nürnberg,191
+90409,Nürnberg,194
+90409,Rural Area / Others,2
+90411,Nürnberg,163
+90411,Rural Area / Others,1
+90419,Nürnberg,177
+90419,Rural Area / Others,1
+90473,Rural Area / Others,1
+90478,Rural Area / Others,2
+90489,Rural Area / Others,1
+90499,Rural Area / Others,2
+90518,Rural Area / Others,1
+90530,Rural Area / Others,1
+90547,Rural Area / Others,1
+90552,Rural Area / Others,1
+90559,Rural Area / Others,1
+90562,Rural Area / Others,1
+90574,Rural Area / Others,1
+90592,Rural Area / Others,1
+90599,Rural Area / Others,2
+90616,Rural Area / Others,1
+90619,Rural Area / Others,1
+90725,Fürth,41
+90725,Rural Area / Others,1
+90742,Fürth,32
+90744,Fürth,57
+90744,Rural Area / Others,1
+90752,Fürth,38
+90752,Rural Area / Others,1
+90754,Fürth,36
+90762,Fürth,41
+90762,Rural Area / Others,1
+90763,Fürth,44
+91048,Erlangen,32
+91050,Erlangen,29
+91051,Erlangen,34
+91052,Erlangen,31
+91054,Erlangen,22
+91056,Erlangen,38
+91058,Erlangen,35
+91058,Rural Area / Others,1
+91060,Erlangen,33
+91080,Rural Area / Others,1
+91086,Rural Area / Others,1
+91088,Rural Area / Others,1
+91094,Rural Area / Others,2
+91177,Rural Area / Others,1
+91180,Rural Area / Others,1
+91187,Rural Area / Others,1
+91189,Rural Area / Others,1
+91207,Rural Area / Others,2
+91217,Rural Area / Others,1
+91224,Rural Area / Others,1
+91230,Rural Area / Others,1
+91241,Rural Area / Others,2
+91245,Rural Area / Others,1
+91286,Rural Area / Others,1
+91299,Rural Area / Others,1
+91301,Rural Area / Others,1
+91338,Rural Area / Others,1
+91352,Rural Area / Others,1
+91353,Rural Area / Others,1
+91356,Rural Area / Others,1
+91365,Rural Area / Others,1
+91367,Rural Area / Others,1
+91369,Rural Area / Others,2
+91413,Rural Area / Others,1
+91443,Rural Area / Others,1
+91452,Rural Area / Others,1
+91459,Rural Area / Others,1
+91483,Rural Area / Others,1
+91486,Rural Area / Others,1
+91555,Rural Area / Others,1
+91572,Rural Area / Others,2
+91575,Rural Area / Others,1
+91578,Rural Area / Others,1
+91580,Rural Area / Others,1
+91589,Rural Area / Others,2
+91590,Rural Area / Others,2
+91592,Rural Area / Others,2
+91593,Rural Area / Others,1
+91596,Rural Area / Others,1
+91599,Rural Area / Others,1
+91601,Rural Area / Others,1
+91605,Rural Area / Others,1
+91619,Rural Area / Others,1
+91622,Rural Area / Others,1
+91626,Rural Area / Others,1
+91629,Rural Area / Others,2
+91720,Rural Area / Others,1
+91722,Rural Area / Others,2
+91725,Rural Area / Others,1
+91731,Rural Area / Others,1
+91781,Rural Area / Others,1
+91796,Rural Area / Others,1
+91801,Rural Area / Others,1
+91802,Rural Area / Others,1
+92219,Rural Area / Others,3
+92226,Rural Area / Others,1
+92227,Rural Area / Others,1
+92240,Rural Area / Others,1
+92253,Rural Area / Others,1
+92259,Rural Area / Others,1
+92269,Rural Area / Others,1
+92274,Rural Area / Others,1
+92287,Rural Area / Others,1
+92289,Rural Area / Others,2
+92355,Rural Area / Others,1
+92361,Rural Area / Others,3
+92369,Rural Area / Others,2
+92419,Rural Area / Others,1
+92421,Rural Area / Others,1
+92431,Rural Area / Others,1
+92521,Rural Area / Others,1
+92536,Rural Area / Others,2
+92543,Rural Area / Others,2
+92545,Rural Area / Others,1
+92552,Rural Area / Others,1
+92557,Rural Area / Others,1
+92626,Rural Area / Others,1
+92630,Rural Area / Others,1
+92631,Rural Area / Others,1
+92633,Rural Area / Others,1
+92670,Rural Area / Others,1
+92681,Rural Area / Others,1
+92690,Rural Area / Others,1
+92693,Rural Area / Others,1
+92705,Rural Area / Others,2
+92709,Rural Area / Others,1
+92727,Rural Area / Others,1
+93012,Regensburg,54
+93013,Regensburg,63
+93019,Regensburg,37
+93037,Regensburg,59
+93038,Regensburg,67
+93038,Rural Area / Others,1
+93039,Regensburg,52
+93042,Rural Area / Others,1
+93073,Rural Area / Others,1
+93077,Rural Area / Others,1
+93080,Rural Area / Others,1
+93086,Rural Area / Others,1
+93099,Rural Area / Others,1
+93107,Rural Area / Others,2
+93138,Rural Area / Others,1
+93142,Rural Area / Others,1
+93149,Rural Area / Others,1
+93152,Rural Area / Others,1
+93155,Rural Area / Others,1
+93158,Rural Area / Others,2
+93173,Rural Area / Others,1
+93176,Rural Area / Others,1
+93179,Rural Area / Others,1
+93180,Rural Area / Others,1
+93188,Rural Area / Others,1
+93189,Rural Area / Others,1
+93191,Rural Area / Others,1
+93192,Rural Area / Others,1
+93308,Rural Area / Others,1
+93309,Rural Area / Others,1
+93326,Rural Area / Others,1
+93343,Rural Area / Others,1
+93346,Rural Area / Others,1
+93352,Rural Area / Others,1
+93354,Rural Area / Others,2
+93358,Rural Area / Others,1
+93359,Rural Area / Others,1
+93411,Rural Area / Others,2
+93413,Rural Area / Others,1
+93426,Rural Area / Others,1
+93437,Rural Area / Others,1
+93444,Rural Area / Others,1
+93458,Rural Area / Others,1
+93466,Rural Area / Others,2
+93468,Rural Area / Others,1
+93473,Rural Area / Others,1
+93480,Rural Area / Others,1
+93482,Rural Area / Others,1
+93488,Rural Area / Others,1
+93489,Rural Area / Others,1
+93492,Rural Area / Others,1
+94028,Passau,18
+94030,Passau,28
+94032,Passau,20
+94032,Rural Area / Others,1
+94034,Passau,26
+94034,Rural Area / Others,2
+94036,Passau,24
+94086,Rural Area / Others,1
+94094,Rural Area / Others,1
+94104,Rural Area / Others,1
+94110,Rural Area / Others,1
+94118,Rural Area / Others,1
+94130,Rural Area / Others,1
+94136,Rural Area / Others,2
+94146,Rural Area / Others,1
+94154,Rural Area / Others,1
+94163,Rural Area / Others,1
+94169,Rural Area / Others,1
+94209,Rural Area / Others,1
+94232,Rural Area / Others,1
+94239,Rural Area / Others,2
+94244,Rural Area / Others,1
+94253,Rural Area / Others,2
+94258,Rural Area / Others,1
+94264,Rural Area / Others,2
+94267,Rural Area / Others,1
+94312,Rural Area / Others,1
+94333,Rural Area / Others,1
+94339,Rural Area / Others,1
+94344,Rural Area / Others,2
+94347,Rural Area / Others,1
+94348,Rural Area / Others,1
+94354,Rural Area / Others,1
+94356,Rural Area / Others,1
+94357,Rural Area / Others,1
+94360,Rural Area / Others,1
+94362,Rural Area / Others,1
+94365,Rural Area / Others,1
+94371,Rural Area / Others,1
+94374,Rural Area / Others,2
+94428,Rural Area / Others,1
+94436,Rural Area / Others,1
+94447,Rural Area / Others,1
+94505,Rural Area / Others,1
+94518,Rural Area / Others,2
+94526,Rural Area / Others,1
+94527,Rural Area / Others,1
+94535,Rural Area / Others,1
+94536,Rural Area / Others,1
+94538,Rural Area / Others,1
+94541,Rural Area / Others,1
+94545,Rural Area / Others,1
+94559,Rural Area / Others,1
+94560,Rural Area / Others,1
+94562,Rural Area / Others,1
+94563,Rural Area / Others,1
+94568,Rural Area / Others,1
+94571,Rural Area / Others,1
+94572,Rural Area / Others,1
+94579,Rural Area / Others,1
+95028,Rural Area / Others,1
+95032,Rural Area / Others,1
+95100,Rural Area / Others,2
+95131,Rural Area / Others,1
+95176,Rural Area / Others,1
+95185,Rural Area / Others,1
+95186,Rural Area / Others,1
+95197,Rural Area / Others,1
+95236,Rural Area / Others,1
+95336,Rural Area / Others,1
+95339,Rural Area / Others,1
+95346,Rural Area / Others,1
+95349,Rural Area / Others,2
+95358,Rural Area / Others,1
+95359,Rural Area / Others,1
+95362,Rural Area / Others,1
+95365,Rural Area / Others,1
+95410,Bayreuth,160
+95442,Rural Area / Others,1
+95455,Rural Area / Others,2
+95671,Rural Area / Others,2
+95680,Rural Area / Others,1
+95683,Rural Area / Others,1
+95691,Rural Area / Others,3
+95692,Rural Area / Others,1
+95695,Rural Area / Others,1
+95697,Rural Area / Others,1
+95707,Rural Area / Others,1
+95709,Rural Area / Others,1
+96031,Bamberg,3
+96035,Bamberg,24
+96039,Bamberg,19
+96044,Bamberg,24
+96044,Rural Area / Others,1
+96045,Bamberg,25
+96045,Rural Area / Others,1
+96047,Bamberg,20
+96049,Bamberg,28
+96049,Rural Area / Others,1
+96050,Bamberg,26
+96050,Rural Area / Others,2
+96052,Rural Area / Others,2
+96061,Rural Area / Others,1
+96076,Rural Area / Others,1
+96103,Rural Area / Others,1
+96120,Rural Area / Others,1
+96126,Rural Area / Others,1
+96132,Rural Area / Others,1
+96145,Rural Area / Others,1
+96154,Rural Area / Others,1
+96155,Rural Area / Others,1
+96160,Rural Area / Others,1
+96161,Rural Area / Others,2
+96163,Rural Area / Others,2
+96175,Rural Area / Others,1
+96178,Rural Area / Others,1
+96182,Rural Area / Others,1
+96187,Rural Area / Others,1
+96188,Rural Area / Others,1
+96190,Rural Area / Others,1
+96193,Rural Area / Others,1
+96194,Rural Area / Others,3
+96197,Rural Area / Others,1
+96222,Rural Area / Others,1
+96224,Rural Area / Others,1
+96247,Rural Area / Others,1
+96250,Rural Area / Others,1
+96260,Rural Area / Others,1
+96264,Rural Area / Others,1
+96268,Rural Area / Others,1
+96269,Rural Area / Others,1
+96275,Rural Area / Others,1
+96279,Rural Area / Others,1
+96349,Rural Area / Others,1
+96355,Rural Area / Others,3
+96358,Rural Area / Others,1
+96365,Rural Area / Others,1
+96435,Rural Area / Others,1
+96436,Rural Area / Others,1
+96444,Rural Area / Others,1
+96450,Rural Area / Others,2
+96465,Rural Area / Others,2
+96472,Rural Area / Others,1
+96476,Rural Area / Others,1
+96479,Rural Area / Others,2
+96482,Rural Area / Others,1
+96487,Rural Area / Others,1
+96524,Rural Area / Others,1
+96528,Rural Area / Others,1
+97024,Rural Area / Others,2
+97025,Rural Area / Others,2
+97064,Würzburg,21
+97066,Würzburg,34
+97067,Würzburg,22
+97070,Rural Area / Others,1
+97070,Würzburg,24
+97072,Rural Area / Others,1
+97072,Würzburg,28
+97074,Rural Area / Others,2
+97074,Würzburg,32
+97076,Würzburg,27
+97078,Würzburg,24
+97080,Würzburg,24
+97082,Rural Area / Others,1
+97082,Würzburg,31
+97084,Würzburg,25
+97103,Rural Area / Others,1
+97204,Rural Area / Others,2
+97225,Rural Area / Others,1
+97236,Rural Area / Others,1
+97239,Rural Area / Others,1
+97241,Rural Area / Others,1
+97246,Rural Area / Others,1
+97252,Rural Area / Others,1
+97267,Rural Area / Others,1
+97270,Rural Area / Others,1
+97285,Rural Area / Others,1
+97295,Rural Area / Others,2
+97346,Rural Area / Others,1
+97350,Rural Area / Others,1
+97355,Rural Area / Others,1
+97357,Rural Area / Others,1
+97359,Rural Area / Others,2
+97412,Schweinfurt,9
+97418,Schweinfurt,12
+97419,Schweinfurt,16
+97420,Schweinfurt,17
+97421,Schweinfurt,11
+97422,Schweinfurt,21
+97424,Schweinfurt,11
+97437,Rural Area / Others,1
+97437,Schweinfurt,12
+97440,Schweinfurt,10
+97450,Rural Area / Others,1
+97453,Rural Area / Others,1
+97464,Rural Area / Others,1
+97483,Rural Area / Others,2
+97486,Rural Area / Others,1
+97490,Rural Area / Others,1
+97494,Rural Area / Others,2
+97497,Rural Area / Others,1
+97505,Rural Area / Others,1
+97508,Rural Area / Others,2
+97514,Rural Area / Others,1
+97523,Rural Area / Others,1
+97528,Rural Area / Others,1
+97615,Rural Area / Others,1
+97616,Rural Area / Others,1
+97631,Rural Area / Others,1
+97720,Rural Area / Others,1
+97723,Rural Area / Others,1
+97725,Rural Area / Others,1
+97753,Rural Area / Others,1
+97776,Rural Area / Others,1
+97778,Rural Area / Others,1
+97791,Rural Area / Others,1
+97795,Rural Area / Others,1
+97816,Rural Area / Others,1
+97833,Rural Area / Others,1
+97837,Rural Area / Others,1
+97839,Rural Area / Others,1
+97845,Rural Area / Others,1
+97849,Rural Area / Others,1
+97851,Rural Area / Others,1
+97896,Rural Area / Others,1
+97901,Rural Area / Others,1
+97904,Rural Area / Others,1
+97950,Rural Area / Others,1
+97956,Rural Area / Others,1
+97980,Rural Area / Others,1
+97996,Rural Area / Others,1
+98497,Rural Area / Others,2
+98527,Rural Area / Others,1
+98528,Rural Area / Others,1
+98587,Rural Area / Others,1
+98596,Rural Area / Others,1
+98631,Rural Area / Others,2
+98666,Rural Area / Others,1
+98669,Rural Area / Others,1
+98708,Rural Area / Others,1
+98714,Rural Area / Others,2
+98744,Rural Area / Others,2
+98746,Rural Area / Others,1
+98749,Rural Area / Others,1
+99068,Erfurt,36
+99073,Erfurt,22
+99075,Erfurt,20
+99077,Erfurt,24
+99077,Rural Area / Others,1
+99078,Erfurt,19
+99079,Erfurt,19
+99080,Erfurt,23
+99081,Erfurt,24
+99081,Rural Area / Others,1
+99084,Erfurt,18
+99085,Erfurt,22
+99086,Erfurt,18
+99087,Erfurt,27
+99089,Erfurt,23
+99089,Rural Area / Others,1
+99091,Erfurt,23
+99092,Erfurt,23
+99094,Erfurt,23
+99096,Erfurt,20
+99097,Erfurt,15
+99098,Erfurt,22
+99099,Erfurt,23
+99099,Rural Area / Others,1
+99100,Erfurt,22
+99102,Erfurt,14
+99102,Rural Area / Others,2
+99114,Rural Area / Others,1
+99117,Rural Area / Others,1
+99189,Rural Area / Others,2
+99198,Rural Area / Others,2
+99420,Weimar,14
+99421,Rural Area / Others,1
+99421,Weimar,11
+99423,Weimar,17
+99425,Weimar,13
+99427,Rural Area / Others,1
+99427,Weimar,14
+99428,Rural Area / Others,1
+99428,Weimar,12
+99437,Rural Area / Others,1
+99437,Weimar,20
+99438,Rural Area / Others,1
+99438,Weimar,16
+99439,Weimar,14
+99441,Weimar,13
+99448,Rural Area / Others,2
+99610,Rural Area / Others,1
+99631,Rural Area / Others,1
+99707,Rural Area / Others,1
+99713,Rural Area / Others,3
+99768,Rural Area / Others,1
+99826,Rural Area / Others,1
+99834,Rural Area / Others,1
+99869,Rural Area / Others,1
+99894,Rural Area / Others,1
+99897,Rural Area / Others,1
+99994,Rural Area / Others,2
