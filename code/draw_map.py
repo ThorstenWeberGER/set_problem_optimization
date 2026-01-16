@@ -311,6 +311,5 @@ if __name__ == "__main__":
     logging.info("Starting map creation...")
     map_instance = create_map()
     
-    logging.info("Saving map to HTML file...")
     map_instance.save(BASE_CONFIG['map_path'])
-    logging.info("✓ Map saved successfully to BASE_CONFIG['map_path']")
+    logging.info("Map saved to BASE_CONFIG['map_path']")
