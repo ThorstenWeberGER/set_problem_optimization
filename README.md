@@ -6,13 +6,18 @@
 
 **The problem**: How to select minimal amount of outlets to cover a majority of customers? This is a classic optimization problem and can safe a lot of money. 
 
-**Inspired by** a business question of my recent intern.
+**Inspired by** a real world business question during my recent intern.
 
-**Fun fact**: As a Management Consultant we did solve these problems with a good map and some excel sheets. And always it was a long discussion - what is better. We did not use the math...
+**Fun fact**: As a Management Consultant I did this with my brain, with a good map and some excel sheets. And always it was a long discussion - what is better. We did not use the math...
 
-**The solution**, a modular Python system for optimizing customer service location placement using linear programming (PuLP) and interactive visualization (Folium).
+**The solution**: I used linear programming (PulP) optimizing the locations based on certain constraints. And the output is not just a list, but a beautiful interactive map visualization (Folium). Check it out.
 
-This repo showcases solutions for this classic real-world problem (Set Coverage Problem). This repo goes the whole way. From data collection, cleaning, optimization algorythms and finally map visualization of outcomes. 
+**Includes**
+- Set Coverage Problem Solver
+- Data collection and cleaning
+- Map visualization of outcomes
+- Strong data quality foundation
+- Logging, testing, validation 
 
 ## 📁 Project Structure
 
@@ -256,14 +261,14 @@ VALIDATION = {
 
 ## 🏆 Engineering Best Practices
 
-| Strategic Engineering | System Visualization |
-| :--- | :--- |
-| I didn't just write code; I wanted to create a reliable, well-tested and document solution which can easily be extended in the future. This project demonstrated how to apply software engineering principles — like modularity, defensive validation, and centralized configuration—transforms and user-friendliness. I went from prototyping in notebooks to py-files, modules, config files. And I implemented continuous logging, testing and validating ensuring that every result is verifiable, and every run is stable. | <img src="resources/" width="200" alt="System Overview"> |
+I didn't just write code; I wanted to create a reliable, well-tested and document solution which can easily be extended in the future. **Yes, I admit. I like data quality and predictable outcomes.** This project demonstrated how to apply software engineering principles — like modularity, defensive validation, and centralized configuration—transforms and user-friendliness. I went from prototyping in notebooks to py-files, modules, config files. And I implemented continuous logging, testing and validating ensuring that every result is verifiable, and every run is stable. 
 
-### The "Big Three" Patterns
+<img src="collaterals/best_practices.png" width="600" alt="System Overview"> |
+
+### The Three Patterns
 
 1.  **Defensive Validation Strategy**
-    *   *Why Use*: We don't hope for good data; we demand it. In data science, silent errors are the most dangerous.
+    *   *Why*: We don't hope for good data; govern good data and inform when bad data could corrupt decisions.
     *   *Result*: By implementing a dedicated `validator.py` with 8 distinct checkpoints (checking everything from file existence to mathematical feasibility), the system acts as its own quality assurance team. This drastically reduces runtime errors and ensures that if an optimization runs, the result is mathematically sound.
 
 2.  **Modular Architecture**
