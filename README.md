@@ -6,16 +6,23 @@
 
 ## 📁 Project Overview
 
-This project solves a classical facility location problem:
+This pet project of mine solves a classical facility location problem. It is inspired by a real-world business problem from a recent intern and my love for data, optimization and visualization.
 
-    How can we open the minimum number of stores to serve at least X% of customers within a given distance?
+    Min-Max-Problem: How can serve most customers with as few outlets as possible?
 
-- It simulates 90,000 customers across Germany 
-- determines optimal outlet locations using linear programming (PuLP). 
-- Results are delivered as interactive geospatial dashboards (Folium).
+**The solution** is build for real-world usage:
+- Simulates 90,000 customers across Germany using real-world postal code, city data and geocoding.
+- Allows diverse constraints and multiple constraint sets for modeling of different scenarios 
+- Determines optimal outlet locations using linear programming (PuLP) and geospatial analytics. 
+- Results are delivered as interactive maps (Folium) and CSV files with location data.
 
-**Key outcome:**
-A robust and reliable solution supporting business scenario analysis.
+**Key outcome:** A robust, reliable and automized recommendation solution supporting business scenario analysis.
+
+**Big Business Impact guaranteed!** 
+* Serving more customers will generate more revenue.
+* And every location not opened cuts enormous investments
+
+
 
 ## Tech Stack
 
@@ -26,6 +33,8 @@ A robust and reliable solution supporting business scenario analysis.
 * Folium (geospatial visualization)
 * pgeocode (PLZ geocoding)
 * Logging + custom validation framework
+
+**Note**: 1 hour runtime is nothing to worry. PulP takes it's sweet time. 
 
 ## 📁 Architecture
 
