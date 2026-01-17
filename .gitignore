@@ -1,6 +1,7 @@
 # Folders not relevant
-backlog_not_working_ideas/
 .secrets/
+_archive/
+_backlog/
 
 # Log files
 *.log

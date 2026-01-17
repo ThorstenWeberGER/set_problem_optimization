@@ -1,0 +1,5 @@
+city_name,plz,lat,lon,city_type,customers_covered_weighted,customers_covered_total
+Berlin,10115,52.52,13.4,Top 200,500.0,500
+"Munich, Bavaria",80331,48.14,11.58,Top 200,400.0,400
+Hamburg,20095,53.55,10.0,Top 200,300.0,300
+Cologne,50667,50.94,6.96,Top 200,250.0,250
