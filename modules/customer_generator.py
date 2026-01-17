@@ -36,7 +36,7 @@ def load_or_generate_customers(df_cities: pd.DataFrame, force_regenerate: bool =
         logger.info(f"Loading existing customer data from: {customer_path}")
         try:
             df_customers = pd.read_csv(customer_path, dtype={'plz5': str})
-            logger.info(f"  ✓ Loaded {len(df_customers)} customer records")
+            logger.info(f"  ✓ Loaded {len(df_customers)} rows")
             logger.info(f"  ✓ Total customers: {df_customers['customer_count'].sum():,}")
             
             # Validate structure
@@ -45,6 +45,9 @@ def load_or_generate_customers(df_cities: pd.DataFrame, force_regenerate: bool =
             
             # Handle duplicate PLZ codes (Validation #10)
             df_customers = _handle_duplicate_plz(df_customers)
+            
+            # Validate uniqueness (Validation #11)
+            validator.check_customer_uniqueness(df_customers)
             
             # Run quality checks
             validator.check_customer_distribution(df_customers)
@@ -58,6 +61,12 @@ def load_or_generate_customers(df_cities: pd.DataFrame, force_regenerate: bool =
     # Generate new customer data
     logger.info("Generating new synthetic customer data...")
     df_customers = generate_customer_data(df_cities)
+    
+    # Handle duplicate PLZ codes (Validation #10)
+    df_customers = _handle_duplicate_plz(df_customers)
+    
+    # Validate uniqueness (Validation #11)
+    validator.check_customer_uniqueness(df_customers)
     
     # Save for future use
     df_customers.to_csv(customer_path, index=False, encoding='utf-8')
@@ -101,10 +110,10 @@ def generate_customer_data(df_cities: pd.DataFrame) -> pd.DataFrame:
     total_pop_top10 = top10['population_total'].sum()
     
     for row in top10.itertuples():
-        city_customers = int((row.population_total / total_pop_top10) * quota_top10)
-        for _ in range(city_customers):
+        city_customers = int((row.population_total / total_pop_top10) * quota_top10) # Target customer share for this city based on population 
+        for _ in range(city_customers): # Assign every customer to a plz in an around this city
             # Larger radius for metropolises
-            plz = _get_real_nearby_plz(row.plz, 80, valid_plz_set)
+            plz = _get_real_nearby_plz(row.plz, 80, valid_plz_set) # check that plz is real
             customer_list.append([plz, row.city_name])
     
     # B. Segment: Cities 11-200 (56%)
@@ -125,7 +134,7 @@ def generate_customer_data(df_cities: pd.DataFrame) -> pd.DataFrame:
     
     for _ in range(quota_rural):
         random_valid_plz = np.random.choice(valid_plzs)
-        customer_list.append([random_valid_plz, "Rural Area / Others"])
+        customer_list.append([random_valid_plz, "Rural Area"])
     
     # Aggregate: Count customers per PLZ and city
     df = pd.DataFrame(customer_list, columns=['plz5', 'city_name'])

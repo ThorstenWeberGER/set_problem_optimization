@@ -119,9 +119,9 @@ def main():
         df_cities = data_loader.add_coordinates(df_cities, 'plz')
         
         # Load or generate customer data
-        df_customers = customer_generator.load_or_generate_customers(df_cities)
+        df_customers = customer_generator.load_or_generate_customers(df_cities, force_regenerate=True) # generate new data if True
         df_customers = data_loader.add_coordinates(df_customers, 'plz5')
-        
+        df_customers.to_csv(config.PATHS['customers'], index=False, encoding='utf-8')
         # ============================================================
         # STAGE 3: CONSTRAINT SET SELECTION
         # ============================================================
@@ -154,13 +154,19 @@ def main():
                 df_customers, df_cities, coverage, location_stats, constraint_set
             )
             
+            # Eliminate duplicate counts (assign customers to closest opened location)
+            location_stats = optimizer.resolve_customer_overlap(
+                df_customers, df_cities, coverage, location_stats, is_opened, is_served
+            )
+            
             # Store results
             results.append({
                 'constraint_set': constraint_set,
                 'problem': problem,
                 'is_opened': is_opened,
                 'is_served': is_served,
-                'location_stats': location_stats
+                'location_stats': location_stats,
+                'coverage': coverage
             })
             
             logger.info(f"Iteration {iteration} completed successfully.\n")
@@ -175,7 +181,9 @@ def main():
                 df_cities,
                 result['is_opened'],
                 result['location_stats'],
-                result['constraint_set']['name']
+                result['constraint_set']['name'],
+                result['coverage'],
+                result['is_served']
             )
         
         # ============================================================

@@ -1,7 +1,6 @@
 """
 Visualizer Module
 Creates comprehensive interactive maps combining optimization results and customer distribution.
-Merges functionality from draw_map.py and optimize_locations.py visualization.
 """
 
 import logging
@@ -10,7 +9,11 @@ import folium
 import pandas as pd
 import branca.colormap as cm
 import config
+from modules import validator
 
+# This modules logging messages will use the modules name
+# 2026-01-17 10:00:00 - modules.visualizer - INFO - Creating base map...
+# 2026-01-17 10:00:01 - modules.optimizer - INFO - Calculating coverage...
 logger = logging.getLogger(__name__)
 
 
@@ -42,20 +45,24 @@ def create_comprehensive_map(df_candidates: pd.DataFrame, df_demand: pd.DataFram
     # Initialize base map
     logger.info("Creating base map...")
     m = folium.Map(
-        location=[51.1657, 10.4515],  # Center of Germany
+        location=[51.1657, 10.4515],    # Center of Germany
         zoom_start=6,
-        tiles="CartoDB Positron",
-        control_scale=True
+        tiles="CartoDB Positron",       # grey scaled 
+        control_scale=True              # show scale bar on top
     )
     
     # Add layers in order (bottom to top)
-    _add_postal_code_choropleth_layer(m, df_demand)
     _add_state_borders_layer(m)
     _add_optimized_locations_layer(m, df_candidates, is_opened, location_stats, constraint_set)
+    _, topojson_data = _add_postal_code_choropleth_layer(m, df_demand)
+    
+    # Validate visualization integrity
+    if topojson_data:
+        validator.check_visualization_data_integrity(df_demand, topojson_data)
     
     # Add legends
     _add_constraint_legend(m, constraint_set)
-    _add_performance_legend(m, df_demand, is_opened, is_served)
+    _add_performance_legend(m, df_demand, is_opened, is_served) 
     
     # Add color scale for choropleth
     _add_color_scale_legend(m, df_demand)
@@ -63,7 +70,7 @@ def create_comprehensive_map(df_candidates: pd.DataFrame, df_demand: pd.DataFram
     # Add layer control
     folium.LayerControl(collapsed=False, autoZIndex=True).add_to(m)
     
-    # Save map
+    # Save map as file to results 
     map_path = config.PATHS['map_output'].format(constraint_set['name'])
     m.save(map_path)
     logger.info(f"✓ Map saved to: {map_path}")
@@ -71,14 +78,23 @@ def create_comprehensive_map(df_candidates: pd.DataFrame, df_demand: pd.DataFram
     return m
 
 
-def _add_postal_code_choropleth_layer(map_obj: folium.Map, df_customers: pd.DataFrame) -> None:
+def _add_postal_code_choropleth_layer(map_obj: folium.Map, df_customers: pd.DataFrame) -> tuple:
     """
     Add PLZ choropleth layer showing customer density.
+    
+    Returns:
+        A tuple containing:
+        - customer_map (dict): Mapping of PLZ to customer count.
+        - topojson_data (dict): The TopoJSON data with customer counts added to properties.
+        Returns ({}, {}) on failure.
+        
+    Note:
+        This feature is primarily implemented for testing purposes.
     """
     logger.info("Adding postal code choropleth layer...")
     
     try:
-        # Load TopoJSON
+        # Load TopoJSON and check format
         with open(config.PATHS['plz_topojson'], 'r', encoding='utf-8') as f:
             topojson_data = json.load(f)
         
@@ -88,10 +104,10 @@ def _add_postal_code_choropleth_layer(map_obj: folium.Map, df_customers: pd.Data
         
         logger.info(f"  TopoJSON loaded: {list(topojson_data['objects'].keys())}")
         
-        # Create feature group
+        # Create feature group for plz-layer allowing layer to be toggled on/off
         fg_plz = folium.FeatureGroup(name="Customer Distribution (PLZ)", show=True)
         
-        # Convert customer data to PLZ-to-count mapping
+        # Convert customer data to PLZ-to-customer_count mapping
         customer_map = {
             str(plz).split('.')[0].zfill(5): count
             for plz, count in zip(df_customers['plz5'], df_customers['customer_count'])
@@ -131,7 +147,7 @@ def _add_postal_code_choropleth_layer(map_obj: folium.Map, df_customers: pd.Data
         # Create TopoJSON layer
         topo = folium.TopoJson(
             topojson_data,
-            'objects.data',
+            'objects.data', 
             style_function=lambda feature: {
                 'fillColor': get_color(feature),
                 'color': '#999999',
@@ -152,11 +168,14 @@ def _add_postal_code_choropleth_layer(map_obj: folium.Map, df_customers: pd.Data
         topo.add_to(fg_plz)
         fg_plz.add_to(map_obj)
         logger.info("  ✓ Choropleth layer added")
+        return customer_map, topojson_data
         
     except FileNotFoundError:
         logger.error(f"TopoJSON file not found: {config.PATHS['plz_topojson']}")
+        return {}, {}
     except Exception as e:
         logger.error(f"Error adding choropleth layer: {e}")
+        return {}, {}
 
 
 def _add_state_borders_layer(map_obj: folium.Map) -> None:
