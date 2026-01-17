@@ -1,16 +1,18 @@
-# Location Optimization System v2.0
+# Set Coverage Optimizer - where to open a store? 
+
+<img src="collaterals/thinking_hard.png" width="500" alt="Heatmap">
 
 ## Reason why - my motivation
 
-**The problem**: How to select minimal amount of outlets to cover a majority of customers? 
-
-*A classic optimization problem.*
-
-This repo showcases solutions for this classic real-world problem (Set Coverage Problem). This repo goes the whole way. From data collection, cleaning, optimization algorythms and finally map visualization of outcomes. 
+**The problem**: How to select minimal amount of outlets to cover a majority of customers? This is a classic optimization problem and can safe a lot of money. 
 
 **Inspired by** a business question of my recent intern.
 
+**Fun fact**: As a Management Consultant we did solve these problems with a good map and some excel sheets. And always it was a long discussion - what is better. We did not use the math...
+
 **The solution**, a modular Python system for optimizing customer service location placement using linear programming (PuLP) and interactive visualization (Folium).
+
+This repo showcases solutions for this classic real-world problem (Set Coverage Problem). This repo goes the whole way. From data collection, cleaning, optimization algorythms and finally map visualization of outcomes. 
 
 ## 📁 Project Structure
 
@@ -61,16 +63,11 @@ pip install folium pandas numpy pulp pgeocode scikit-learn branca openpyxl
 python main.py
 ```
 
-### 3. Follow Interactive Prompts
+### 3. System workflow
 
-The system will:
-1. Validate all input files
-2. Load and clean city data
-3. Load existing customers (or generate new ones)
-4. Ask which constraint sets to run
-5. Run optimizations
-6. Create comprehensive maps
-7. Open results in browser
+<img src="collaterals/workflow.png" width="400" alt="Heatmap">
+
+
 
 ## 🔧 Configuration
 
@@ -116,12 +113,11 @@ CONSTRAINT_SETS = [
   - **Choropleth Layer**: Customer density by postal code
   - **Location Markers**: Optimized outlet locations
   - **Catchment Areas**: Service radius circles
-  - **State Borders**: Geographic reference
   - **Legends**: Constraints and performance metrics
 
 ## ✅ Validation Features
 
-The system performs 8 comprehensive validation checks:
+The system performs 9+ comprehensive validation checks:
 
 1. ✓ **File Existence** - Verifies all required input files
 2. ✓ **File Structure** - Checks required columns
@@ -131,7 +127,7 @@ The system performs 8 comprehensive validation checks:
 6. ⚠ **Coordinate Bounds** - Checks if locations are within Germany
 7. ⚠ **Coverage Feasibility** - Warns if service level is tight/impossible
 8. ⚠ **Customer Distribution** - Validates total customer counts
-10. ⚠ **Duplicate PLZ** - Sums duplicate postal codes with warning
+9. ⚠ **Duplicate PLZ** - Sums duplicate postal codes with warning
 
 **✓ = Critical (stops process) | ⚠ = Warning (displays 5s, continues)**
 
@@ -169,7 +165,7 @@ The system intelligently handles customer data:
 
 - **First run**: Generates synthetic customers → saves to `customers.csv`
 - **Subsequent runs**: Loads from `customers.csv` (faster)
-- **Force regeneration**: Delete `customers.csv` or modify `customer_generator.py`
+- **Force regeneration**: Choose when to fully refresh. Delete `customers.csv` or set switch in  `customer_generator.py`
 
 ## 📝 Logging
 
@@ -180,23 +176,17 @@ All operations are logged to `optimization_process.log` with format:
 
 Each module clearly identifies itself for easy debugging.
 
-## 🎨 Map Features
+## 🎨 Interactive map
 
-The comprehensive maps include:
+- **Interactive Layers (toggle on off)**
+   - Customer Distribution (PLZ choropleth)
+   - Optimized Locations (markers + circles)
+   - Federal State Borders for orientation
+- **Legends** giving context and showing main KPIs
+- **Tooltips** showing plz codes and details
 
-### Interactive Layers (toggle on/off)
-- Customer Distribution (PLZ choropleth)
-- Optimized Locations (markers + circles)
-- Federal State Borders
+<img src="resources/visualization.png" width="500" alt="Heatmap">
 
-### Legends
-- **Constraint Parameters**: Max distance, decay, costs
-- **Performance Metrics**: Total/covered customers, service level
-- **Color Scale**: Customer density gradient
-
-### Tooltips
-- PLZ codes with customer counts
-- Location details with coverage statistics
 
 ## 🛠️ Customization
 
@@ -226,33 +216,27 @@ VALIDATION = {
 
 ## 🐛 Troubleshooting
 
-### "Missing required input files"
+**"Missing required input files**
 → Ensure `sources/` folder contains all GeoJSON/TopoJSON files
 
-### "Geocoding failure rate is high"
+**"Geocoding failure rate is high"**
 → Check if PLZ codes in source data are valid German postal codes
 
-### "Service level is impossible"
+**"Service level is impossible"**
 → Increase `max_distance_km` or reduce `service_level` in config
 
-### "Optimization status: Infeasible"
+**"Optimization status: Infeasible"**
 → Constraints are too restrictive; adjust constraint set parameters
 
 ## 📚 Module Reference
 
-### `validator.py`
-- `check_input_files()` - Verify file existence
-- `check_constraint_logic()` - Validate parameters
-- `check_coverage_feasibility()` - Pre-optimization checks
-- `check_optimization_result()` - Post-optimization validation
+### `customer_generator.py`
+- `load_or_generate_customers()` - Smart customer data handling
+- `generate_customer_data()` - Synthetic data generation
 
 ### `data_loader.py`
 - `load_and_clean_cities()` - Process city data
 - `add_coordinates()` - Geocode locations
-
-### `customer_generator.py`
-- `load_or_generate_customers()` - Smart customer data handling
-- `generate_customer_data()` - Synthetic data generation
 
 ### `optimizer.py`
 - `calculate_coverage()` - Distance matrix computation
@@ -262,6 +246,48 @@ VALIDATION = {
 ### `visualizer.py`
 - `create_comprehensive_map()` - Unified map generation
 - Internal layer functions for choropleth, markers, legends
+
+
+### `validator.py`
+- `check_input_files()` - Verify file existence
+- `check_constraint_logic()` - Validate parameters
+- `check_coverage_feasibility()` - Pre-optimization checks
+- `check_optimization_result()` - Post-optimization validation
+
+## 🏆 Engineering Best Practices
+
+| Strategic Engineering | System Visualization |
+| :--- | :--- |
+| I didn't just write code; I wanted to create a reliable, well-tested and document solution which can easily be extended in the future. This project demonstrated how to apply software engineering principles — like modularity, defensive validation, and centralized configuration—transforms and user-friendliness. I went from prototyping in notebooks to py-files, modules, config files. And I implemented continuous logging, testing and validating ensuring that every result is verifiable, and every run is stable. | <img src="resources/" width="200" alt="System Overview"> |
+
+### The "Big Three" Patterns
+
+1.  **Defensive Validation Strategy**
+    *   *Why Use*: We don't hope for good data; we demand it. In data science, silent errors are the most dangerous.
+    *   *Result*: By implementing a dedicated `validator.py` with 8 distinct checkpoints (checking everything from file existence to mathematical feasibility), the system acts as its own quality assurance team. This drastically reduces runtime errors and ensures that if an optimization runs, the result is mathematically sound.
+
+2.  **Modular Architecture**
+    *   *Why Use*: Monolithic scripts are hard to debug, impossible to test, and scary to change.
+    *   *Result*: We split logic into dedicated modules (`data_loader`, `optimizer`, `visualizer`). This separation of concerns allows for rapid iteration—we can upgrade the visualization engine or swap the solver without risking the integrity of the rest of the system.
+
+3.  **Centralized Configuration**
+    *   *Why Use*: Hard-coding values buries business logic deep in the code where it's hard to find and change.
+    *   *Result*: Every tunable parameter—from service levels to cost bonuses—lives in `config.py`. This empowers users to run "what-if" scenarios instantly, changing business rules without needing to understand or touch the Python code.
+
+### Codebase Excellence Matrix
+
+| Best Practice | The "Why" & The Return |
+| :--- | :--- |
+| **Modular Design** | **Maintainability**: Breaks complex logic into manageable, single-purpose files. |
+| **Defensive Validation** | **Reliability**: Catches data issues (like missing files or bad coords) *before* they crash the solver. |
+| **Centralized Config** | **Agility**: Enables rapid scenario testing by decoupling parameters from code logic. |
+| **Unified Logging** | **Observability**: Detailed logs (`optimization_process.log`) make debugging and auditing effortless. |
+| **Smart Caching** | **Performance**: Reuses heavy data processes (like customer generation), saving time on repeat runs. |
+| **Type Hinting** | **Clarity**: Makes code self-documenting and helps IDEs prevent type-related bugs. |
+| **Synthetic Data Gen** | **Testability**: Ensures the system works out-of-the-box, even without proprietary input data. |
+| **Interactive Viz** | **Usability**: Delivers results in rich, interactive HTML maps rather than static images. |
+| **Clean Directory Structure** | **Onboarding**: Intuitive organization (`sources/`, `results/`) means zero ramp-up time for new users. |
+| **Feasibility Checks** | **Intelligence**: The system calculates if a goal is mathematically impossible *before* wasting compute time. |
 
 ## 📄 License
 
