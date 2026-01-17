@@ -1,6 +1,15 @@
 """
-Data Loader Module
-Handles loading and cleaning city data, geocoding, and coordinate enrichment.
+DATA LOADER MODULE
+------------------
+Handles ETL processes for city candidates and coordinate enrichment.
+
+Key Features:
+* Locale Normalization: Converts German numeric formats to standard Python floats/ints.
+* Schema Enforcement: Validates input structure and standardizes 5-digit PLZ codes.
+* GIS Integration: Enriches datasets with geocoded coordinates and radian conversions.
+* Data Tiering: Flags 'Top 200' metropolises to support weighted cost logic.
+
+Ensures the 'Supply Side' of the model is geographically accurate and structurally sound.
 """
 
 import logging

@@ -1,6 +1,16 @@
 """
-Optimizer Module
-Handles coverage calculation and PuLP optimization.
+OPTIMIZATION ENGINE MODULE
+--------------------------
+Solves the optimal location-allocation problem to maximize customer coverage at minimum cost.
+
+Key Capabilities:
+* Spatial Auditing: Computes Haversine distance matrices and geocodes PLZ data.
+* Weighted Decay: Models service quality drop-off using distance-based linear decay.
+* Linear Programming: Employs PuLP to minimize costs while hitting 'Service Level' targets.
+* Multi-Scenario Testing: Supports iterative runs across various constraint sets (e.g., Aggressive vs. Conservative).
+* Result Synthesis: Exports geocoded CSV results and interactive HTML map dashboards.
+
+The engine ensures logival site selection based on hard criteria.
 """
 
 import logging

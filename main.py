@@ -1,18 +1,19 @@
 """
-Main Orchestrator Script
-Coordinates the complete location optimization workflow.
+MAIN ORCHESTRATOR SCRIPT
+------------------------
+The central control hub for the Geographic Location Optimization System.
 
-Usage:
-    python main.py
-    
-Process:
-    1. Validate input files
-    2. Load and clean city data
-    3. Load or generate customer data
-    4. Select constraint sets to run
-    5. Run optimization for each selected constraint set
-    6. Create comprehensive visualization maps
-    7. Export results
+Workflow Management:
+* Stage 1: Pre-flight validation of input schemas and file integrity.
+* Stage 2: ETL pipeline execution (City cleaning & Customer synthesis).
+* Stage 3: Interactive scenario selection and logic verification.
+* Stage 4: Multi-run optimization loop with customer overlap resolution.
+* Stage 5: Structured export of geocoded optimization results.
+* Stage 6: Generation and automated launch of geospatial dashboards.
+
+Usage: 
+    Run via 'python main.py' for interactive mode. 
+    Ensure config.py is updated with correct file paths.
 """
 
 import logging
@@ -106,13 +107,13 @@ def main():
         # ============================================================
         # STAGE 1: PRE-FLIGHT VALIDATION
         # ============================================================
-        logger.info("\n[STAGE 1/6] PRE-FLIGHT VALIDATION")
+        logger.info("[STAGE 1/6] PRE-FLIGHT VALIDATION")
         validator.check_input_files()
         
         # ============================================================
         # STAGE 2: DATA LOADING & PREPARATION
         # ============================================================
-        logger.info("\n[STAGE 2/6] DATA LOADING & PREPARATION")
+        logger.info("[STAGE 2/6] DATA LOADING & PREPARATION")
         
         # Load and clean city data
         df_cities = data_loader.load_and_clean_cities()
@@ -125,13 +126,13 @@ def main():
         # ============================================================
         # STAGE 3: CONSTRAINT SET SELECTION
         # ============================================================
-        logger.info("\n[STAGE 3/6] CONSTRAINT SET SELECTION")
+        logger.info("[STAGE 3/6] CONSTRAINT SET SELECTION")
         selected_constraint_sets = select_constraint_sets()
         
         # ============================================================
         # STAGE 4: OPTIMIZATION LOOP
         # ============================================================
-        logger.info("\n[STAGE 4/6] RUNNING OPTIMIZATIONS")
+        logger.info("[STAGE 4/6] RUNNING OPTIMIZATIONS")
         logger.info(f"Processing {len(selected_constraint_sets)} constraint set(s)...\n")
         
         results = []
@@ -174,7 +175,7 @@ def main():
         # ============================================================
         # STAGE 5: RESULTS EXPORT
         # ============================================================
-        logger.info("\n[STAGE 5/6] EXPORTING RESULTS")
+        logger.info("[STAGE 5/6] EXPORTING RESULTS")
         
         for result in results:
             optimizer.export_results(
@@ -189,7 +190,7 @@ def main():
         # ============================================================
         # STAGE 6: VISUALIZATION
         # ============================================================
-        logger.info("\n[STAGE 6/6] CREATING VISUALIZATIONS")
+        logger.info("[STAGE 6/6] CREATING VISUALIZATIONS")
         
         map_paths = []
         for result in results:

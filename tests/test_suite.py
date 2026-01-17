@@ -867,7 +867,7 @@ class TestVisualizerChoropleth:
         with patch('builtins.open', MagicMock()) as mock_open, \
              patch('json.load', MagicMock(return_value=mock_topo_data)) as mock_json_load:
             
-            customer_map, topojson_data = visualizer._add_postal_code_choropleth_layer(
+            customer_map, topojson_data, min_val, max_val = visualizer._add_postal_code_choropleth_layer(
                 mock_map, df_customers
             )
 
@@ -879,6 +879,10 @@ class TestVisualizerChoropleth:
         assert customer_map['20095'] == 200 # Hamburg
         assert customer_map['80331'] == 400 # Munich
         assert sum(customer_map.values()) == 2300 # 500 + 800 + 1000
+        
+        # Assert on calculated scale values
+        assert min_val == 100
+        assert max_val == 400
 
         # Assert on the modified topojson_data
         geometries = topojson_data['objects']['data']['geometries']

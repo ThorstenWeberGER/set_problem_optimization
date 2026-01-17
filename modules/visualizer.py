@@ -1,6 +1,15 @@
 """
-Visualizer Module
-Creates comprehensive interactive maps combining optimization results and customer distribution.
+VISUALIZER MODULE
+-----------------
+Generates interactive, multi-layered geospatial visualizations of optimization results.
+
+Key Capabilities:
+* Interactive Mapping: Renders candidate locations, catchment zones, and state borders.
+* Choropleth Analytics: Visualizes customer density by PLZ with dynamic color scaling.
+* Integrated Dashboarding: Overlays floating KPI legends and constraint parameters.
+* Integrity Auditing: Validates visual data consistency against source demand data.
+
+Produces a standalone HTML map output used for strategic evaluation and reporting.
 """
 
 import logging
@@ -54,7 +63,7 @@ def create_comprehensive_map(df_candidates: pd.DataFrame, df_demand: pd.DataFram
     # Add layers in order (bottom to top)
     _add_state_borders_layer(m)
     _add_optimized_locations_layer(m, df_candidates, is_opened, location_stats, constraint_set)
-    _, topojson_data = _add_postal_code_choropleth_layer(m, df_demand)
+    _, topojson_data, min_val, max_val = _add_postal_code_choropleth_layer(m, df_demand)
     
     # Validate visualization integrity
     if topojson_data:
@@ -65,7 +74,8 @@ def create_comprehensive_map(df_candidates: pd.DataFrame, df_demand: pd.DataFram
     _add_performance_legend(m, df_demand, is_opened, is_served) 
     
     # Add color scale for choropleth
-    _add_color_scale_legend(m, df_demand)
+    # _add_color_scale_legend(m, min_val, max_val)
+    _add_color_scale_legend(m, min_val, 50 ) # manual override for better visibility
     
     # Add layer control
     folium.LayerControl(collapsed=False, autoZIndex=True).add_to(m)
@@ -86,7 +96,9 @@ def _add_postal_code_choropleth_layer(map_obj: folium.Map, df_customers: pd.Data
         A tuple containing:
         - customer_map (dict): Mapping of PLZ to customer count.
         - topojson_data (dict): The TopoJSON data with customer counts added to properties.
-        Returns ({}, {}) on failure.
+        - min_val (float): Minimum customer count displayed.
+        - max_val (float): Maximum customer count displayed.
+        Returns ({}, {}, 0, 0) on failure.
         
     Note:
         This feature is primarily implemented for testing purposes.
@@ -100,7 +112,7 @@ def _add_postal_code_choropleth_layer(map_obj: folium.Map, df_customers: pd.Data
         
         if 'objects' not in topojson_data:
             logger.error("Invalid TopoJSON format")
-            return
+            return {}, {}, 0, 0
         
         logger.info(f"  TopoJSON loaded: {list(topojson_data['objects'].keys())}")
         
@@ -112,6 +124,9 @@ def _add_postal_code_choropleth_layer(map_obj: folium.Map, df_customers: pd.Data
             str(plz).split('.')[0].zfill(5): count
             for plz, count in zip(df_customers['plz5'], df_customers['customer_count'])
         }
+        
+        # Track which PLZs from the customer data are actually found in the map
+        matched_plzs = set()
         
         # Add customer counts to TopoJSON geometries
         if 'data' in topojson_data['objects']:
@@ -125,14 +140,33 @@ def _add_postal_code_choropleth_layer(map_obj: folium.Map, df_customers: pd.Data
                     
                     if plz_val:
                         key = str(plz_val).split('.')[0].zfill(5)
-                        props['customer_count'] = customer_map.get(key, 0)
+                        count = customer_map.get(key, 0)
+                        props['customer_count'] = count
+                        
+                        if count > 0:
+                            matched_plzs.add(key)
                     else:
                         props['customer_count'] = 0
         
+        # Analyze and log the mismatch
+        all_customer_plzs = set(customer_map.keys())
+        missing_plzs = all_customer_plzs - matched_plzs
+        
+        if missing_plzs:
+            missing_customers = sum(customer_map[plz] for plz in missing_plzs)
+            logger.warning(f"  ⚠ MAP MISMATCH: {len(missing_plzs)} PLZ codes from customer data not found in TopoJSON.")
+            logger.warning(f"  ⚠ {missing_customers:,} customers are missing from the map visualization.")
+            logger.debug(f"  Sample missing PLZs: {sorted(list(missing_plzs))[:10]}")
+        
         # Create color scale
-        min_val = df_customers['customer_count'].min()
-        max_val = 50  # Manual cap for better visualization
-        colormap = cm.linear.viridis.scale(min_val, max_val)
+        # if matched_plzs:
+        #     displayed_values = [customer_map[plz] for plz in matched_plzs]
+        #     min_val = min(displayed_values)
+        #     max_val = max(displayed_values)
+        # else:
+        #     min_val = 0
+        #     max_val = 1
+        colormap = cm.linear.viridis.scale(0, 50)
         
         def get_color(feature):
             """Get color based on customer count."""
@@ -168,14 +202,14 @@ def _add_postal_code_choropleth_layer(map_obj: folium.Map, df_customers: pd.Data
         topo.add_to(fg_plz)
         fg_plz.add_to(map_obj)
         logger.info("  ✓ Choropleth layer added")
-        return customer_map, topojson_data
+        return customer_map, topojson_data, min_val, max_val
         
     except FileNotFoundError:
         logger.error(f"TopoJSON file not found: {config.PATHS['plz_topojson']}")
-        return {}, {}
+        return {}, {}, 0, 0
     except Exception as e:
         logger.error(f"Error adding choropleth layer: {e}")
-        return {}, {}
+        return {}, {}, 0, 0
 
 
 def _add_state_borders_layer(map_obj: folium.Map) -> None:
@@ -317,13 +351,10 @@ def _add_performance_legend(map_obj: folium.Map, df_demand: pd.DataFrame,
     map_obj.get_root().html.add_child(folium.Element(legend_html))
 
 
-def _add_color_scale_legend(map_obj: folium.Map, df_customers: pd.DataFrame) -> None:
+def _add_color_scale_legend(map_obj: folium.Map, min_val: float, max_val: float) -> None:
     """
     Add color scale legend for choropleth layer.
     """
-    min_val = df_customers['customer_count'].min()
-    max_val = 50  # Manual cap for better visualization
-    
     colormap = cm.linear.viridis.scale(min_val, max_val)
     colormap.caption = 'Customers per PLZ'
     colormap.add_to(map_obj)

@@ -5,6 +5,7 @@ Generates synthetic customer data or loads existing data.
 
 import logging
 import os
+import json
 import pandas as pd
 import numpy as np
 import pgeocode
@@ -156,9 +157,29 @@ def _get_valid_german_plzs() -> list:
     # Filter to keep only PLZs with valid coordinates
     all_data = nomi._data
     valid_data = all_data.dropna(subset=['latitude', 'longitude'])
+    geo_plzs = set(valid_data['postal_code'].unique())
     
-    logger.info(f"  Database loaded: {len(valid_data)} valid geographic ZIP codes")
-    return valid_data['postal_code'].unique().tolist()
+    # Filter against TopoJSON to ensure map compatibility
+    try:
+        with open(config.PATHS['plz_topojson'], 'r', encoding='utf-8') as f:
+            topo_data = json.load(f)
+            
+        map_plzs = set()
+        if 'objects' in topo_data and 'data' in topo_data['objects']:
+             geometries = topo_data['objects']['data'].get('geometries', [])
+             for geom in geometries:
+                 props = geom.get('properties', {})
+                 plz = props.get('plz') or props.get('postal_code') or props.get('plz5')
+                 if plz:
+                     map_plzs.add(str(plz).zfill(5))
+        
+        valid_plzs = list(geo_plzs.intersection(map_plzs))
+        logger.info(f"  Database loaded: {len(geo_plzs)} Geo-PLZs -> Filtered to {len(valid_plzs)} Map-Compatible PLZs")
+        return valid_plzs
+        
+    except Exception as e:
+        logger.warning(f"  ⚠ Could not filter PLZs against map file: {e}")
+        return list(geo_plzs)
 
 
 def _get_real_nearby_plz(base_plz: str, radius_variance: int, valid_plz_set: set) -> str:
@@ -182,9 +203,14 @@ def _get_real_nearby_plz(base_plz: str, radius_variance: int, valid_plz_set: set
             if test_plz in valid_plz_set:
                 return test_plz
         # Fallback if no nearby valid ZIP found
-        return str(base_plz).zfill(5)
+        formatted_base = str(base_plz).zfill(5)
+        if formatted_base in valid_plz_set:
+            return formatted_base
+        
+        # Last resort: return any valid PLZ to ensure map compatibility
+        return np.random.choice(list(valid_plz_set))
     except:
-        return str(base_plz).zfill(5)
+        return np.random.choice(list(valid_plz_set))
 
 
 def _handle_duplicate_plz(df: pd.DataFrame) -> pd.DataFrame:

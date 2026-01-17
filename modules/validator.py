@@ -1,10 +1,19 @@
 """
-Validation Module
+VALIDATION MODULE
+-----------------
+Provides runtime integrity checks for the geographic optimization pipeline.
+
+Key Responsibilities:
+* Critical Path: Validates file existence, schema structure, and logical constraints.
+* Data Quality: Audits coordinate bounds, PLZ formats, and geocoding success rates.
+* Optimization Audits: Verifies feasibility before execution and solution optimality.
+
+Enforces a 'fail-fast' policy for critical errors while providing timed warnings 
+for non-breaking data quality issues. 
 """
 
 import os
 import logging
-import time
 import pandas as pd
 import numpy as np
 from typing import Dict, List, Tuple
@@ -80,7 +89,7 @@ def check_geographic_quality(df: pd.DataFrame, plz_column: str = 'plz') -> None:
         logger.warning(f"  ⚠ {missing_coords} out of {total_rows} records failed geocoding ({failure_rate:.1%})")
         
         if failure_rate > config.VALIDATION['geocoding_warning_threshold']:
-            _display_warning(
+            logger.warning(
                 f"Geocoding failure rate is {failure_rate:.1%} (threshold: {config.VALIDATION['geocoding_warning_threshold']:.1%}). "
                 f"This may affect optimization quality."
             )
@@ -100,7 +109,6 @@ def check_geographic_quality(df: pd.DataFrame, plz_column: str = 'plz') -> None:
     
     if out_of_bounds > 0:
         logger.warning(f"  ⚠ {out_of_bounds} coordinates outside Germany's bounds - may be removed")
-        _display_warning(f"{out_of_bounds} locations have coordinates outside expected Germany bounds.")
     else:
         logger.info("  ✓ All coordinates within Germany bounds")
 
@@ -118,7 +126,6 @@ def check_customer_distribution(df_customers: pd.DataFrame) -> None:
     
     if abs(total_generated - expected_total) > 100:  # Allow small rounding differences
         logger.warning(f"  ⚠ Customer count mismatch: generated {total_generated}, expected {expected_total}")
-        _display_warning(f"Customer count differs from config: {total_generated} vs {expected_total}")
     else:
         logger.info(f"  ✓ Customer count matches config: {total_generated}")
     
@@ -126,7 +133,6 @@ def check_customer_distribution(df_customers: pd.DataFrame) -> None:
     invalid_plz = df_customers[df_customers['plz5'].str.len() != 5]
     if len(invalid_plz) > 0:
         logger.warning(f"  ⚠ Found {len(invalid_plz)} invalid PLZ codes (not 5 digits)")
-        _display_warning(f"{len(invalid_plz)} customer records have invalid PLZ codes.")
     else:
         logger.info("  ✓ All PLZ codes are valid (5 digits)")
     
@@ -199,7 +205,7 @@ def check_coverage_feasibility(coverage: Dict, df_demand: pd.DataFrame,
         raise ValidationError(error_msg)
     
     elif max_achievable_coverage < required_coverage + 0.05:  # Tight margin
-        _display_warning(
+        logger.warning(
             f"Coverage margin is tight: max achievable {max_achievable_coverage:.1%} "
             f"vs required {required_coverage:.1%}. Optimization may struggle."
         )
@@ -288,7 +294,6 @@ def check_visualization_data_integrity(df_customers: pd.DataFrame, topojson_data
         if diff > 0:
             msg += " (PLZs missing in TopoJSON?)"
         logger.warning(f"  ⚠ {msg}")
-        _display_warning(msg)
 
 
 def check_customer_uniqueness(df_customers: pd.DataFrame) -> None:
@@ -306,13 +311,3 @@ def check_customer_uniqueness(df_customers: pd.DataFrame) -> None:
         raise ValidationError(error_msg)
     
     logger.info("  ✓ All PLZ codes are unique")
-
-
-def _display_warning(message: str) -> None:
-    """
-    Display warning to user and wait for configured seconds.
-    """
-    logger.warning(message)
-    print(f"\n⚠️  WARNING: {message}")
-    print(f"   Continuing in {config.VALIDATION['warning_display_seconds']} seconds...\n")
-    time.sleep(config.VALIDATION['warning_display_seconds'])
