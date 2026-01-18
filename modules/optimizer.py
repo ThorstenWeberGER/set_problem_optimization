@@ -163,7 +163,7 @@ def run_optimization(df_demand: pd.DataFrame, df_candidates: pd.DataFrame,
     
     # Solve the problem
     logger.info("  Solving optimization problem...")
-    problem.solve(pulp.PULP_CBC_CMD(msg=False))
+    problem.solve(pulp.PULP_CBC_CMD(msg=True))
     
     logger.info(f"  ✓ Optimization complete: Status = {pulp.LpStatus[problem.status]}")
     
