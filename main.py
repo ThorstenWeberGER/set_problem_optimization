@@ -132,10 +132,11 @@ def main():
         # ============================================================
         # STAGE 4: OPTIMIZATION LOOP
         # ============================================================
-        logger.info("[STAGE 4/6] RUNNING OPTIMIZATIONS")
+        logger.info("[STAGE 4-6/6] RUNNING OPTIMIZATIONS, EXPORTING & VISUALIZING")
         logger.info(f"Processing {len(selected_constraint_sets)} constraint set(s)...\n")
         
         results = []
+        map_paths = []
         
         for iteration, constraint_set in enumerate(selected_constraint_sets, 1):
             logger.info("="*60)
@@ -160,51 +161,37 @@ def main():
                 df_customers, df_cities, coverage, location_stats, is_opened, is_served
             )
             
-            # Store results
+            # Export Results Immediately
+            logger.info(f"Exporting results for {constraint_set['name']}...")
+            optimizer.export_results(
+                df_cities,
+                is_opened,
+                location_stats,
+                constraint_set['name'],
+                coverage,
+                is_served
+            )
+
+            # Create Visualization Immediately
+            logger.info(f"Creating visualization for {constraint_set['name']}...")
+            visualizer.create_comprehensive_map(
+                df_cities,
+                df_customers,
+                is_opened,
+                is_served,
+                location_stats,
+                constraint_set
+            )
+            
+            map_path = config.PATHS['map_output'].format(constraint_set['name'])
+            map_paths.append(map_path)
+
+            # Store results for summary
             results.append({
                 'constraint_set': constraint_set,
-                'problem': problem,
-                'is_opened': is_opened,
-                'is_served': is_served,
-                'location_stats': location_stats,
-                'coverage': coverage
             })
             
             logger.info(f"Iteration {iteration} completed successfully.\n")
-        
-        # ============================================================
-        # STAGE 5: RESULTS EXPORT
-        # ============================================================
-        logger.info("[STAGE 5/6] EXPORTING RESULTS")
-        
-        for result in results:
-            optimizer.export_results(
-                df_cities,
-                result['is_opened'],
-                result['location_stats'],
-                result['constraint_set']['name'],
-                result['coverage'],
-                result['is_served']
-            )
-        
-        # ============================================================
-        # STAGE 6: VISUALIZATION
-        # ============================================================
-        logger.info("[STAGE 6/6] CREATING VISUALIZATIONS")
-        
-        map_paths = []
-        for result in results:
-            map_obj = visualizer.create_comprehensive_map(
-                df_cities,
-                df_customers,
-                result['is_opened'],
-                result['is_served'],
-                result['location_stats'],
-                result['constraint_set']
-            )
-            
-            map_path = config.PATHS['map_output'].format(result['constraint_set']['name'])
-            map_paths.append(map_path)
         
         # ============================================================
         # COMPLETION
@@ -223,7 +210,7 @@ def main():
             print(f"  • optimized_locations_{result['constraint_set']['name']}.csv")
             print(f"  • optimization_map_{result['constraint_set']['name']}.html")
         
-        # Open first map in browser
+        # Open map in browser
         if map_paths:
             print(f"\nOpening map in browser: {os.path.basename(map_paths[0])}")
             webbrowser.open('file://' + os.path.realpath(map_paths[0]))

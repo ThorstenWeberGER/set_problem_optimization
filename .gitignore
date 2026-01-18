@@ -2,6 +2,8 @@
 .secrets/
 _archive/
 _backlog/
+_archive/
+buglist.md
 
 # Log files
 *.log
